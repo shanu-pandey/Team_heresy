@@ -1,4 +1,4 @@
-﻿Log file open, 11/28/17 09:14:48
+﻿Log file open, 11/28/17 09:55:52
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +7,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: CastleOfPerdition
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(-30678296) SRandInit(-30678296).
+LogInit: Display: RandInit(-425135279) SRandInit(-425135279).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.167554
+LogStats: Stats thread started at 0.164747
 LogD3D11RHI: Aftermath initialized
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin LightPropagationVolume
@@ -196,255 +196,164 @@ LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2017.11.28-16.14.50:933][  0]LogInit: Selected Device Profile: [Windows]
-[2017.11.28-16.14.50:933][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2017.11.28-16.14.50:954][  0]LogInit: Computer: eae-d-057
-[2017.11.28-16.14.50:954][  0]LogInit: User: u1139622
-[2017.11.28-16.14.50:954][  0]LogInit: CPU Page size=4096, Cores=4
-[2017.11.28-16.14.50:954][  0]LogInit: High frequency timer resolution =3.326084 MHz
-[2017.11.28-16.14.50:954][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
-[2017.11.28-16.14.50:954][  0]LogMemory: Platform Memory Stats for Windows
-[2017.11.28-16.14.50:954][  0]LogMemory: Process Physical Memory: 278.41 MB used, 278.41 MB peak
-[2017.11.28-16.14.50:954][  0]LogMemory: Process Virtual Memory: 276.20 MB used, 276.20 MB peak
-[2017.11.28-16.14.50:954][  0]LogMemory: Physical Memory: 10491.64 MB used,  22213.01 MB free, 32704.65 MB total
-[2017.11.28-16.14.50:954][  0]LogMemory: Virtual Memory: 701.91 MB used,  22213.01 MB free, 134217728.00 MB total
-[2017.11.28-16.14.51:202][  0]LogInit: Using OS detected language (en-US).
-[2017.11.28-16.14.51:202][  0]LogInit: Using OS detected locale (en-US).
-[2017.11.28-16.14.51:257][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2017.11.28-16.14.51:675][  0]LogInit: Setting process to per monitor DPI aware
-[2017.11.28-16.14.53:581][  0]LogD3D11RHI: D3D11 adapters:
-[2017.11.28-16.14.53:626][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
-[2017.11.28-16.14.53:626][  0]LogD3D11RHI:       8096/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2017.11.28-16.14.53:627][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2017.11.28-16.14.53:627][  0]LogD3D11RHI:       0/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2017.11.28-16.14.53:627][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2017.11.28-16.14.53:634][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2017.11.28-16.14.53:634][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
-[2017.11.28-16.14.53:634][  0]LogWindows: EnumDisplayDevices:
-[2017.11.28-16.14.53:634][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
-[2017.11.28-16.14.53:634][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
-[2017.11.28-16.14.53:634][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
-[2017.11.28-16.14.53:634][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
-[2017.11.28-16.14.53:634][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2017.11.28-16.14.53:634][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
-[2017.11.28-16.14.53:634][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
-[2017.11.28-16.14.53:634][  0]LogD3D11RHI:      Driver Date: 10-27-2017
-[2017.11.28-16.14.53:634][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
-[2017.11.28-16.14.53:668][  0]LogD3D11RHI: Async texture creation enabled
-[2017.11.28-16.14.53:678][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2017.11.28-16.14.53:764][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/Intermediate/Shaders/WorkingDirectory/29320/).
-[2017.11.28-16.14.53:764][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u1139622/AppData/Local/Temp/UnrealShaderWorkingDir/9651AF6F411160B702A0108AE5B0AEA0/'.
-[2017.11.28-16.14.53:764][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2017.11.28-16.14.55:385][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2017.11.28-16.14.55:429][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2017.11.28-16.14.55:474][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2017.11.28-16.14.55:518][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2017.11.28-16.14.55:568][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2017.11.28-16.14.55:614][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2017.11.28-16.14.55:660][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2017.11.28-16.14.55:706][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2017.11.28-16.14.55:744][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2017.11.28-16.14.55:789][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2017.11.28-16.14.55:832][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2017.11.28-16.14.55:877][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2017.11.28-16.14.55:921][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2017.11.28-16.14.55:964][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2017.11.28-16.14.56:051][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2017.11.28-16.14.56:051][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2017.11.28-16.14.56:099][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2017.11.28-16.14.56:132][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2017.11.28-16.14.56:218][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2017.11.28-16.14.56:242][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2017.11.28-16.14.56:286][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2017.11.28-16.14.56:330][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2017.11.28-16.14.56:375][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2017.11.28-16.14.56:421][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2017.11.28-16.14.56:421][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2017.11.28-16.14.56:885][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2017.11.28-16.14.56:964][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/u1139622/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2017.11.28-16.14.56:964][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/u1139622/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2017.11.28-16.14.56:964][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2017.11.28-16.14.56:964][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2017.11.28-16.14.56:964][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2017.11.28-16.14.56:964][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2017.11.28-16.14.56:984][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2017.11.28-16.14.56:996][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u1139622/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2017.11.28-16.14.57:006][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2017.11.28-16.14.57:006][  0]LogSlate: Using Freetype 2.6.0
-[2017.11.28-16.14.57:019][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.11.28-16.14.57:019][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.11.28-16.14.57:459][  0]LogInit: Selected Device Profile: [Windows]
-[2017.11.28-16.14.57:863][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2017.11.28-16.14.57:898][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2017.11.28-16.14.57:898][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2017.11.28-16.14.57:898][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2017.11.28-16.14.57:898][  0]LogMeshReduction: No automatic mesh merging module available
-[2017.11.28-16.14.57:898][  0]LogMeshMerging: No automatic mesh merging module available
-[2017.11.28-16.14.57:943][  0]LogNetVersion: CastleOfPerdition , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 261315538)
-[2017.11.28-16.14.58:260][  0]LogAssetRegistry: FAssetRegistry took 0.0254 seconds to start up
-[2017.11.28-16.14.59:075][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.064726 seconds
-[2017.11.28-16.14.59:081][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
-[2017.11.28-16.14.59:081][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
-[2017.11.28-16.14.59:081][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2017.11.28-16.14.59:129][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2017.11.28-16.15.03:128][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2017.11.28-16.15.03:169][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2017.11.28-16.15.03:904][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2017.11.28-16.15.04:305][  0]SourceControl: Source control is disabled
-[2017.11.28-16.15.04:305][  0]SourceControl: Source control is disabled
-[2017.11.28-16.15.04:353][  0]SourceControl: Source control is disabled
-[2017.11.28-16.15.04:400][  0]SourceControl: Source control is disabled
-[2017.11.28-16.15.05:170][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2017.11.28-16.15.05:433][  0]LogOcInput: OculusInput pre-init called
-[2017.11.28-16.15.05:695][  0]LogEngine: Initializing Engine...
-[2017.11.28-16.15.05:697][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2017.11.28-16.15.05:913][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2017.11.28-16.15.05:913][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2017.11.28-16.15.06:021][  0]LogAIModule: Creating AISystem for world Untitled
-[2017.11.28-16.15.06:038][  0]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2017.11.28-16.15.06:047][  0]LogInit: FAudioDevice initialized.
-[2017.11.28-16.15.06:125][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/u1139622/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2017.11.28-16.15.06:140][  0]LogInit: Texture streaming: Enabled
-[2017.11.28-16.15.06:226][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2017.11.28-16.15.06:339][  0]LogInit: Transaction tracking system initialized
-[2017.11.28-16.15.06:608][  0]BlueprintLog: New page: Editor Load
-[2017.11.28-16.15.07:437][  0]LocalizationService: Localization service is disabled
-[2017.11.28-16.15.08:102][  0]LogConsoleResponse: Display: 
-[2017.11.28-16.15.08:413][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2017.11.28-16.15.08:413][  0]LogCook: Display: Mobile HDR setting 1
-[2017.11.28-16.15.08:413][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2017.11.28-16.15.09:460][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/Content/' took 0.02s
-[2017.11.28-16.15.09:501][  0]SourceControl: Source control is disabled
-[2017.11.28-16.15.09:501][  0]Cmd: MAP LOAD FILE="../../../../../../Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2017.11.28-16.15.09:501][  0]LightingResults: New page: Lighting Build
-[2017.11.28-16.15.09:545][  0]MapCheck: New page: Map Check
-[2017.11.28-16.15.09:545][  0]LightingResults: New page: Lighting Build
-[2017.11.28-16.15.09:712][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
-[2017.11.28-16.15.09:719][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2017.11.28-16.15.09:729][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2017.11.28-16.15.09:783][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 53.72ms to complete.
-[2017.11.28-16.15.09:783][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.281
-[2017.11.28-16.15.09:947][  0]LogCollectionManager: Loaded 0 collections in 0.001858 seconds
-[2017.11.28-16.15.10:022][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/Saved/Collections/' took 0.01s
-[2017.11.28-16.15.10:022][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/Content/Developers/u1139622/Collections/' took 0.01s
-[2017.11.28-16.15.10:022][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/Content/Collections/' took 0.01s
-[2017.11.28-16.15.10:022][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
-[2017.11.28-16.15.10:031][  0]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2365 classes and 521 folders.
-[2017.11.28-16.15.10:087][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
-[2017.11.28-16.15.10:340][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
-[2017.11.28-16.15.10:379][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
-[2017.11.28-16.15.11:427][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
-[2017.11.28-16.15.11:459][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.CastleOfPerdition
-[2017.11.28-16.15.11:459][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
-[2017.11.28-16.15.11:460][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
-[2017.11.28-16.15.11:460][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
-[2017.11.28-16.15.11:460][  0]LogSlate: Took 0.006293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2017.11.28-16.15.11:471][  0]LogTemp: BranchPath = eae-d-057/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = eae-d-057/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
-[2017.11.28-16.15.11:471][  0]LogSlate: Took 0.005219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2017.11.28-16.15.11:481][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\u1139622\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
-[2017.11.28-16.15.11:481][  0]LogSlate: Took 0.006514 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2017.11.28-16.15.11:582][  0]LogRenderer: Reallocating scene render targets to support 1528x648 Format 10 NumSamples 1 (Frame:1).
-[2017.11.28-16.15.11:741][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
-[2017.11.28-16.15.11:741][  0]LogLoad: (Engine Initialization) Total time: 24.63 seconds
-[2017.11.28-16.15.11:741][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2017.11.28-16.15.11:742][  0]LogExternalProfiler: Found external profiler: VSPerf
-[2017.11.28-16.15.11:742][  0]LogExternalProfiler: Using external profiler: VSPerf
-[2017.11.28-16.15.11:774][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2017.11.28-16.15.11:814][  0]LogSlate: Took 0.004058 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2017.11.28-16.15.11:825][  1]LogAssetRegistry: Asset discovery search completed in 13.5866 seconds
-[2017.11.28-16.15.11:827][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2017.11.28-16.15.11:827][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
-[2017.11.28-16.15.19:046][849]LogTemp: Repeating last play command: Selected Viewport
-[2017.11.28-16.15.19:079][849]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
-[2017.11.28-16.15.19:080][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.11.28-16.15.19:080][849]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 28, 2017, 2:15:19 AM)
-[2017.11.28-16.15.19:080][849]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
-[2017.11.28-16.15.19:083][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002795s)
-[2017.11.28-16.15.19:084][849]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
-[2017.11.28-16.15.19:084][849]LogPlayLevel: PIE: World Init took: (0.000853s)
-[2017.11.28-16.15.19:085][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003988s)
-[2017.11.28-16.15.19:106][849]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2017.11.28-16.15.19:111][849]LogInit: FAudioDevice initialized.
-[2017.11.28-16.15.19:157][849]LogLoad: Game class is 'CastleOfPerditionGameMode'
-[2017.11.28-16.15.19:159][849]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.11.28-09.15.19
-[2017.11.28-16.15.19:159][849]LogWorld: Bringing up level for play took: 0.001278
-[2017.11.28-16.15.19:198][849]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
-[2017.11.28-16.15.19:199][849]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.613
-[2017.11.28-16.15.19:200][849]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
-[2017.11.28-16.15.47:135][199]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
-[2017.11.28-16.15.47:166][199]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
-[2017.11.28-16.15.53:281][927]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2017.11.28-16.15.53:619][927]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 116 classes and 0 folders.
-[2017.11.28-16.15.54:199][927]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2017.11.28-16.15.54:276][927]LogSlate: Took 0.004268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2017.11.28-16.15.54:444][928]LogSlate: Took 0.003688 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2017.11.28-16.18.15:309][751]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2017.11.28-16.19.54:325][978]LogSlate: Took 0.004201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
-[2017.11.28-16.20.02:518][736]LogClass: Warning: Type mismatch in time of SKEL_BP_2DSideScrollerCharacter_C - Previous (StructProperty) Current(FloatProperty) for package:  FObjectReader
-[2017.11.28-16.20.26:995][581]BlueprintLog: New page: Compile BP_2DSideScrollerCharacter
-[2017.11.28-16.20.59:990][579]LogLinker: Can't find file '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
-[2017.11.28-16.20.59:990][579]LogLinker: Can't find file '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
-[2017.11.28-16.21.56:641][ 43]BlueprintLog: New page: Compile BP_2DSideScrollerCharacter
-[2017.11.28-16.26.59:823][273]BlueprintLog: New page: Compile BP_2DSideScrollerCharacter
-[2017.11.28-16.28.05:909][662]LogSavePackage: Save=172.68ms
-[2017.11.28-16.28.05:909][662]LogSavePackage: Moving '../../../../../../Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/Saved/2DSideScrollerExampleMap_Auto1B81F015F434478A6B17DA68C3846F3FF.tmp' to '../../../../../../Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/Saved/Autosaves/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_Auto1.umap'
-[2017.11.28-16.28.05:912][662]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/Saved/Autosaves/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_Auto1.umap
-[2017.11.28-16.28.05:919][662]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap' took 0.219
-[2017.11.28-16.28.05:919][662]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.219
-[2017.11.28-16.28.05:921][662]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter] ([1] browsable assets)...
-[2017.11.28-16.28.05:921][662]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter]
-[2017.11.28-16.28.06:042][662]LogSavePackage: Save=105.01ms
-[2017.11.28-16.28.06:042][662]LogSavePackage: Moving '../../../../../../Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/Saved/BP_2DSideScrollerCharacter_Auto1C260BF644926B8355887B98EC3456C71.tmp' to '../../../../../../Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/Saved/Autosaves/Game/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter_Auto1.uasset'
-[2017.11.28-16.28.06:044][662]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/Saved/Autosaves/Game/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter_Auto1.uasset
-[2017.11.28-16.28.06:044][662]LogFileHelpers: Auto-saving content packages took 0.124
-[2017.11.28-16.31.16:100][367]BlueprintLog: New page: Compile BP_2DSideScrollerCharacter
-[2017.11.28-16.31.47:469][734]BlueprintLog: New page: Compile BP_2DSideScrollerCharacter
-[2017.11.28-16.31.55:491][657]LogTemp: Repeating last play command: Selected Viewport
-[2017.11.28-16.31.55:528][657]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
-[2017.11.28-16.31.55:528][657]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.11.28-16.31.55:528][657]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 28, 2017, 2:31:55 AM)
-[2017.11.28-16.31.55:528][657]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
-[2017.11.28-16.31.55:531][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002993s)
-[2017.11.28-16.31.55:532][657]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
-[2017.11.28-16.31.55:532][657]LogPlayLevel: PIE: World Init took: (0.000785s)
-[2017.11.28-16.31.55:532][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004044s)
-[2017.11.28-16.31.55:561][657]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2017.11.28-16.31.55:567][657]LogInit: FAudioDevice initialized.
-[2017.11.28-16.31.55:616][657]LogLoad: Game class is 'CastleOfPerditionGameMode'
-[2017.11.28-16.31.55:618][657]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.11.28-09.31.55
-[2017.11.28-16.31.55:618][657]LogWorld: Bringing up level for play took: 0.001428
-[2017.11.28-16.31.55:620][657]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap 1.048
-[2017.11.28-16.31.55:620][657]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
-[2017.11.28-16.31.55:704][657]LogRenderer: Reallocating scene render targets to support 1528x756 Format 10 NumSamples 1 (Frame:1).
-[2017.11.28-16.32.04:386][689]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
-[2017.11.28-16.32.04:450][689]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
-[2017.11.28-16.39.51:470][968]BlueprintLog: New page: Compile BP_2DSideScrollerCharacter
-[2017.11.28-16.40.09:297][ 49]LogTemp: Repeating last play command: Selected Viewport
-[2017.11.28-16.40.09:333][ 49]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
-[2017.11.28-16.40.09:333][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.11.28-16.40.09:333][ 49]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 28, 2017, 2:40:09 AM)
-[2017.11.28-16.40.09:333][ 49]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
-[2017.11.28-16.40.09:336][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002543s)
-[2017.11.28-16.40.09:336][ 49]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
-[2017.11.28-16.40.09:336][ 49]LogPlayLevel: PIE: World Init took: (0.000653s)
-[2017.11.28-16.40.09:337][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003459s)
-[2017.11.28-16.40.09:366][ 49]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2017.11.28-16.40.09:372][ 49]LogInit: FAudioDevice initialized.
-[2017.11.28-16.40.09:415][ 49]LogLoad: Game class is 'CastleOfPerditionGameMode'
-[2017.11.28-16.40.09:417][ 49]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.11.28-09.40.09
-[2017.11.28-16.40.09:418][ 49]LogWorld: Bringing up level for play took: 0.001580
-[2017.11.28-16.40.09:420][ 49]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.853
-[2017.11.28-16.40.09:420][ 49]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
-[2017.11.28-16.40.19:799][279]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
-[2017.11.28-16.40.19:865][279]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
-[2017.11.28-16.40.45:837][514]LogSavePackage: Save=143.08ms
-[2017.11.28-16.40.45:837][514]LogSavePackage: Moving '../../../../../../Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/Saved/2DSideScrollerExampleMap_Auto2FE698BE545DDB68C28D6A69302297A89.tmp' to '../../../../../../Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/Saved/Autosaves/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_Auto2.umap'
-[2017.11.28-16.40.45:839][514]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/Saved/Autosaves/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_Auto2.umap
-[2017.11.28-16.40.45:842][514]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap' took 0.180
-[2017.11.28-16.40.45:842][514]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.180
-[2017.11.28-16.40.45:844][514]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter] ([1] browsable assets)...
-[2017.11.28-16.40.45:844][514]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter]
-[2017.11.28-16.40.45:962][514]LogSavePackage: Save=104.48ms
-[2017.11.28-16.40.45:962][514]LogSavePackage: Moving '../../../../../../Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/Saved/BP_2DSideScrollerCharacter_Auto2788E086D4B8241C7268CD8AB73B06DE1.tmp' to '../../../../../../Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/Saved/Autosaves/Game/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter_Auto2.uasset'
-[2017.11.28-16.40.45:963][514]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/Saved/Autosaves/Game/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter_Auto2.uasset
-[2017.11.28-16.40.45:963][514]LogFileHelpers: Auto-saving content packages took 0.120
+[2017.11.28-16.55.54:150][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.28-16.55.54:150][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.28-16.55.54:162][  0]LogInit: Computer: eae-d-057
+[2017.11.28-16.55.54:162][  0]LogInit: User: u1139622
+[2017.11.28-16.55.54:162][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.28-16.55.54:162][  0]LogInit: High frequency timer resolution =3.326084 MHz
+[2017.11.28-16.55.54:163][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2017.11.28-16.55.54:163][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.28-16.55.54:163][  0]LogMemory: Process Physical Memory: 278.09 MB used, 278.09 MB peak
+[2017.11.28-16.55.54:163][  0]LogMemory: Process Virtual Memory: 274.10 MB used, 274.10 MB peak
+[2017.11.28-16.55.54:163][  0]LogMemory: Physical Memory: 9852.98 MB used,  22851.67 MB free, 32704.65 MB total
+[2017.11.28-16.55.54:163][  0]LogMemory: Virtual Memory: 698.82 MB used,  22851.67 MB free, 134217728.00 MB total
+[2017.11.28-16.55.54:292][  0]LogInit: Using OS detected language (en-US).
+[2017.11.28-16.55.54:292][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.28-16.55.54:294][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.28-16.55.54:710][  0]LogInit: Setting process to per monitor DPI aware
+[2017.11.28-16.55.54:926][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.28-16.55.54:979][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.11.28-16.55.54:979][  0]LogD3D11RHI:       8096/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.11.28-16.55.54:980][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.28-16.55.54:980][  0]LogD3D11RHI:       0/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.28-16.55.54:980][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.28-16.55.54:987][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.28-16.55.54:987][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.28-16.55.54:987][  0]LogWindows: EnumDisplayDevices:
+[2017.11.28-16.55.54:987][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.11.28-16.55.54:987][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2017.11.28-16.55.54:987][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.11.28-16.55.54:987][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.11.28-16.55.54:987][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.11.28-16.55.54:987][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.11.28-16.55.54:987][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2017.11.28-16.55.54:987][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2017.11.28-16.55.54:987][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2017.11.28-16.55.55:021][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.28-16.55.55:031][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.28-16.55.55:115][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/Intermediate/Shaders/WorkingDirectory/19888/).
+[2017.11.28-16.55.55:116][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u1139622/AppData/Local/Temp/UnrealShaderWorkingDir/90C4C1D44995D62A915B53B0894E71AA/'.
+[2017.11.28-16.55.55:116][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.28-16.55.55:976][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.28-16.55.56:030][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.28-16.55.56:085][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.28-16.55.56:139][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.28-16.55.56:187][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.28-16.55.56:234][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.28-16.55.56:279][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.28-16.55.56:327][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.28-16.55.56:374][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.28-16.55.56:421][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.28-16.55.56:473][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.28-16.55.56:520][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.28-16.55.56:568][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.28-16.55.56:613][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.28-16.55.56:708][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.28-16.55.56:708][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.28-16.55.56:756][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.28-16.55.56:791][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.28-16.55.56:873][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.28-16.55.56:898][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.28-16.55.56:944][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.28-16.55.56:989][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.28-16.55.57:034][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.28-16.55.57:080][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.28-16.55.57:080][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.28-16.55.57:509][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.28-16.55.57:595][  0]LogDerivedDataCache: Loaded boot cache 0.09s 78MB C:/Users/u1139622/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.28-16.55.57:595][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/u1139622/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.11.28-16.55.57:595][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.28-16.55.57:595][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.28-16.55.57:595][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.28-16.55.57:595][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.28-16.55.57:610][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.28-16.55.57:622][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u1139622/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.28-16.55.57:632][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.28-16.55.57:633][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.28-16.55.57:633][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.28-16.55.57:633][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.28-16.55.57:977][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.28-16.55.58:280][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.28-16.55.58:319][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.28-16.55.58:319][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.28-16.55.58:319][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.28-16.55.58:319][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.28-16.55.58:319][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.28-16.55.58:348][  0]LogNetVersion: CastleOfPerdition , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 261315538)
+[2017.11.28-16.55.58:498][  0]LogAssetRegistry: FAssetRegistry took 0.0253 seconds to start up
+[2017.11.28-16.55.59:006][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.068453 seconds
+[2017.11.28-16.55.59:012][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.11.28-16.55.59:012][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.11.28-16.55.59:012][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.28-16.55.59:061][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.28-16.56.01:690][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2017.11.28-16.56.01:690][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.28-16.56.01:729][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.28-16.56.02:363][  0]LogFileManager: Warning: DeleteFile recovered during retry!
+[2017.11.28-16.56.02:393][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.28-16.56.02:798][  0]SourceControl: Source control is disabled
+[2017.11.28-16.56.02:798][  0]SourceControl: Source control is disabled
+[2017.11.28-16.56.02:846][  0]SourceControl: Source control is disabled
+[2017.11.28-16.56.02:894][  0]SourceControl: Source control is disabled
+[2017.11.28-16.56.03:625][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.28-16.56.03:875][  0]LogOcInput: OculusInput pre-init called
+[2017.11.28-16.56.04:116][  0]LogEngine: Initializing Engine...
+[2017.11.28-16.56.04:118][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.28-16.56.04:323][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.28-16.56.04:323][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.28-16.56.04:435][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.28-16.56.04:452][  0]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.28-16.56.04:462][  0]LogInit: FAudioDevice initialized.
+[2017.11.28-16.56.04:539][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/u1139622/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.28-16.56.04:556][  0]LogInit: Texture streaming: Enabled
+[2017.11.28-16.56.04:644][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.28-16.56.04:762][  0]LogInit: Transaction tracking system initialized
+[2017.11.28-16.56.05:043][  0]BlueprintLog: New page: Editor Load
+[2017.11.28-16.56.05:804][  0]LocalizationService: Localization service is disabled
+[2017.11.28-16.56.06:477][  0]LogConsoleResponse: Display: 
+[2017.11.28-16.56.06:641][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.28-16.56.06:641][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.28-16.56.06:641][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.28-16.56.06:938][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/Content/' took 0.01s
+[2017.11.28-16.56.07:727][  0]SourceControl: Source control is disabled
+[2017.11.28-16.56.07:727][  0]Cmd: MAP LOAD FILE="../../../../../../Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.28-16.56.07:728][  0]LightingResults: New page: Lighting Build
+[2017.11.28-16.56.07:765][  0]MapCheck: New page: Map Check
+[2017.11.28-16.56.07:765][  0]LightingResults: New page: Lighting Build
+[2017.11.28-16.56.07:941][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.11.28-16.56.07:948][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.28-16.56.07:958][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.28-16.56.08:006][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.856ms to complete.
+[2017.11.28-16.56.08:006][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.279
+[2017.11.28-16.56.08:146][  0]LogCollectionManager: Loaded 0 collections in 0.001778 seconds
+[2017.11.28-16.56.08:222][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/Saved/Collections/' took 0.01s
+[2017.11.28-16.56.08:222][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/Content/Developers/u1139622/Collections/' took 0.01s
+[2017.11.28-16.56.08:222][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1139622/Source/Repos/Team_heresy/CastleOfPerdition/Content/Collections/' took 0.01s
+[2017.11.28-16.56.08:222][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.28-16.56.08:231][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2365 classes and 521 folders.
+[2017.11.28-16.56.08:289][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.11.28-16.56.08:327][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.11.28-16.56.08:366][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.11.28-16.56.09:312][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.11.28-16.56.09:339][  0]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.28-16.56.09:344][  0]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.28-16.56.09:347][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.CastleOfPerdition
+[2017.11.28-16.56.09:347][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.11.28-16.56.09:347][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2017.11.28-16.56.09:347][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.11.28-16.56.09:347][  0]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.28-16.56.09:447][  0]LogTemp: BranchPath = eae-d-057/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = eae-d-057/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2017.11.28-16.56.09:447][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\u1139622\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.11.28-16.56.09:447][  0]LogRenderer: Reallocating scene render targets to support 1528x648 Format 10 NumSamples 1 (Frame:1).
+[2017.11.28-16.56.09:641][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.11.28-16.56.09:642][  0]LogLoad: (Engine Initialization) Total time: 18.57 seconds
+[2017.11.28-16.56.09:642][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.28-16.56.09:642][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.11.28-16.56.09:642][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.11.28-16.56.10:006][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.28-16.56.10:042][  0]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.28-16.56.10:322][  1]LogAssetRegistry: Asset discovery search completed in 11.8454 seconds
+[2017.11.28-16.56.10:323][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.28-16.56.10:323][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2017.11.28-16.56.10:984][  3]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
