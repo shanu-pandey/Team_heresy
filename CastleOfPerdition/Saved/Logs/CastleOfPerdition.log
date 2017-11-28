@@ -7619,3 +7619,296 @@ Script call stack:
 [2017.11.28-19.37.05:918][566]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Autosaves/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_Auto8.umap
 [2017.11.28-19.37.05:921][566]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap' took 0.177
 [2017.11.28-19.37.05:921][566]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.177
+[2017.11.28-19.37.39:156][956]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.37.39:156][956]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.37.39:157][956]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.37.39:158][956]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.37.39:160][956]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.37.39:165][957]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.37.39:166][957]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.37.39:168][957]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.37.39:189][958]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.37.39:189][958]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.37.39:192][958]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.37.44:514][564]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.37.44:514][564]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.37.44:516][564]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.37.44:518][564]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.37.44:523][565]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.37.44:524][565]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.37.44:526][565]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.37.44:549][566]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.41.23:626][497]LogSavePackage: Save=135.31ms
+[2017.11.28-19.41.23:626][497]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DSideScrollerExampleMap9DED0D974E832402BB895F8245DEE030.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.umap'
+[2017.11.28-19.41.23:630][497]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.umap
+[2017.11.28-19.41.23:658][497]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 1.497
+[2017.11.28-19.43.00:347][895]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-19.43.00:364][895]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.11.28-19.43.00:364][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-19.43.00:365][895]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 28, 2017, 5:43:00 AM)
+[2017.11.28-19.43.00:365][895]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.11.28-19.43.00:368][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002827s)
+[2017.11.28-19.43.00:368][895]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.11.28-19.43.00:368][895]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2017.11.28-19.43.00:368][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003753s)
+[2017.11.28-19.43.00:395][895]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.28-19.43.00:401][895]LogInit: FAudioDevice initialized.
+[2017.11.28-19.43.00:434][895]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.11.28-19.43.00:435][895]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.11.28-12.43.00
+[2017.11.28-19.43.00:435][895]LogWorld: Bringing up level for play took: 0.001107
+[2017.11.28-19.43.00:436][895]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap 1.069
+[2017.11.28-19.43.00:437][895]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.11.28-19.43.02:003][ 82]Cmd: slomo 0.5
+[2017.11.28-19.43.02:819][180]Cmd: slomo 1.0
+[2017.11.28-19.43.05:511][503]Cmd: slomo 0.5
+[2017.11.28-19.43.05:970][558]Cmd: slomo 1.0
+[2017.11.28-19.43.08:095][813]Cmd: slomo 0.5
+[2017.11.28-19.43.09:837][ 22]Cmd: slomo 1.0
+[2017.11.28-19.43.17:796][977]Cmd: slomo 0.5
+[2017.11.28-19.43.18:304][ 38]Cmd: slomo 1.0
+[2017.11.28-19.43.21:196][385]Cmd: slomo 0.5
+[2017.11.28-19.43.21:796][457]Cmd: slomo 1.0
+[2017.11.28-19.43.22:113][495]Cmd: slomo 0.5
+[2017.11.28-19.43.22:688][564]Cmd: slomo 1.0
+[2017.11.28-19.43.29:463][377]Cmd: slomo 0.5
+[2017.11.28-19.43.30:355][484]Cmd: slomo 1.0
+[2017.11.28-19.43.32:955][796]Cmd: slomo 0.5
+[2017.11.28-19.43.33:680][883]Cmd: slomo 1.0
+[2017.11.28-19.44.17:003][ 80]Cmd: slomo 0.5
+[2017.11.28-19.44.18:220][226]Cmd: slomo 1.0
+[2017.11.28-19.44.19:561][387]Cmd: slomo 0.5
+[2017.11.28-19.44.20:811][537]Cmd: slomo 1.0
+[2017.11.28-19.44.31:805][856]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.11.28-19.44.31:872][856]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.11.28-19.44.42:293][ 39]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:301][ 40]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:309][ 41]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:309][ 41]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:310][ 41]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:313][ 41]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:318][ 42]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:320][ 42]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:326][ 43]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:328][ 43]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:335][ 44]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:337][ 44]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:344][ 45]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:346][ 45]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:352][ 46]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:355][ 46]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:361][ 47]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:363][ 47]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:371][ 48]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:372][ 48]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:374][ 48]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:380][ 49]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:381][ 49]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:383][ 49]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:390][ 50]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:392][ 50]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:399][ 51]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:401][ 51]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:408][ 52]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:410][ 52]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:416][ 53]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:417][ 53]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:419][ 53]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:426][ 54]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:429][ 54]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:436][ 55]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:437][ 55]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:439][ 55]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:446][ 56]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:448][ 56]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:454][ 57]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:455][ 57]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:457][ 57]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:463][ 58]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:464][ 58]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:466][ 58]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:473][ 59]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:474][ 59]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.44.42:476][ 59]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.46.27:116][593]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:116][593]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:117][593]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:118][593]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:120][593]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:125][594]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:126][594]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:128][594]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:134][595]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:135][595]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:138][595]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:144][596]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:145][596]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:147][596]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:179][600]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:179][600]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:303][614]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:303][614]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:305][614]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:307][614]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:313][615]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:314][615]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:316][615]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:323][616]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:324][616]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:326][616]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:332][617]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:333][617]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:335][617]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:343][618]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:343][618]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:344][618]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:347][618]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:352][619]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:354][619]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:356][619]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:362][620]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:362][620]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.27:365][620]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.28:444][743]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.28:445][743]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.28:445][743]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.28:479][747]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.28:479][747]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.28:496][749]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.46.28:496][749]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.46.28:497][749]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.46.28:497][749]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.46.28:500][749]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.46.28:513][751]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.28:513][751]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.28:515][751]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.28:517][751]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.51:517][470]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.51:517][470]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.51:518][470]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.51:521][470]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.46.51:527][471]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.46.51:527][471]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.46.51:528][471]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.46.51:530][471]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.46.51:534][472]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.46.51:535][472]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.46.51:537][472]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.46.51:769][500]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.46.51:769][500]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.46.51:777][501]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.46.51:777][501]LogUObjectBase: Warning: Object is not registered
+[2017.11.28-19.47.47:169][297]BlueprintLog: New page: Compile 2DLift
+[2017.11.28-19.47.48:107][322]LogSavePackage: Save=106.61ms
+[2017.11.28-19.47.48:107][322]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLift4A18DFCC42F69B40888A71B77B890698.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset'
+[2017.11.28-19.47.48:114][322]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset
+[2017.11.28-19.48.14:714][282]BlueprintLog: New page: Compile BP_2DSideScrollerCharacter
+[2017.11.28-19.48.15:557][321]LogSavePackage: Save=95.39ms
+[2017.11.28-19.48.15:557][321]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/BP_2DSideScrollerCharacter56D26FA64D7BA3F38A2BE69B4E075843.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.uasset'
+[2017.11.28-19.48.15:560][321]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.uasset
+[2017.11.28-19.48.58:180][ 83]BlueprintLog: New page: Compile 2DLift
+[2017.11.28-19.48.59:183][112]LogSavePackage: Save=103.64ms
+[2017.11.28-19.48.59:183][112]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLift06BAD9734AFB5BF180F961B9291EA169.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset'
+[2017.11.28-19.48.59:185][112]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset
+[2017.11.28-19.49.00:511][232]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-19.49.00:538][232]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.11.28-19.49.00:538][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-19.49.00:538][232]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 28, 2017, 5:49:00 AM)
+[2017.11.28-19.49.00:538][232]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.11.28-19.49.00:541][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002791s)
+[2017.11.28-19.49.00:541][232]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.11.28-19.49.00:542][232]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2017.11.28-19.49.00:542][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003908s)
+[2017.11.28-19.49.00:567][232]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.28-19.49.00:574][232]LogInit: FAudioDevice initialized.
+[2017.11.28-19.49.00:605][232]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.11.28-19.49.00:607][232]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.11.28-12.49.00
+[2017.11.28-19.49.00:607][232]LogWorld: Bringing up level for play took: 0.001152
+[2017.11.28-19.49.00:608][232]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.755
+[2017.11.28-19.49.00:608][232]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.11.28-19.49.01:917][388]Cmd: slomo 0.5
+[2017.11.28-19.49.02:242][427]Cmd: slomo 1.0
+[2017.11.28-19.49.04:009][639]Cmd: slomo 0.5
+[2017.11.28-19.49.04:400][686]Cmd: slomo 1.0
+[2017.11.28-19.49.06:292][913]Cmd: slomo 0.5
+[2017.11.28-19.49.06:584][948]Cmd: slomo 1.0
+[2017.11.28-19.49.10:627][433]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.11.28-19.49.10:662][433]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.11.28-19.49.24:748][865]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.24:749][865]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.24:751][865]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.24:752][865]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.24:762][866]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.24:763][866]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.24:764][866]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.24:765][866]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.24:775][867]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.24:776][867]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.24:778][867]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.24:789][868]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.24:790][868]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.24:792][868]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:678][935]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:678][935]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:680][935]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:682][935]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:693][936]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:694][936]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:707][937]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:709][937]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:720][938]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:722][938]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:734][939]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:735][939]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:747][940]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:749][940]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:760][941]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:762][941]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:774][942]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:775][942]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:787][943]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:788][943]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:802][944]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:804][944]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:815][945]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:816][945]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:829][946]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:831][946]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:843][947]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:845][947]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.25:846][947]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.11.28-19.49.26:508][989]BlueprintLog: New page: Compile BP_2DSideScrollerCharacter
+[2017.11.28-19.49.27:437][ 12]LogSavePackage: Save=93.74ms
+[2017.11.28-19.49.27:437][ 12]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/BP_2DSideScrollerCharacterA99F5F1E48E8CE127E3250AE6612BC08.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.uasset'
+[2017.11.28-19.49.27:440][ 12]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.uasset
+[2017.11.28-19.50.40:379][964]BlueprintLog: New page: Compile BP_2DSideScrollerCharacter
+[2017.11.28-19.50.41:371][  9]LogSavePackage: Save=95.07ms
+[2017.11.28-19.50.41:371][  9]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/BP_2DSideScrollerCharacterB2A6E737451B13C1B059F9BC78BA0B1A.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.uasset'
+[2017.11.28-19.50.41:374][  9]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.uasset
+[2017.11.28-19.50.43:113][160]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-19.50.43:150][160]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.11.28-19.50.43:150][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-19.50.43:150][160]PIE: New page: PIE session: 2DSideScrollerExampleMap (Nov 28, 2017, 5:50:43 AM)
+[2017.11.28-19.50.43:150][160]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.11.28-19.50.43:152][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002213s)
+[2017.11.28-19.50.43:153][160]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.11.28-19.50.43:153][160]LogPlayLevel: PIE: World Init took: (0.000583s)
+[2017.11.28-19.50.43:153][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003032s)
+[2017.11.28-19.50.43:177][160]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.28-19.50.43:183][160]LogInit: FAudioDevice initialized.
+[2017.11.28-19.50.43:218][160]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.11.28-19.50.43:219][160]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.11.28-12.50.43
+[2017.11.28-19.50.43:219][160]LogWorld: Bringing up level for play took: 0.001003
+[2017.11.28-19.50.43:220][160]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.141
+[2017.11.28-19.50.43:220][160]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.11.28-19.50.45:203][397]Cmd: slomo 0.5
+[2017.11.28-19.50.45:828][472]Cmd: slomo 1.0
+[2017.11.28-19.50.48:236][761]Cmd: slomo 0.5
+[2017.11.28-19.50.48:594][804]Cmd: slomo 1.0
+[2017.11.28-19.50.49:933][963]Cmd: slomo 0.5
+[2017.11.28-19.50.51:808][188]Cmd: slomo 1.0
+[2017.11.28-19.50.53:659][410]Cmd: slomo 0.5
+[2017.11.28-19.50.54:775][544]Cmd: slomo 1.0
+[2017.11.28-19.50.58:625][  6]Cmd: slomo 0.5
+[2017.11.28-19.50.59:284][ 85]Cmd: slomo 1.0
+[2017.11.28-19.51.11:001][491]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.11.28-19.51.11:038][491]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
