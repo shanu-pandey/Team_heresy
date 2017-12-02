@@ -1,0 +1,1389 @@
+<<<<<<< HEAD
+﻿Log file open, 12/02/17 15:34:58
+=======
+﻿Log file open, 12/02/17 12:19:00
+>>>>>>> GhostPlatfroms
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CastleOfPerdition
+LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
+LogInit: Display: RandInit(1284678641) SRandInit(1284678641).
+=======
+LogInit: Display: RandInit(-1669152050) SRandInit(-1669152050).
+>>>>>>> GhostPlatfroms
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+<<<<<<< HEAD
+LogStats: Stats thread started at 0.165597
+=======
+LogStats: Stats thread started at 0.171461
+>>>>>>> GhostPlatfroms
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+<<<<<<< HEAD
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Binaries/Win64/UE4Editor-CastleOfPerdition.dll (API version 3709383).
+=======
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Binaries/Win64/UE4Editor-CastleOfPerdition.dll (API version 3709383).
+>>>>>>> GhostPlatfroms
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+<<<<<<< HEAD
+[2017.12.02-22.35.00:561][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.02-22.35.00:561][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.02-22.35.00:572][  0]LogInit: Computer: eae-d-057
+[2017.12.02-22.35.00:572][  0]LogInit: User: u1139622
+[2017.12.02-22.35.00:572][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.02-22.35.00:572][  0]LogInit: High frequency timer resolution =3.326084 MHz
+[2017.12.02-22.35.00:573][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2017.12.02-22.35.00:573][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.02-22.35.00:573][  0]LogMemory: Process Physical Memory: 276.90 MB used, 276.90 MB peak
+[2017.12.02-22.35.00:573][  0]LogMemory: Process Virtual Memory: 274.18 MB used, 274.18 MB peak
+[2017.12.02-22.35.00:573][  0]LogMemory: Physical Memory: 8819.50 MB used,  23885.16 MB free, 32704.65 MB total
+[2017.12.02-22.35.00:573][  0]LogMemory: Virtual Memory: 698.82 MB used,  23885.16 MB free, 134217728.00 MB total
+[2017.12.02-22.35.00:694][  0]LogInit: Using OS detected language (en-US).
+[2017.12.02-22.35.00:694][  0]LogInit: Using OS detected locale (en-US).
+[2017.12.02-22.35.00:696][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.02-22.35.01:067][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.02-22.35.01:294][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.02-22.35.01:349][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.12.02-22.35.01:349][  0]LogD3D11RHI:       8096/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.12.02-22.35.01:350][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.02-22.35.01:350][  0]LogD3D11RHI:       0/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.02-22.35.01:350][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.02-22.35.01:357][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.02-22.35.01:357][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.02-22.35.01:357][  0]LogWindows: EnumDisplayDevices:
+[2017.12.02-22.35.01:357][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.12.02-22.35.01:357][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2017.12.02-22.35.01:357][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.02-22.35.01:357][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.02-22.35.01:357][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.12.02-22.35.01:357][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.12.02-22.35.01:357][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2017.12.02-22.35.01:357][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2017.12.02-22.35.01:357][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2017.12.02-22.35.01:391][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.02-22.35.01:401][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.02-22.35.01:486][  0]LogShaderCompilers: Guid format shader working directory is -37 characters bigger than the processId version (../../../../../../Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Intermediate/Shaders/WorkingDirectory/35512/).
+[2017.12.02-22.35.01:486][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u1139622/AppData/Local/Temp/UnrealShaderWorkingDir/D3B9D84443B956D9F93B0EA22FBB8CCF/'.
+[2017.12.02-22.35.01:486][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.02-22.35.02:384][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.02-22.35.02:427][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.02-22.35.02:471][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.02-22.35.02:514][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.02-22.35.02:561][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.02-22.35.02:606][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.02-22.35.02:650][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.02-22.35.02:693][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.02-22.35.02:730][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.02-22.35.02:778][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.02-22.35.02:822][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.02-22.35.02:864][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.02-22.35.02:907][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.02-22.35.02:950][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.02-22.35.03:036][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.02-22.35.03:036][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.02-22.35.03:079][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.02-22.35.03:111][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.02-22.35.03:189][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.02-22.35.03:214][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.02-22.35.03:263][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.02-22.35.03:315][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.02-22.35.03:364][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.02-22.35.03:412][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.02-22.35.03:412][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.02-22.35.03:852][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.02-22.35.03:932][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/u1139622/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.02-22.35.03:932][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/u1139622/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.02-22.35.03:932][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.02-22.35.03:932][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.02-22.35.03:932][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.02-22.35.03:932][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.02-22.35.03:949][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.02-22.35.03:961][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u1139622/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.02-22.35.03:970][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.02-22.35.03:971][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.02-22.35.03:971][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.02-22.35.03:972][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.02-22.35.04:313][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.02-22.35.04:597][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.02-22.35.04:631][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.02-22.35.04:631][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.02-22.35.04:631][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.02-22.35.04:631][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.02-22.35.04:631][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.02-22.35.04:661][  0]LogNetVersion: CastleOfPerdition , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 261315538)
+[2017.12.02-22.35.04:808][  0]LogAssetRegistry: FAssetRegistry took 0.0252 seconds to start up
+[2017.12.02-22.35.05:273][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.064710 seconds
+[2017.12.02-22.35.05:279][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.02-22.35.05:279][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.12.02-22.35.05:279][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.02-22.35.05:331][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.02-22.35.07:912][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.02-22.35.07:954][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.02-22.35.08:606][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.02-22.35.08:966][  0]SourceControl: Source control is disabled
+[2017.12.02-22.35.08:966][  0]SourceControl: Source control is disabled
+[2017.12.02-22.35.09:012][  0]SourceControl: Source control is disabled
+[2017.12.02-22.35.09:056][  0]SourceControl: Source control is disabled
+[2017.12.02-22.35.09:817][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.02-22.35.10:064][  0]LogOcInput: OculusInput pre-init called
+[2017.12.02-22.35.10:315][  0]LogEngine: Initializing Engine...
+[2017.12.02-22.35.10:317][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.02-22.35.10:516][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.02-22.35.10:516][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.02-22.35.10:625][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.02-22.35.10:641][  0]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-22.35.10:650][  0]LogInit: FAudioDevice initialized.
+[2017.12.02-22.35.10:729][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/u1139622/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.02-22.35.10:746][  0]LogInit: Texture streaming: Enabled
+[2017.12.02-22.35.10:829][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.02-22.35.10:938][  0]LogInit: Transaction tracking system initialized
+[2017.12.02-22.35.11:199][  0]BlueprintLog: New page: Editor Load
+[2017.12.02-22.35.12:063][  0]LocalizationService: Localization service is disabled
+[2017.12.02-22.35.12:714][  0]LogConsoleResponse: Display: 
+[2017.12.02-22.35.12:873][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.02-22.35.12:873][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.02-22.35.12:873][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.02-22.35.13:009][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Content/' took 0.01s
+[2017.12.02-22.35.13:947][  0]SourceControl: Source control is disabled
+[2017.12.02-22.35.13:948][  0]LightingResults: New page: Lighting Build
+[2017.12.02-22.35.13:985][  0]MapCheck: New page: Map Check
+[2017.12.02-22.35.13:985][  0]LightingResults: New page: Lighting Build
+[2017.12.02-22.35.14:245][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.12.02-22.35.14:255][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.02-22.35.14:265][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.02-22.35.14:313][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 48.09ms to complete.
+[2017.12.02-22.35.14:313][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.365
+[2017.12.02-22.35.14:455][  0]LogCollectionManager: Loaded 0 collections in 0.001592 seconds
+[2017.12.02-22.35.14:529][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Saved/Collections/' took 0.01s
+[2017.12.02-22.35.14:529][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Content/Developers/u1139622/Collections/' took 0.01s
+[2017.12.02-22.35.14:529][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Content/Collections/' took 0.01s
+[2017.12.02-22.35.14:529][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.02-22.35.14:537][  0]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2365 classes and 521 folders.
+[2017.12.02-22.35.14:592][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.12.02-22.35.14:629][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.12.02-22.35.14:667][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.12.02-22.35.15:590][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.12.02-22.35.15:614][  0]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.02-22.35.15:620][  0]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.02-22.35.15:623][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.02-22.35.15:734][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.CastleOfPerdition
+[2017.12.02-22.35.15:734][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.02-22.35.15:734][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2017.12.02-22.35.15:734][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.02-22.35.15:734][  0]LogTemp: BranchPath = eae-d-057/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = eae-d-057/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2017.12.02-22.35.15:734][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\u1139622\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.12.02-22.35.15:734][  0]LogRenderer: Reallocating scene render targets to support 1528x648 Format 10 NumSamples 1 (Frame:1).
+[2017.12.02-22.35.15:924][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.12.02-22.35.15:924][  0]LogLoad: (Engine Initialization) Total time: 18.34 seconds
+[2017.12.02-22.35.15:924][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.02-22.35.15:924][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.02-22.35.15:924][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.02-22.35.15:935][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.02-22.35.15:955][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.02-22.35.15:973][  0]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.02-22.35.15:992][  1]LogAssetRegistry: Asset discovery search completed in 11.2057 seconds
+[2017.12.02-22.35.15:994][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.02-22.35.15:994][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2017.12.02-22.35.16:955][108]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.02-22.35.17:234][108]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2017.12.02-22.35.18:218][108]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.02-22.35.18:450][109]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.02-22.35.20:538][267]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-22.35.20:571][267]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-22.35.20:571][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-22.35.20:572][267]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 2, 2017, 8:35:20 AM)
+[2017.12.02-22.35.20:572][267]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.12.02-22.35.20:575][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003522s)
+[2017.12.02-22.35.20:576][267]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.12.02-22.35.20:576][267]LogPlayLevel: PIE: World Init took: (0.000578s)
+[2017.12.02-22.35.20:576][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004347s)
+[2017.12.02-22.35.20:607][267]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-22.35.20:613][267]LogInit: FAudioDevice initialized.
+[2017.12.02-22.35.20:659][267]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.02-22.35.20:662][267]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.12.02-15.35.20
+[2017.12.02-22.35.20:662][267]LogWorld: Bringing up level for play took: 0.001294
+[2017.12.02-22.35.20:698][267]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2017.12.02-22.35.20:699][267]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.82
+[2017.12.02-22.35.20:699][267]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-22.35.35:462][417]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-22.35.35:513][417]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-22.35.36:926][496]LogSavePackage: Save=148.82ms
+[2017.12.02-22.35.36:926][496]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Saved/2DSideScrollerExampleMap41DF54F4407737CFBBE129AB101BCFEE.tmp' to '../../../../../../Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.umap'
+[2017.12.02-22.35.36:929][496]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.umap
+[2017.12.02-22.35.36:987][496]LogSavePackage: Save=4.90ms
+[2017.12.02-22.35.36:987][496]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Saved/2DSideScrollerExampleMap_BuiltDaB6C245D34A631DB2BA355CAF3CE06F1F.tmp' to '../../../../../../Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2017.12.02-22.35.36:989][496]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_BuiltData.uasset
+[2017.12.02-22.35.37:849][549]LogSavePackage: Save=144.42ms
+[2017.12.02-22.35.37:849][549]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Saved/2DSideScrollerExampleMap66BF4FBB4FCA0FC21D2E16AC03D3D0EE.tmp' to '../../../../../../Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.umap'
+[2017.12.02-22.35.37:852][549]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.umap
+[2017.12.02-22.35.37:905][549]LogSavePackage: Save=5.39ms
+[2017.12.02-22.35.37:905][549]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Saved/2DSideScrollerExampleMap_BuiltDa2A5A843440564EAE9454168B1D02C6B7.tmp' to '../../../../../../Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2017.12.02-22.35.37:907][549]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_BuiltData.uasset
+[2017.12.02-22.35.38:782][603]LogSavePackage: Save=129.18ms
+[2017.12.02-22.35.38:782][603]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Saved/BP_2DSideScrollerCharacter2D0B1FB04232A013F322578B4FCC56A5.tmp' to '../../../../../../Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.uasset'
+[2017.12.02-22.35.38:784][603]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.uasset
+[2017.12.02-22.35.40:565][730]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.12.02-22.35.41:036][745]LogSavePackage: Save=150.10ms
+[2017.12.02-22.35.41:036][745]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Saved/2DSideScrollerExampleMap2ECFB3D3403A69DF081B81BF2B3A39DF.tmp' to '../../../../../../Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.umap'
+[2017.12.02-22.35.41:039][745]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.umap
+[2017.12.02-22.35.41:101][745]LogSavePackage: Save=4.00ms
+[2017.12.02-22.35.41:101][745]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Saved/2DSideScrollerExampleMap_BuiltDa87804ECA4C15BEA80038BE849F7D987D.tmp' to '../../../../../../Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2017.12.02-22.35.41:103][745]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_BuiltData.uasset
+[2017.12.02-22.35.43:541][956]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.02-22.35.43:599][956]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.02-22.35.43:814][957]Cmd: QUIT_EDITOR
+[2017.12.02-22.35.44:091][957]LogExit: Preparing to exit.
+[2017.12.02-22.35.44:987][957]LogDirectoryWatcher: A directory notification for 'C:/Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Content/' was aborted.
+[2017.12.02-22.35.45:016][957]LogExit: Editor shut down
+[2017.12.02-22.35.45:019][957]LogExit: Transaction tracking system shut down
+[2017.12.02-22.35.45:181][957]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.02-22.35.45:182][957]LogDirectoryWatcher: A directory notification for '../../../../../../Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Content/' was aborted.
+[2017.12.02-22.35.45:182][957]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.02-22.35.45:182][957]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.12.02-22.35.45:182][957]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.12.02-22.35.45:182][957]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.12.02-22.35.45:182][957]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.12.02-22.35.45:253][957]LogExit: Object subsystem successfully closed.
+[2017.12.02-22.35.45:272][957]LogD3D11RHI: Shutdown
+[2017.12.02-22.35.45:272][957]LogD3D11RHI: CleanupD3DDevice
+[2017.12.02-22.35.45:273][957]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.02-22.35.45:285][957]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (556)
+[2017.12.02-22.35.45:285][957]LogModuleManager: Shutting down and abandoning module BlueprintGraph (554)
+[2017.12.02-22.35.45:285][957]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (552)
+[2017.12.02-22.35.45:285][957]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (550)
+[2017.12.02-22.35.45:285][957]LogModuleManager: Shutting down and abandoning module DesktopPlatform (548)
+[2017.12.02-22.35.45:285][957]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2017.12.02-22.35.45:285][957]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2017.12.02-22.35.45:285][957]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2017.12.02-22.35.45:286][957]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2017.12.02-22.35.45:286][957]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2017.12.02-22.35.45:286][957]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2017.12.02-22.35.45:286][957]LogDirectoryWatcher: A directory notification for 'C:/Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Content/Collections/' was aborted.
+[2017.12.02-22.35.45:286][957]LogDirectoryWatcher: A directory notification for 'C:/Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Content/Developers/u1139622/Collections/' was aborted.
+[2017.12.02-22.35.45:286][957]LogDirectoryWatcher: A directory notification for 'C:/Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Saved/Collections/' was aborted.
+[2017.12.02-22.35.45:286][957]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2017.12.02-22.35.45:286][957]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2017.12.02-22.35.45:286][957]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2017.12.02-22.35.45:286][957]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2017.12.02-22.35.45:286][957]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2017.12.02-22.35.45:286][957]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2017.12.02-22.35.45:286][957]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2017.12.02-22.35.45:286][957]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2017.12.02-22.35.45:286][957]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2017.12.02-22.35.45:286][957]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2017.12.02-22.35.45:286][957]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2017.12.02-22.35.45:286][957]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2017.12.02-22.35.45:287][957]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2017.12.02-22.35.45:417][957]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2017.12.02-22.35.45:417][957]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2017.12.02-22.35.45:417][957]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2017.12.02-22.35.45:417][957]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2017.12.02-22.35.45:417][957]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2017.12.02-22.35.45:417][957]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2017.12.02-22.35.45:417][957]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2017.12.02-22.35.45:417][957]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2017.12.02-22.35.45:417][957]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2017.12.02-22.35.45:417][957]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2017.12.02-22.35.45:417][957]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2017.12.02-22.35.45:417][957]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2017.12.02-22.35.45:417][957]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2017.12.02-22.35.45:417][957]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2017.12.02-22.35.45:417][957]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2017.12.02-22.35.45:417][957]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2017.12.02-22.35.45:417][957]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2017.12.02-22.35.45:417][957]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2017.12.02-22.35.45:417][957]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2017.12.02-22.35.45:417][957]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2017.12.02-22.35.45:417][957]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2017.12.02-22.35.45:417][957]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2017.12.02-22.35.45:417][957]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2017.12.02-22.35.45:417][957]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2017.12.02-22.35.45:481][957]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2017.12.02-22.35.45:481][957]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2017.12.02-22.35.45:481][957]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2017.12.02-22.35.45:481][957]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2017.12.02-22.35.45:481][957]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2017.12.02-22.35.45:481][957]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2017.12.02-22.35.45:481][957]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2017.12.02-22.35.45:481][957]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2017.12.02-22.35.45:481][957]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2017.12.02-22.35.45:481][957]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2017.12.02-22.35.45:487][957]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2017.12.02-22.35.45:487][957]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2017.12.02-22.35.45:487][957]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2017.12.02-22.35.45:487][957]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2017.12.02-22.35.45:487][957]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2017.12.02-22.35.45:487][957]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2017.12.02-22.35.45:487][957]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2017.12.02-22.35.45:487][957]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2017.12.02-22.35.45:487][957]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2017.12.02-22.35.45:487][957]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2017.12.02-22.35.45:487][957]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2017.12.02-22.35.45:487][957]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2017.12.02-22.35.45:487][957]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2017.12.02-22.35.45:487][957]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2017.12.02-22.35.45:487][957]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2017.12.02-22.35.45:487][957]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2017.12.02-22.35.45:487][957]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2017.12.02-22.35.45:487][957]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2017.12.02-22.35.45:487][957]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2017.12.02-22.35.45:584][957]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2017.12.02-22.35.45:585][957]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2017.12.02-22.35.45:585][957]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2017.12.02-22.35.45:585][957]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2017.12.02-22.35.45:585][957]LogDirectoryWatcher: A directory notification for 'C:/Users/u1139622/Documents/Rapid_Unreal/Team_heresy/CastleOfPerdition/Binaries/Win64' was aborted.
+[2017.12.02-22.35.45:586][957]LogModuleManager: Shutting down and abandoning module CastleOfPerdition (270)
+[2017.12.02-22.35.45:586][957]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.12.02-22.35.45:586][957]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.12.02-22.35.45:586][957]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.12.02-22.35.45:586][957]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.12.02-22.35.45:586][957]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.12.02-22.35.45:586][957]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.12.02-22.35.45:586][957]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.12.02-22.35.45:586][957]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.12.02-22.35.45:686][957]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.12.02-22.35.45:924][957]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.12.02-22.35.45:924][957]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.12.02-22.35.45:924][957]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.12.02-22.35.45:924][957]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.12.02-22.35.45:924][957]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.12.02-22.35.45:924][957]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.12.02-22.35.45:925][957]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.12.02-22.35.45:925][957]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.12.02-22.35.45:925][957]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.12.02-22.35.45:925][957]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.12.02-22.35.45:926][957]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.12.02-22.35.45:926][957]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.12.02-22.35.45:926][957]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.12.02-22.35.45:926][957]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.12.02-22.35.45:926][957]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.12.02-22.35.45:926][957]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.12.02-22.35.45:931][957]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.12.02-22.35.45:931][957]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.12.02-22.35.45:931][957]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.12.02-22.35.45:932][957]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.12.02-22.35.45:932][957]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.12.02-22.35.45:932][957]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.12.02-22.35.45:932][957]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.12.02-22.35.45:932][957]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.12.02-22.35.45:932][957]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.12.02-22.35.45:932][957]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.12.02-22.35.45:932][957]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.12.02-22.35.45:932][957]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.12.02-22.35.45:932][957]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.12.02-22.35.45:932][957]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.12.02-22.35.45:932][957]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.12.02-22.35.45:932][957]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.12.02-22.35.45:934][957]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.12.02-22.35.45:934][957]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.12.02-22.35.45:934][957]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.12.02-22.35.45:934][957]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.12.02-22.35.45:934][957]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.12.02-22.35.45:934][957]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.12.02-22.35.45:934][957]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.12.02-22.35.45:934][957]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.12.02-22.35.45:934][957]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.12.02-22.35.45:935][957]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.12.02-22.35.45:935][957]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.12.02-22.35.45:935][957]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.12.02-22.35.45:935][957]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.12.02-22.35.45:935][957]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.12.02-22.35.45:935][957]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.12.02-22.35.45:935][957]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.12.02-22.35.45:935][957]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.12.02-22.35.45:982][957]LogDerivedDataCache: Shutdown
+[2017.12.02-22.35.45:982][957]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.12.02-22.35.45:982][957]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.12.02-22.35.45:982][957]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.12.02-22.35.45:982][957]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.12.02-22.35.45:982][957]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.12.02-22.35.45:982][957]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.12.02-22.35.45:982][957]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.12.02-22.35.45:982][957]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.12.02-22.35.45:982][957]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.12.02-22.35.45:982][957]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.12.02-22.35.45:982][957]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.12.02-22.35.45:982][957]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.12.02-22.35.45:982][957]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.02-22.35.45:983][957]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.02-22.35.45:983][957]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.02-22.35.45:983][957]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD7F90A0A-45FF-42FF-2FEE-14819F066CBF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.1-3754814%2B%2B%2BUE4%2BRelease-4.18&UserID=682c75f145b334b23c162d8a5aeba07b%7Cf8aac9f6fccf4e459b4c1ba2f792bcf1%7C0c3f5c3c-62f8-4c42-88a0-be96360781b8&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.02-22.35.46:004][957]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.02-22.35.46:005][957]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.02-22.35.46:005][957]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.02-22.35.46:005][957]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.02-22.35.46:005][957]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.02-22.35.46:005][957]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.02-22.35.46:005][957]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.02-22.35.46:005][957]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.02-22.35.46:006][957]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.02-22.35.46:006][957]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.02-22.35.46:006][957]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.02-22.35.46:006][957]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.02-22.35.46:006][957]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.02-22.35.46:006][957]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.02-22.35.46:006][957]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.02-22.35.46:006][957]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.02-22.35.46:006][957]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.02-22.35.46:006][957]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.02-22.35.46:006][957]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.02-22.35.46:009][957]LogExit: Exiting.
+[2017.12.02-22.35.46:025][957]Log file closed, 12/02/17 15:35:46
+=======
+[2017.12.02-19.19.01:807][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.02-19.19.01:807][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.02-19.19.01:822][  0]LogInit: Computer: eae-d-084
+[2017.12.02-19.19.01:822][  0]LogInit: User: u1141834
+[2017.12.02-19.19.01:822][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.02-19.19.01:822][  0]LogInit: High frequency timer resolution =3.320311 MHz
+[2017.12.02-19.19.01:822][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2017.12.02-19.19.01:823][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.02-19.19.01:823][  0]LogMemory: Process Physical Memory: 273.73 MB used, 273.73 MB peak
+[2017.12.02-19.19.01:823][  0]LogMemory: Process Virtual Memory: 271.94 MB used, 271.94 MB peak
+[2017.12.02-19.19.01:823][  0]LogMemory: Physical Memory: 4666.45 MB used,  28039.27 MB free, 32705.71 MB total
+[2017.12.02-19.19.01:823][  0]LogMemory: Virtual Memory: 646.33 MB used,  28039.27 MB free, 134217728.00 MB total
+[2017.12.02-19.19.01:959][  0]LogInit: Using OS detected language (en-US).
+[2017.12.02-19.19.01:959][  0]LogInit: Using OS detected locale (en-US).
+[2017.12.02-19.19.01:962][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.02-19.19.02:339][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.02-19.19.02:566][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.02-19.19.02:596][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.12.02-19.19.02:596][  0]LogD3D11RHI:       8096/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.12.02-19.19.02:598][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.02-19.19.02:598][  0]LogD3D11RHI:       0/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.02-19.19.02:598][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.02-19.19.02:603][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.02-19.19.02:603][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.02-19.19.02:603][  0]LogWindows: EnumDisplayDevices:
+[2017.12.02-19.19.02:603][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.12.02-19.19.02:603][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2017.12.02-19.19.02:603][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.02-19.19.02:603][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.02-19.19.02:603][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.12.02-19.19.02:603][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.12.02-19.19.02:603][  0]LogD3D11RHI:   Driver Version: 388.31 (internal:23.21.13.8831, unified:388.31)
+[2017.12.02-19.19.02:603][  0]LogD3D11RHI:      Driver Date: 11-14-2017
+[2017.12.02-19.19.02:603][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2017.12.02-19.19.02:626][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.02-19.19.02:673][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.02-19.19.02:763][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Intermediate/Shaders/WorkingDirectory/5244/).
+[2017.12.02-19.19.02:763][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u1141834/AppData/Local/Temp/UnrealShaderWorkingDir/329178084A1A3EE55D7E1AB5AEAC2B1B/'.
+[2017.12.02-19.19.02:763][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.02-19.19.03:600][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.02-19.19.03:648][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.02-19.19.03:696][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.02-19.19.03:745][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.02-19.19.03:793][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.02-19.19.03:842][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.02-19.19.03:890][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.02-19.19.03:939][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.02-19.19.03:981][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.02-19.19.04:027][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.02-19.19.04:075][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.02-19.19.04:122][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.02-19.19.04:170][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.02-19.19.04:219][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.02-19.19.04:318][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.02-19.19.04:318][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.02-19.19.04:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.02-19.19.04:408][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.02-19.19.04:496][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.02-19.19.04:522][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.02-19.19.04:569][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.02-19.19.04:617][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.02-19.19.04:666][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.02-19.19.04:713][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.02-19.19.04:713][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.02-19.19.05:166][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.02-19.19.05:242][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/u1141834/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.02-19.19.05:242][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/u1141834/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.02-19.19.05:242][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.02-19.19.05:242][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.02-19.19.05:242][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.02-19.19.05:242][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.02-19.19.05:257][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.02-19.19.05:269][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u1141834/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.02-19.19.05:279][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.02-19.19.05:279][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.02-19.19.05:280][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.02-19.19.05:280][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.02-19.19.05:617][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.02-19.19.05:922][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.02-19.19.05:961][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.02-19.19.05:961][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.02-19.19.05:961][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.02-19.19.05:961][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.02-19.19.05:961][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.02-19.19.05:988][  0]LogNetVersion: CastleOfPerdition , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 261315538)
+[2017.12.02-19.19.06:139][  0]LogAssetRegistry: FAssetRegistry took 0.0256 seconds to start up
+[2017.12.02-19.19.06:623][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.077923 seconds
+[2017.12.02-19.19.06:628][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.02-19.19.06:628][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.12.02-19.19.06:628][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.02-19.19.06:685][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.02-19.19.09:220][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.02-19.19.09:261][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.02-19.19.09:955][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.02-19.19.10:364][  0]SourceControl: Source control is disabled
+[2017.12.02-19.19.10:364][  0]SourceControl: Source control is disabled
+[2017.12.02-19.19.10:417][  0]SourceControl: Source control is disabled
+[2017.12.02-19.19.10:470][  0]SourceControl: Source control is disabled
+[2017.12.02-19.19.11:259][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.02-19.19.11:513][  0]LogOcInput: OculusInput pre-init called
+[2017.12.02-19.19.11:767][  0]LogEngine: Initializing Engine...
+[2017.12.02-19.19.11:768][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.02-19.19.11:960][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.02-19.19.11:960][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.02-19.19.12:079][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.02-19.19.12:089][  0]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.19.12:107][  0]LogInit: FAudioDevice initialized.
+[2017.12.02-19.19.12:179][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/u1141834/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.02-19.19.12:193][  0]LogInit: Texture streaming: Enabled
+[2017.12.02-19.19.12:289][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.02-19.19.12:408][  0]LogInit: Transaction tracking system initialized
+[2017.12.02-19.19.12:701][  0]BlueprintLog: New page: Editor Load
+[2017.12.02-19.19.13:546][  0]LocalizationService: Localization service is disabled
+[2017.12.02-19.19.14:242][  0]LogConsoleResponse: Display: 
+[2017.12.02-19.19.14:410][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.02-19.19.14:410][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.02-19.19.14:410][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.02-19.19.15:516][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/' took 0.02s
+[2017.12.02-19.19.15:559][  0]SourceControl: Source control is disabled
+[2017.12.02-19.19.15:559][  0]Cmd: MAP LOAD FILE="../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.02-19.19.15:559][  0]LightingResults: New page: Lighting Build
+[2017.12.02-19.19.15:599][  0]MapCheck: New page: Map Check
+[2017.12.02-19.19.15:599][  0]LightingResults: New page: Lighting Build
+[2017.12.02-19.19.16:069][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.12.02-19.19.16:081][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.02-19.19.16:091][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.02-19.19.16:141][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.772ms to complete.
+[2017.12.02-19.19.16:141][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.582
+[2017.12.02-19.19.16:315][  0]LogCollectionManager: Loaded 0 collections in 0.002519 seconds
+[2017.12.02-19.19.16:406][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Collections/' took 0.01s
+[2017.12.02-19.19.16:406][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/Developers/u1141834/Collections/' took 0.01s
+[2017.12.02-19.19.16:406][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/Collections/' took 0.01s
+[2017.12.02-19.19.16:406][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.02-19.19.16:416][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2365 classes and 521 folders.
+[2017.12.02-19.19.16:482][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.12.02-19.19.16:819][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.12.02-19.19.16:867][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.12.02-19.19.16:934][  0]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.02-19.19.16:937][  0]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.02-19.19.16:951][  0]LogSlate: Took 0.008188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.02-19.19.17:100][  0]LogRenderer: Reallocating scene render targets to support 1208x656 Format 10 NumSamples 1 (Frame:1).
+[2017.12.02-19.19.17:287][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.12.02-19.19.17:287][  0]LogLoad: (Engine Initialization) Total time: 18.28 seconds
+[2017.12.02-19.19.17:287][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.02-19.19.17:287][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.02-19.19.17:288][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.02-19.19.17:297][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.02-19.19.17:314][  0]LogAssetRegistry: Asset discovery search completed in 11.1971 seconds
+[2017.12.02-19.19.17:316][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.02-19.19.17:316][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000030 seconds (updated 0 objects)
+[2017.12.02-19.19.17:317][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.02-19.19.17:368][  0]LogSlate: Took 0.005394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.02-19.19.17:421][  1]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.19.26:588][998]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.02-19.19.26:928][998]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2017.12.02-19.19.27:540][998]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.02-19.19.27:655][998]LogSlate: Took 0.004400 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.02-19.19.27:946][999]LogSlate: Took 0.004210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.02-19.19.43:798][ 15]BlueprintLog: New page: Compile BP_2DSideScrollerCharacter
+[2017.12.02-19.19.44:861][ 45]LogSavePackage: Save=120.20ms
+[2017.12.02-19.19.44:861][ 45]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/BP_2DSideScrollerCharacter367A380E4969F5D6C4A7579D8FFDEF1B.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.uasset'
+[2017.12.02-19.19.44:864][ 45]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.uasset
+[2017.12.02-19.19.50:509][321]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-19.19.50:571][321]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.19.50:571][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-19.19.50:572][321]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 2, 2017, 5:19:50 AM)
+[2017.12.02-19.19.50:572][321]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.12.02-19.19.50:576][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003576s)
+[2017.12.02-19.19.50:576][321]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.12.02-19.19.50:577][321]LogPlayLevel: PIE: World Init took: (0.000549s)
+[2017.12.02-19.19.50:577][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004346s)
+[2017.12.02-19.19.50:600][321]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.19.50:607][321]LogInit: FAudioDevice initialized.
+[2017.12.02-19.19.50:651][321]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.02-19.19.50:654][321]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.12.02-12.19.50
+[2017.12.02-19.19.50:654][321]LogWorld: Bringing up level for play took: 0.002077
+[2017.12.02-19.19.50:700][321]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2017.12.02-19.19.50:701][321]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.284
+[2017.12.02-19.19.50:701][321]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.20.18:686][667]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.20.18:722][667]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.21.50:368][614]BlueprintLog: New page: Compile 2DLift
+[2017.12.02-19.21.51:851][640]LogSavePackage: Save=124.23ms
+[2017.12.02-19.21.51:851][640]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLiftEF8C4B1B42CC66F1BC2A72A70C867BC6.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset'
+[2017.12.02-19.21.51:854][640]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset
+[2017.12.02-19.22.09:077][803]LogSavePackage: Save=124.62ms
+[2017.12.02-19.22.09:077][803]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLift0C9012014AA771597AD9D082D2459449.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset'
+[2017.12.02-19.22.09:081][803]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset
+[2017.12.02-19.22.18:177][524]LogSavePackage: Save=125.41ms
+[2017.12.02-19.22.18:177][524]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLiftB4DDB67E4185B648D9C736B9A0ED2A8F.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset'
+[2017.12.02-19.22.18:180][524]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset
+[2017.12.02-19.23.52:862][749]BlueprintLog: New page: Compile 2DLift
+[2017.12.02-19.23.54:124][779]LogSavePackage: Save=126.30ms
+[2017.12.02-19.23.54:124][779]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLift3869F2FF4E3CC3FC109969A1443612D2.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset'
+[2017.12.02-19.23.54:127][779]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset
+[2017.12.02-19.24.15:616][173]LogUObjectBase: Warning: Object is not registered
+[2017.12.02-19.24.16:064][173]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.449 s
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: === Handled ensure: ===
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: 
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: Stack: 
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x00000000E7FB2786 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x00000000E7D5123A UE4Editor-Core.dll!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x00000000E7D6B906 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x00000000D24332B6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x00000000D19103AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x00000000D0253EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x00000000D00E74AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x00000000D00EABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x00000000D0218225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x00000000E3987397 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x00000000E398CE61 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x00000000E3BC9913 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x00000000E39E3484 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x00000000E39BB68C UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x00000000E39AD6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x00000000F1D0E39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x00000000F1D01A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x00000000F1D103EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x00000000F1CFD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x0000000015A8BC50 USER32.dll!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x0000000015A8B5CF USER32.dll!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x00000000F1D11516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x0000000002E150C8 UE4Editor.exe!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x0000000002E25430 UE4Editor.exe!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x0000000002E254AA UE4Editor.exe!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x0000000002E32379 UE4Editor.exe!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x0000000002E33D57 UE4Editor.exe!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x00000000157E2774 KERNEL32.DLL!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: [Callstack] 0x00000000162B0D51 ntdll.dll!UnknownFunction []
+[2017.12.02-19.24.16:065][173]LogOutputDevice: Error: 
+[2017.12.02-19.24.16:075][173]LogStats:                SubmitErrorReport -  0.000 s
+[2017.12.02-19.24.16:872][173]LogStats:                    SendNewReport -  0.798 s
+[2017.12.02-19.24.16:872][173]LogStats:             FDebug::EnsureFailed -  1.257 s
+[2017.12.02-19.24.16:872][173]LogUObjectBase: Warning: Object is not registered
+[2017.12.02-19.24.22:900][803]LogUObjectBase: Warning: Object is not registered
+[2017.12.02-19.24.22:901][803]LogUObjectBase: Warning: Object is not registered
+[2017.12.02-19.24.22:902][803]LogUObjectBase: Warning: Object is not registered
+[2017.12.02-19.24.22:903][803]LogUObjectBase: Warning: Object is not registered
+[2017.12.02-19.24.22:905][803]LogUObjectBase: Warning: Object is not registered
+[2017.12.02-19.24.49:733][294]LogUObjectBase: Warning: Object is not registered
+[2017.12.02-19.24.49:733][294]LogUObjectBase: Warning: Object is not registered
+[2017.12.02-19.25.34:915][111]LogUObjectBase: Warning: Object is not registered
+[2017.12.02-19.25.34:915][111]LogUObjectBase: Warning: Object is not registered
+[2017.12.02-19.25.34:917][111]LogUObjectBase: Warning: Object is not registered
+[2017.12.02-19.25.34:917][111]LogUObjectBase: Warning: Object is not registered
+[2017.12.02-19.25.34:918][111]LogUObjectBase: Warning: Object is not registered
+[2017.12.02-19.25.34:921][111]LogUObjectBase: Warning: Object is not registered
+[2017.12.02-19.25.34:962][116]LogUObjectBase: Warning: Object is not registered
+[2017.12.02-19.25.34:962][116]LogUObjectBase: Warning: Object is not registered
+[2017.12.02-19.25.45:967][352]LogEditorTransaction: Undo Delete current selection
+[2017.12.02-19.25.46:003][352]LogSlate: Took 0.003499 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.02-19.25.47:699][504]BlueprintLog: New page: Compile BP_2DSideScrollerCharacter
+[2017.12.02-19.26.24:839][840]BlueprintLog: New page: Compile BP_2DSideScrollerCharacter
+[2017.12.02-19.26.26:159][858]LogSavePackage: Save=118.77ms
+[2017.12.02-19.26.26:159][858]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/BP_2DSideScrollerCharacter7818A454426821768DA54AB9A4C44D2C.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.uasset'
+[2017.12.02-19.26.26:162][858]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.uasset
+[2017.12.02-19.26.38:784][231]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-19.26.38:819][231]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.26.38:819][231]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-19.26.38:820][231]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 2, 2017, 5:26:38 AM)
+[2017.12.02-19.26.38:820][231]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.12.02-19.26.38:826][231]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006397s)
+[2017.12.02-19.26.38:827][231]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.12.02-19.26.38:827][231]LogPlayLevel: PIE: World Init took: (0.000586s)
+[2017.12.02-19.26.38:827][231]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.007304s)
+[2017.12.02-19.26.38:851][231]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.26.38:859][231]LogInit: FAudioDevice initialized.
+[2017.12.02-19.26.38:894][231]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.02-19.26.38:896][231]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.12.02-12.26.38
+[2017.12.02-19.26.38:896][231]LogWorld: Bringing up level for play took: 0.001472
+[2017.12.02-19.26.38:897][231]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.257
+[2017.12.02-19.26.38:897][231]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.28.00:074][970]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.28.00:114][970]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.28.42:918][943]BlueprintLog: New page: Compile BP_2DSideScrollerCharacter
+[2017.12.02-19.28.43:832][967]LogSavePackage: Save=121.10ms
+[2017.12.02-19.28.43:832][967]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/BP_2DSideScrollerCharacter9A47AD2540B086F9F686D8B01C3A514B.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.uasset'
+[2017.12.02-19.28.43:836][967]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.uasset
+[2017.12.02-19.28.45:032][ 61]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-19.28.45:065][ 61]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.28.45:065][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-19.28.45:066][ 61]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 2, 2017, 5:28:45 AM)
+[2017.12.02-19.28.45:066][ 61]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.12.02-19.28.45:068][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002712s)
+[2017.12.02-19.28.45:069][ 61]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.12.02-19.28.45:070][ 61]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2017.12.02-19.28.45:070][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003506s)
+[2017.12.02-19.28.45:093][ 61]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.28.45:100][ 61]LogInit: FAudioDevice initialized.
+[2017.12.02-19.28.45:134][ 61]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.02-19.28.45:135][ 61]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.12.02-12.28.45
+[2017.12.02-19.28.45:136][ 61]LogWorld: Bringing up level for play took: 0.001281
+[2017.12.02-19.28.45:137][ 61]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.509
+[2017.12.02-19.28.45:137][ 61]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.28.53:780][ 97]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.28.53:818][ 97]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.29.58:151][251]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-19.29.58:167][251]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.29.58:168][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-19.29.58:168][251]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 2, 2017, 5:29:58 AM)
+[2017.12.02-19.29.58:168][251]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.12.02-19.29.58:171][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003425s)
+[2017.12.02-19.29.58:172][251]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.12.02-19.29.58:172][251]LogPlayLevel: PIE: World Init took: (0.000548s)
+[2017.12.02-19.29.58:172][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004177s)
+[2017.12.02-19.29.58:199][251]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.29.58:204][251]LogInit: FAudioDevice initialized.
+[2017.12.02-19.29.58:236][251]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.02-19.29.58:237][251]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.12.02-12.29.58
+[2017.12.02-19.29.58:238][251]LogWorld: Bringing up level for play took: 0.001324
+[2017.12.02-19.29.58:239][251]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.388
+[2017.12.02-19.29.58:239][251]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.30.26:581][649]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.30.26:628][649]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.30.51:460][169]BlueprintLog: New page: Compile BP_2DSideScrollerCharacter
+[2017.12.02-19.30.52:382][196]LogSavePackage: Save=117.23ms
+[2017.12.02-19.30.52:382][196]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/BP_2DSideScrollerCharacterC39879D1402600BFBA8AE280F7C941DE.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.uasset'
+[2017.12.02-19.30.52:385][196]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.uasset
+[2017.12.02-19.30.53:792][305]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-19.30.53:829][305]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.30.53:829][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-19.30.53:829][305]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 2, 2017, 5:30:53 AM)
+[2017.12.02-19.30.53:830][305]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.12.02-19.30.53:832][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002669s)
+[2017.12.02-19.30.53:833][305]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.12.02-19.30.53:833][305]LogPlayLevel: PIE: World Init took: (0.000488s)
+[2017.12.02-19.30.53:833][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003365s)
+[2017.12.02-19.30.53:858][305]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.30.53:864][305]LogInit: FAudioDevice initialized.
+[2017.12.02-19.30.53:895][305]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.02-19.30.53:896][305]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.12.02-12.30.53
+[2017.12.02-19.30.53:897][305]LogWorld: Bringing up level for play took: 0.001733
+[2017.12.02-19.30.53:898][305]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.727
+[2017.12.02-19.30.53:898][305]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.31.03:867][500]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.31.03:903][500]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.31.58:125][175]BlueprintLog: New page: Compile 2DLift
+[2017.12.02-19.31.59:332][203]LogSavePackage: Save=129.51ms
+[2017.12.02-19.31.59:332][203]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLift30302C4C4FBF20EC3945579DC4BB747D.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset'
+[2017.12.02-19.31.59:335][203]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset
+[2017.12.02-19.32.01:508][402]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-19.32.01:538][402]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.32.01:538][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-19.32.01:538][402]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 2, 2017, 5:32:01 AM)
+[2017.12.02-19.32.01:538][402]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.12.02-19.32.01:541][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002793s)
+[2017.12.02-19.32.01:541][402]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.12.02-19.32.01:541][402]LogPlayLevel: PIE: World Init took: (0.000530s)
+[2017.12.02-19.32.01:542][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003532s)
+[2017.12.02-19.32.01:565][402]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.32.01:571][402]LogInit: FAudioDevice initialized.
+[2017.12.02-19.32.01:606][402]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.02-19.32.01:608][402]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.12.02-12.32.01
+[2017.12.02-19.32.01:608][402]LogWorld: Bringing up level for play took: 0.001673
+[2017.12.02-19.32.01:609][402]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.985
+[2017.12.02-19.32.01:609][402]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.32.12:300][683]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.32.12:337][683]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.34.19:068][787]BlueprintLog: New page: Compile 2DLift
+[2017.12.02-19.34.20:132][814]LogSavePackage: Save=130.26ms
+[2017.12.02-19.34.20:132][814]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLift16F07EFB4F7368C806C65D85DFA26097.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset'
+[2017.12.02-19.34.20:135][814]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset
+[2017.12.02-19.34.27:557][631]LogSavePackage: Save=125.05ms
+[2017.12.02-19.34.27:557][631]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLiftED039F2E451795C1E46AB88D63D7E097.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset'
+[2017.12.02-19.34.27:560][631]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset
+[2017.12.02-19.36.17:991][783]BlueprintLog: New page: Compile 2DLift
+[2017.12.02-19.36.19:086][804]LogSavePackage: Save=134.91ms
+[2017.12.02-19.36.19:086][804]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLift0C0E717C40230AF81A9643A930B44ADB.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset'
+[2017.12.02-19.36.19:089][804]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset
+[2017.12.02-19.36.54:560][192]BlueprintLog: New page: Compile 2DLift
+[2017.12.02-19.36.55:703][209]LogSavePackage: Save=130.82ms
+[2017.12.02-19.36.55:703][209]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLift8DB0C2FF4837B19503C8A8A30E2CB421.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset'
+[2017.12.02-19.36.55:706][209]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset
+[2017.12.02-19.36.57:279][313]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-19.36.57:312][313]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.36.57:312][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-19.36.57:312][313]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 2, 2017, 5:36:57 AM)
+[2017.12.02-19.36.57:312][313]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.12.02-19.36.57:319][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006907s)
+[2017.12.02-19.36.57:320][313]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.12.02-19.36.57:320][313]LogPlayLevel: PIE: World Init took: (0.000736s)
+[2017.12.02-19.36.57:320][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.007972s)
+[2017.12.02-19.36.57:344][313]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.36.57:350][313]LogInit: FAudioDevice initialized.
+[2017.12.02-19.36.57:383][313]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.02-19.36.57:385][313]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.12.02-12.36.57
+[2017.12.02-19.36.57:385][313]LogWorld: Bringing up level for play took: 0.001492
+[2017.12.02-19.36.57:386][313]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.767
+[2017.12.02-19.36.57:386][313]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.37.05:940][338]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.37.05:979][338]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.37.41:200][796]LogSavePackage: Save=143.02ms
+[2017.12.02-19.37.41:201][796]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DSideScrollerExampleMap_Auto1FFC728344465D1EA6DF96FBA8B95918E.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Autosaves/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_Auto1.umap'
+[2017.12.02-19.37.41:203][796]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Autosaves/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_Auto1.umap
+[2017.12.02-19.37.41:223][796]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap' took 0.212
+[2017.12.02-19.37.41:223][796]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.212
+[2017.12.02-19.39.56:942][516]BlueprintLog: New page: Compile 2DLift
+[2017.12.02-19.39.58:126][557]LogSavePackage: Save=134.40ms
+[2017.12.02-19.39.58:126][557]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLift050DEF1344D7A67F8735E8944C68179C.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset'
+[2017.12.02-19.39.58:130][557]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset
+[2017.12.02-19.40.02:960][117]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-19.40.02:993][117]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.40.02:994][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-19.40.02:994][117]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 2, 2017, 5:40:02 AM)
+[2017.12.02-19.40.02:994][117]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.12.02-19.40.02:997][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002912s)
+[2017.12.02-19.40.02:997][117]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.12.02-19.40.02:997][117]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2017.12.02-19.40.02:998][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003778s)
+[2017.12.02-19.40.03:022][117]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.40.03:027][117]LogInit: FAudioDevice initialized.
+[2017.12.02-19.40.03:060][117]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.02-19.40.03:062][117]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.12.02-12.40.03
+[2017.12.02-19.40.03:062][117]LogWorld: Bringing up level for play took: 0.001732
+[2017.12.02-19.40.03:063][117]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.448
+[2017.12.02-19.40.03:064][117]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.40.13:637][383]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.40.13:675][383]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.40.20:769][162]Cmd: TRANSACTION UNDO
+[2017.12.02-19.40.20:769][162]LogEditorTransaction: Undo Break Pin Links
+[2017.12.02-19.42.18:339][ 28]BlueprintLog: New page: Compile 2DLift
+[2017.12.02-19.42.19:519][ 73]LogSavePackage: Save=132.57ms
+[2017.12.02-19.42.19:519][ 73]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLift0236E1D9431C71CD5D69AFBD251F89DD.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset'
+[2017.12.02-19.42.19:522][ 73]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset
+[2017.12.02-19.43.49:846][436]BlueprintLog: New page: Compile 2DLift
+[2017.12.02-19.43.51:024][456]LogSavePackage: Save=135.98ms
+[2017.12.02-19.43.51:024][456]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLift5A6A6417446C831EE8C948A917157172.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset'
+[2017.12.02-19.43.51:028][456]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset
+[2017.12.02-19.44.30:648][413]BlueprintLog: New page: Compile 2DLift
+[2017.12.02-19.44.31:759][434]LogSavePackage: Save=139.63ms
+[2017.12.02-19.44.31:759][434]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLift9844AA4448BDA67C7AFA06AE3546E8C5.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset'
+[2017.12.02-19.44.31:762][434]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset
+[2017.12.02-19.44.33:037][582]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-19.44.33:072][582]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.44.33:072][582]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-19.44.33:072][582]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 2, 2017, 5:44:33 AM)
+[2017.12.02-19.44.33:072][582]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.12.02-19.44.33:075][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002864s)
+[2017.12.02-19.44.33:076][582]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.12.02-19.44.33:076][582]LogPlayLevel: PIE: World Init took: (0.000569s)
+[2017.12.02-19.44.33:076][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003688s)
+[2017.12.02-19.44.33:101][582]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.44.33:107][582]LogInit: FAudioDevice initialized.
+[2017.12.02-19.44.33:139][582]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.02-19.44.33:140][582]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.12.02-12.44.33
+[2017.12.02-19.44.33:141][582]LogWorld: Bringing up level for play took: 0.001417
+[2017.12.02-19.44.33:142][582]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.532
+[2017.12.02-19.44.33:142][582]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.44.48:236][392]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.44.48:276][392]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.45.31:240][ 38]BlueprintLog: New page: Compile 2DLift
+[2017.12.02-19.45.32:366][ 63]LogSavePackage: Save=141.35ms
+[2017.12.02-19.45.32:366][ 63]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLiftA27551994C2EDB4EA18154999BD86CED.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset'
+[2017.12.02-19.45.32:369][ 63]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset
+[2017.12.02-19.45.45:349][580]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-19.45.45:381][580]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.45.45:381][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-19.45.45:381][580]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 2, 2017, 5:45:45 AM)
+[2017.12.02-19.45.45:381][580]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.12.02-19.45.45:384][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002814s)
+[2017.12.02-19.45.45:384][580]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.12.02-19.45.45:385][580]LogPlayLevel: PIE: World Init took: (0.000526s)
+[2017.12.02-19.45.45:385][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003564s)
+[2017.12.02-19.45.45:409][580]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.45.45:415][580]LogInit: FAudioDevice initialized.
+[2017.12.02-19.45.45:445][580]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.02-19.45.45:447][580]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.12.02-12.45.45
+[2017.12.02-19.45.45:448][580]LogWorld: Bringing up level for play took: 0.001388
+[2017.12.02-19.45.45:449][580]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.839
+[2017.12.02-19.45.45:449][580]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.46.03:142][702]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.46.03:182][702]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.46.19:763][401]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-19.46.19:783][401]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.46.19:783][401]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-19.46.19:783][401]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 2, 2017, 5:46:19 AM)
+[2017.12.02-19.46.19:783][401]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.12.02-19.46.19:787][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003756s)
+[2017.12.02-19.46.19:788][401]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.12.02-19.46.19:788][401]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2017.12.02-19.46.19:788][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004727s)
+[2017.12.02-19.46.19:813][401]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.46.19:818][401]LogInit: FAudioDevice initialized.
+[2017.12.02-19.46.19:847][401]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.02-19.46.19:848][401]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.12.02-12.46.19
+[2017.12.02-19.46.19:849][401]LogWorld: Bringing up level for play took: 0.001413
+[2017.12.02-19.46.19:850][401]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.76
+[2017.12.02-19.46.19:850][401]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.47.12:970][539]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.47.13:031][539]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.47.21:650][ 66]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-19.47.21:665][ 66]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.47.21:666][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-19.47.21:666][ 66]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 2, 2017, 5:47:21 AM)
+[2017.12.02-19.47.21:666][ 66]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.12.02-19.47.21:669][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003139s)
+[2017.12.02-19.47.21:670][ 66]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.12.02-19.47.21:670][ 66]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2017.12.02-19.47.21:670][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004337s)
+[2017.12.02-19.47.21:700][ 66]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.47.21:706][ 66]LogInit: FAudioDevice initialized.
+[2017.12.02-19.47.21:738][ 66]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.02-19.47.21:740][ 66]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.12.02-12.47.21
+[2017.12.02-19.47.21:740][ 66]LogWorld: Bringing up level for play took: 0.001620
+[2017.12.02-19.47.21:741][ 66]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.867
+[2017.12.02-19.47.21:741][ 66]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.47.54:189][404]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.47.54:245][404]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.49.50:794][290]LogSavePackage: Save=144.42ms
+[2017.12.02-19.49.50:796][290]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DSideScrollerExampleMap_Auto27CE9A01E48F3FF6BC5DE24B7F35BFF13.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Autosaves/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_Auto2.umap'
+[2017.12.02-19.49.50:797][290]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Autosaves/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_Auto2.umap
+[2017.12.02-19.49.50:809][290]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap' took 0.209
+[2017.12.02-19.49.50:809][290]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.209
+[2017.12.02-19.49.50:822][290]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerCPP/Blueprints/2DLift] ([1] browsable assets)...
+[2017.12.02-19.49.50:822][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerCPP/Blueprints/2DLift]
+[2017.12.02-19.49.50:983][290]LogSavePackage: Save=139.93ms
+[2017.12.02-19.49.50:984][290]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLift_Auto27C1D0A98450339E027715095BF6C2ABB.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Autosaves/Game/2DSideScrollerCPP/Blueprints/2DLift_Auto2.uasset'
+[2017.12.02-19.49.50:985][290]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Autosaves/Game/2DSideScrollerCPP/Blueprints/2DLift_Auto2.uasset
+[2017.12.02-19.49.50:985][290]LogFileHelpers: Auto-saving content packages took 0.165
+[2017.12.02-19.53.41:228][503]BlueprintLog: New page: Compile 2DLift
+[2017.12.02-19.53.42:411][516]LogSavePackage: Save=140.53ms
+[2017.12.02-19.53.42:411][516]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLift9F88494240D3CB85AD5C03BEB6B2780E.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset'
+[2017.12.02-19.53.42:418][516]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset
+[2017.12.02-19.53.44:646][601]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-19.53.44:683][601]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.53.44:683][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-19.53.44:683][601]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 2, 2017, 5:53:44 AM)
+[2017.12.02-19.53.44:683][601]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.12.02-19.53.44:686][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003123s)
+[2017.12.02-19.53.44:687][601]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.12.02-19.53.44:687][601]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2017.12.02-19.53.44:687][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004392s)
+[2017.12.02-19.53.44:713][601]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.53.44:719][601]LogInit: FAudioDevice initialized.
+[2017.12.02-19.53.44:752][601]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.02-19.53.44:754][601]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.12.02-12.53.44
+[2017.12.02-19.53.44:754][601]LogWorld: Bringing up level for play took: 0.001301
+[2017.12.02-19.53.44:755][601]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.151
+[2017.12.02-19.53.44:755][601]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.53.51:100][830]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.53.51:170][830]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-19.55.42:556][920]LogEditorTransaction: Undo Delete current selection
+[2017.12.02-19.55.43:910][981]LogEditorTransaction: Undo Move Node
+[2017.12.02-19.55.44:376][998]LogEditorTransaction: Undo Move Nodes
+[2017.12.02-19.55.44:850][ 16]LogEditorTransaction: Undo Move Nodes
+[2017.12.02-19.55.45:207][ 28]LogEditorTransaction: Undo Move Nodes
+[2017.12.02-19.55.45:552][ 40]LogEditorTransaction: Undo Create Pin Link
+[2017.12.02-19.55.46:062][ 60]LogEditorTransaction: Undo Delete current selection
+[2017.12.02-19.55.46:496][ 76]LogEditorTransaction: Undo Delete current selection
+[2017.12.02-19.56.21:252][692]BlueprintLog: New page: Compile 2DLift
+[2017.12.02-19.56.22:353][704]LogSavePackage: Save=139.24ms
+[2017.12.02-19.56.22:353][704]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLift1CD91C8F4A5B22A43540F1BD5A5E2B66.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset'
+[2017.12.02-19.56.22:356][704]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset
+[2017.12.02-19.56.45:684][783]BlueprintLog: New page: Compile 2DLift
+[2017.12.02-19.56.46:811][799]LogSavePackage: Save=138.43ms
+[2017.12.02-19.56.46:811][799]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLift322DC33E4E1E9CDA77866B95487A119E.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset'
+[2017.12.02-19.56.46:814][799]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset
+[2017.12.02-19.59.28:303][203]LogEditorTransaction: Undo Move Node
+[2017.12.02-19.59.38:520][989]BlueprintLog: New page: Compile 2DLift
+[2017.12.02-19.59.39:527][ 12]LogSavePackage: Save=136.08ms
+[2017.12.02-19.59.39:527][ 12]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLift465CC386424A00CA0E9DF5A5329AB255.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset'
+[2017.12.02-19.59.39:531][ 12]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset
+[2017.12.02-20.00.07:332][301]BlueprintLog: New page: Compile 2DLift
+[2017.12.02-20.00.08:457][327]LogSavePackage: Save=140.22ms
+[2017.12.02-20.00.08:457][327]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLiftAA7820874F2A161232520D83B157EEFE.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset'
+[2017.12.02-20.00.08:460][327]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset
+[2017.12.02-20.00.10:301][428]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-20.00.10:335][428]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-20.00.10:335][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-20.00.10:335][428]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 2, 2017, 6:00:10 AM)
+[2017.12.02-20.00.10:335][428]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.12.02-20.00.10:338][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003092s)
+[2017.12.02-20.00.10:339][428]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.12.02-20.00.10:339][428]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2017.12.02-20.00.10:339][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003958s)
+[2017.12.02-20.00.10:363][428]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-20.00.10:369][428]LogInit: FAudioDevice initialized.
+[2017.12.02-20.00.10:398][428]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.02-20.00.10:401][428]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.12.02-13.00.10
+[2017.12.02-20.00.10:401][428]LogWorld: Bringing up level for play took: 0.001602
+[2017.12.02-20.00.10:402][428]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.197
+[2017.12.02-20.00.10:402][428]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-20.00.35:551][179]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-20.00.35:611][179]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-20.01.12:253][999]BlueprintLog: New page: Compile 2DLift
+[2017.12.02-20.01.13:939][ 26]LogSavePackage: Save=137.20ms
+[2017.12.02-20.01.13:939][ 26]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLift33FFDF2E492BC1339FB2BA9295A0D707.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset'
+[2017.12.02-20.01.13:942][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset
+[2017.12.02-20.01.19:073][395]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-20.01.19:111][395]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-20.01.19:111][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-20.01.19:111][395]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 2, 2017, 6:01:19 AM)
+[2017.12.02-20.01.19:111][395]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.12.02-20.01.19:114][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003011s)
+[2017.12.02-20.01.19:115][395]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.12.02-20.01.19:115][395]LogPlayLevel: PIE: World Init took: (0.000512s)
+[2017.12.02-20.01.19:115][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003732s)
+[2017.12.02-20.01.19:148][395]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-20.01.19:154][395]LogInit: FAudioDevice initialized.
+[2017.12.02-20.01.19:189][395]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.02-20.01.19:190][395]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.12.02-13.01.19
+[2017.12.02-20.01.19:191][395]LogWorld: Bringing up level for play took: 0.001480
+[2017.12.02-20.01.19:192][395]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.594
+[2017.12.02-20.01.19:192][395]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-20.01.51:501][117]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-20.01.51:572][117]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-20.02.40:667][657]BlueprintLog: New page: Compile 2DLift
+[2017.12.02-20.02.41:818][681]LogSavePackage: Save=132.72ms
+[2017.12.02-20.02.41:818][681]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLiftDB446D2241D0988E1968A3A83304832A.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset'
+[2017.12.02-20.02.41:823][681]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset
+[2017.12.02-20.03.54:451][362]BlueprintLog: New page: Compile 2DLift
+[2017.12.02-20.03.55:657][393]LogSavePackage: Save=134.45ms
+[2017.12.02-20.03.55:657][393]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLift08769DFE489AE1A6E6C220B06BB40C13.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset'
+[2017.12.02-20.03.55:660][393]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset
+[2017.12.02-20.04.13:929][780]BlueprintLog: New page: Compile 2DLift
+[2017.12.02-20.04.15:070][805]LogSavePackage: Save=140.30ms
+[2017.12.02-20.04.15:070][805]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLift60187D054BA4906EC7C36E9310D47725.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset'
+[2017.12.02-20.04.15:073][805]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset
+[2017.12.02-20.04.20:099][ 60]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-20.04.20:134][ 60]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-20.04.20:134][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-20.04.20:134][ 60]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 2, 2017, 6:04:20 AM)
+[2017.12.02-20.04.20:134][ 60]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.12.02-20.04.20:137][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002885s)
+[2017.12.02-20.04.20:138][ 60]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.12.02-20.04.20:138][ 60]LogPlayLevel: PIE: World Init took: (0.000562s)
+[2017.12.02-20.04.20:138][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003730s)
+[2017.12.02-20.04.20:164][ 60]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-20.04.20:170][ 60]LogInit: FAudioDevice initialized.
+[2017.12.02-20.04.20:205][ 60]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.02-20.04.20:207][ 60]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.12.02-13.04.20
+[2017.12.02-20.04.20:207][ 60]LogWorld: Bringing up level for play took: 0.001592
+[2017.12.02-20.04.20:208][ 60]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.387
+[2017.12.02-20.04.20:208][ 60]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-20.04.55:091][261]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-20.04.55:157][261]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-20.05.58:851][163]BlueprintLog: New page: Compile 2DLift
+[2017.12.02-20.06.00:159][207]LogSavePackage: Save=139.82ms
+[2017.12.02-20.06.00:159][207]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLift95C28D8B41206AF51295D891B11826A5.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset'
+[2017.12.02-20.06.00:162][207]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset
+[2017.12.02-20.06.07:443][751]LogSavePackage: Save=135.70ms
+[2017.12.02-20.06.07:443][751]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DLiftCDD999804C306A82059DFFA2E2C8311E.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset'
+[2017.12.02-20.06.07:444][751]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/2DLift.uasset
+[2017.12.02-20.06.14:494][212]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-20.06.14:528][212]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-20.06.14:528][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-20.06.14:529][212]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 2, 2017, 6:06:14 AM)
+[2017.12.02-20.06.14:529][212]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2017.12.02-20.06.14:533][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004262s)
+[2017.12.02-20.06.14:533][212]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.12.02-20.06.14:534][212]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2017.12.02-20.06.14:534][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.005267s)
+[2017.12.02-20.06.14:557][212]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-20.06.14:563][212]LogInit: FAudioDevice initialized.
+[2017.12.02-20.06.14:597][212]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.02-20.06.14:598][212]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2017.12.02-13.06.14
+[2017.12.02-20.06.14:599][212]LogWorld: Bringing up level for play took: 0.001418
+[2017.12.02-20.06.14:600][212]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.006
+[2017.12.02-20.06.14:600][212]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-20.07.05:581][687]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-20.07.05:634][687]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2017.12.02-20.07.09:629][ 41]LogSavePackage: Save=143.35ms
+[2017.12.02-20.07.09:629][ 41]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DSideScrollerExampleMap997D31E343D520E593CC0EAE6AB6C0A7.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.umap'
+[2017.12.02-20.07.09:634][ 41]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.umap
+[2017.12.02-20.07.09:698][ 41]LogSavePackage: Save=5.05ms
+[2017.12.02-20.07.09:698][ 41]LogSavePackage: Moving '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/2DSideScrollerExampleMap_BuiltDa6662F91E4BE8C397383A3E8E4095E69A.tmp' to '../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2017.12.02-20.07.09:699][ 41]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141834/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_BuiltData.uasset
+>>>>>>> GhostPlatfroms
