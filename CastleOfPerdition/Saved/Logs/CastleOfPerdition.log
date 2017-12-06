@@ -1416,3 +1416,579 @@ LogInit: Object subsystem initialized
 [2017.12.06-20.45.10:918][247]LogSavePackage: Save=77.43ms
 [2017.12.06-20.45.10:918][247]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Level1_25E7F96084EABABFA0B059EB63E6581AF.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level1_2.umap'
 [2017.12.06-20.45.10:921][247]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level1_2.umap
+[2017.12.06-20.45.49:376][406]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-20.45.49:401][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-20.45.49:401][406]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 6:45:49 AM)
+[2017.12.06-20.45.49:401][406]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.06-20.45.49:404][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003343s)
+[2017.12.06-20.45.49:405][406]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.06-20.45.49:405][406]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2017.12.06-20.45.49:405][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.004209s)
+[2017.12.06-20.45.49:437][406]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.06-20.45.49:443][406]LogInit: FAudioDevice initialized.
+[2017.12.06-20.45.49:473][406]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.06-20.45.49:476][406]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.06-13.45.49
+[2017.12.06-20.45.49:476][406]LogWorld: Bringing up level for play took: 0.001601
+[2017.12.06-20.45.49:477][406]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.649
+[2017.12.06-20.45.52:369][695]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.45.52:369][695]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.45.52:370][695]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.45.55:374][995]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.45.55:375][995]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.45.55:375][995]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.45.58:378][292]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.45.58:378][292]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.45.58:378][292]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.46.01:382][591]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.46.01:382][591]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.46.01:383][591]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.46.04:388][887]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.46.04:388][887]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.46.04:389][887]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.46.07:393][179]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.46.07:393][179]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.46.07:393][179]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.46.10:394][472]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.46.10:394][472]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.46.10:395][472]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.46.13:399][764]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.46.13:399][764]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.46.13:400][764]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.46.16:404][ 53]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.46.16:405][ 53]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.46.16:405][ 53]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.46.19:411][340]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.46.19:412][340]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.46.19:412][340]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.46.22:412][626]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.46.22:413][626]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.46.22:413][626]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.46.25:414][915]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.46.25:414][915]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.46.25:414][915]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.46.28:419][201]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.46.28:419][201]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.46.28:419][201]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.46.31:423][487]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.46.31:424][487]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.46.31:424][487]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.46.34:430][775]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.46.34:431][775]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.46.34:431][775]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.46.37:435][ 59]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.46.37:436][ 59]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.46.37:436][ 59]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.46.40:443][343]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.46.40:443][343]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.46.40:444][343]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.46.43:647][630]Cmd: SELECT NONE
+[2017.12.06-20.46.45:947][843]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-20.46.45:971][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-20.46.45:972][843]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 6:46:45 AM)
+[2017.12.06-20.46.45:972][843]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.06-20.46.45:975][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003222s)
+[2017.12.06-20.46.45:975][843]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.06-20.46.45:975][843]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2017.12.06-20.46.45:976][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.003981s)
+[2017.12.06-20.46.46:007][843]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.06-20.46.46:013][843]LogInit: FAudioDevice initialized.
+[2017.12.06-20.46.46:045][843]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.06-20.46.46:048][843]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.06-13.46.46
+[2017.12.06-20.46.46:048][843]LogWorld: Bringing up level for play took: 0.001912
+[2017.12.06-20.46.46:049][843]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 -0.778
+[2017.12.06-20.46.48:945][130]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.46.48:945][130]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.46.48:945][130]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.46.51:948][433]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.46.51:948][433]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.46.51:948][433]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.46.54:957][735]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.46.54:958][735]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.46.54:958][735]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.46.58:499][ 72]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_49)
+[2017.12.06-20.47.56:787][888]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-20.47.56:812][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-20.47.56:812][888]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 6:47:56 AM)
+[2017.12.06-20.47.56:812][888]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.06-20.47.56:816][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003117s)
+[2017.12.06-20.47.56:817][888]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.06-20.47.56:817][888]LogPlayLevel: PIE: World Init took: (0.000538s)
+[2017.12.06-20.47.56:817][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.003872s)
+[2017.12.06-20.47.56:852][888]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.06-20.47.56:858][888]LogInit: FAudioDevice initialized.
+[2017.12.06-20.47.56:888][888]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.06-20.47.56:890][888]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.06-13.47.56
+[2017.12.06-20.47.56:891][888]LogWorld: Bringing up level for play took: 0.001573
+[2017.12.06-20.47.56:891][888]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.066
+[2017.12.06-20.47.59:778][178]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.47.59:779][178]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.47.59:779][178]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.48.02:783][479]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.48.02:784][479]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.48.02:784][479]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.48.05:793][778]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.48.05:793][778]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.48.05:794][778]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.48.11:860][361]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (TP_2DSideScrollerCharacter)
+[2017.12.06-20.48.20:194][927]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-20.48.20:219][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-20.48.20:220][927]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 6:48:20 AM)
+[2017.12.06-20.48.20:220][927]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.06-20.48.20:223][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003487s)
+[2017.12.06-20.48.20:224][927]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.06-20.48.20:224][927]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2017.12.06-20.48.20:224][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.004338s)
+[2017.12.06-20.48.20:286][927]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.06-20.48.20:292][927]LogInit: FAudioDevice initialized.
+[2017.12.06-20.48.20:321][927]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.06-20.48.20:323][927]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.06-13.48.20
+[2017.12.06-20.48.20:323][927]LogWorld: Bringing up level for play took: 0.001672
+[2017.12.06-20.48.20:324][927]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 -0.501
+[2017.12.06-20.48.23:183][206]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.48.23:183][206]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.48.23:183][206]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.48.40:213][602]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-20.48.40:240][602]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-20.48.40:240][602]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 6:48:40 AM)
+[2017.12.06-20.48.40:240][602]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.06-20.48.40:244][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003513s)
+[2017.12.06-20.48.40:244][602]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.06-20.48.40:244][602]LogPlayLevel: PIE: World Init took: (0.000538s)
+[2017.12.06-20.48.40:244][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.004304s)
+[2017.12.06-20.48.40:275][602]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.06-20.48.40:281][602]LogInit: FAudioDevice initialized.
+[2017.12.06-20.48.40:312][602]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.06-20.48.40:314][602]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.06-13.48.40
+[2017.12.06-20.48.40:314][602]LogWorld: Bringing up level for play took: 0.001587
+[2017.12.06-20.48.40:315][602]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 -0.51
+[2017.12.06-20.48.43:203][892]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.48.43:203][892]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.48.43:204][892]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.48.46:209][194]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.48.46:209][194]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.48.46:209][194]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.48.56:656][ 82]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-20.48.56:681][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-20.48.56:681][ 82]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 6:48:56 AM)
+[2017.12.06-20.48.56:681][ 82]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.06-20.48.56:684][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003201s)
+[2017.12.06-20.48.56:685][ 82]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.06-20.48.56:685][ 82]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2017.12.06-20.48.56:685][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.004196s)
+[2017.12.06-20.48.56:717][ 82]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.06-20.48.56:723][ 82]LogInit: FAudioDevice initialized.
+[2017.12.06-20.48.56:753][ 82]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.06-20.48.56:755][ 82]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.06-13.48.56
+[2017.12.06-20.48.56:755][ 82]LogWorld: Bringing up level for play took: 0.001714
+[2017.12.06-20.48.56:756][ 82]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 -0.069
+[2017.12.06-20.48.59:653][371]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.48.59:653][371]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.48.59:653][371]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.49.02:654][671]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.49.02:654][671]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.49.02:655][671]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.52.54:701][  7]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift2)
+[2017.12.06-20.54.48:644][ 45]LogRenderer: Reallocating scene render targets to support 1284x712 Format 10 NumSamples 1 (Frame:1).
+[2017.12.06-20.56.05:149][718]LogEditorTransaction: Undo Modify Component(s)
+[2017.12.06-20.57.28:423][945]BlueprintLog: New page: Compile icicle
+[2017.12.06-20.57.45:210][138]BlueprintLog: New page: Compile icicle
+[2017.12.06-20.57.46:790][243]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-20.57.46:820][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-20.57.46:820][243]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 6:57:46 AM)
+[2017.12.06-20.57.46:820][243]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.06-20.57.46:824][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003598s)
+[2017.12.06-20.57.46:824][243]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.06-20.57.46:825][243]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2017.12.06-20.57.46:825][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.004540s)
+[2017.12.06-20.57.46:858][243]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.06-20.57.46:865][243]LogInit: FAudioDevice initialized.
+[2017.12.06-20.57.46:902][243]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.06-20.57.46:904][243]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.06-13.57.46
+[2017.12.06-20.57.46:905][243]LogWorld: Bringing up level for play took: 0.001823
+[2017.12.06-20.57.46:906][243]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.087
+[2017.12.06-20.57.49:782][517]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.57.49:783][517]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.57.49:784][517]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.57.52:784][803]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.57.52:784][803]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.57.52:784][803]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.57.55:790][ 89]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.57.55:791][ 89]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.57.55:791][ 89]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.57.58:794][376]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.57.58:794][376]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.57.58:795][376]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.58.01:799][659]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.58.01:800][659]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.58.01:800][659]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.58.04:803][945]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.58.04:804][945]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.58.04:804][945]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.58.07:813][223]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.58.07:814][223]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.58.07:814][223]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.58.10:815][504]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.58.10:815][504]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.58.10:815][504]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.58.13:816][787]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.58.13:817][787]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.58.13:817][787]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.58.16:819][ 70]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.58.16:819][ 70]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.58.16:819][ 70]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.58.19:826][355]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.58.19:826][355]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.58.19:827][355]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.59.21:009][725]LogSavePackage: Save=76.40ms
+[2017.12.06-20.59.21:009][725]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Level1_212F6A687427FE84732A67882ADC21C69.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level1_2.umap'
+[2017.12.06-20.59.21:013][725]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level1_2.umap
+[2017.12.06-20.59.22:212][826]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-20.59.22:236][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-20.59.22:237][826]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 6:59:22 AM)
+[2017.12.06-20.59.22:237][826]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.06-20.59.22:240][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003603s)
+[2017.12.06-20.59.22:241][826]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.06-20.59.22:241][826]LogPlayLevel: PIE: World Init took: (0.000609s)
+[2017.12.06-20.59.22:241][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.004445s)
+[2017.12.06-20.59.22:272][826]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.06-20.59.22:278][826]LogInit: FAudioDevice initialized.
+[2017.12.06-20.59.22:309][826]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.06-20.59.22:311][826]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.06-13.59.22
+[2017.12.06-20.59.22:311][826]LogWorld: Bringing up level for play took: 0.001552
+[2017.12.06-20.59.22:312][826]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 -0.505
+[2017.12.06-20.59.27:027][254]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.06-20.59.27:102][254]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.06-20.59.27:179][254]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.06-20.59.30:169][415]LogSavePackage: Save=30.67ms
+[2017.12.06-20.59.30:169][415]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/icicleF75FDE084DC5A6716A9362829BFC42E9.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/icicle.uasset'
+[2017.12.06-20.59.30:171][415]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/icicle.uasset
+[2017.12.06-20.59.30:244][415]LogSavePackage: Save=33.71ms
+[2017.12.06-20.59.30:244][415]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/wrap_teleport_bp0A9BE08A45A3580E7E2118ABA13D410A.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/wrap_teleport_bp.uasset'
+[2017.12.06-20.59.30:248][415]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/wrap_teleport_bp.uasset
+[2017.12.06-20.59.30:348][415]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.06-20.59.30:403][415]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.06-20.59.30:589][416]Cmd: QUIT_EDITOR
+[2017.12.06-20.59.31:283][416]LogExit: Preparing to exit.
+[2017.12.06-20.59.31:977][416]LogDirectoryWatcher: A directory notification for 'C:/Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/' was aborted.
+[2017.12.06-20.59.32:009][416]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.001 s
+[2017.12.06-20.59.32:009][416]LogOutputDevice: Error: === Handled ensure: ===
+[2017.12.06-20.59.32:010][416]LogOutputDevice: Error: 
+[2017.12.06-20.59.32:010][416]LogOutputDevice: Error: Ensure condition failed: ToPin->LinkedTo.Contains(this) [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 409]
+[2017.12.06-20.59.32:010][416]LogOutputDevice: Error: UEdGraphPin::BreakLinkTo Pin 'then' on node 'Unknown' not reciprocally linked with pin 'execute' on node 'SetActorTransform'
+[2017.12.06-20.59.32:010][416]LogOutputDevice: Error: Stack: 
+[2017.12.06-20.59.32:010][416]LogOutputDevice: Error: [Callstack] 0x00000000932A2786 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.06-20.59.32:010][416]LogOutputDevice: Error: [Callstack] 0x000000009304123A UE4Editor-Core.dll!UnknownFunction []
+[2017.12.06-20.59.32:010][416]LogOutputDevice: Error: [Callstack] 0x000000009305B906 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.06-20.59.32:010][416]LogOutputDevice: Error: [Callstack] 0x000000007912E5D3 UE4Editor-Engine.dll!UnknownFunction []
+[2017.12.06-20.59.32:010][416]LogOutputDevice: Error: [Callstack] 0x000000007912E3F9 UE4Editor-Engine.dll!UnknownFunction []
+[2017.12.06-20.59.32:010][416]LogOutputDevice: Error: [Callstack] 0x000000007913A878 UE4Editor-Engine.dll!UnknownFunction []
+[2017.12.06-20.59.32:010][416]LogOutputDevice: Error: [Callstack] 0x000000007912D132 UE4Editor-Engine.dll!UnknownFunction []
+[2017.12.06-20.59.32:010][416]LogOutputDevice: Error: [Callstack] 0x0000000083B0DFAF UE4Editor-CoreUObject.dll!UnknownFunction []
+[2017.12.06-20.59.32:010][416]LogOutputDevice: Error: [Callstack] 0x0000000083B4E3E3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2017.12.06-20.59.32:010][416]LogOutputDevice: Error: [Callstack] 0x0000000083992547 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2017.12.06-20.59.32:010][416]LogOutputDevice: Error: [Callstack] 0x00000000DE110AE5 UE4Editor.exe!UnknownFunction []
+[2017.12.06-20.59.32:010][416]LogOutputDevice: Error: [Callstack] 0x00000000DE110953 UE4Editor.exe!UnknownFunction []
+[2017.12.06-20.59.32:010][416]LogOutputDevice: Error: [Callstack] 0x00000000DE114791 UE4Editor.exe!UnknownFunction []
+[2017.12.06-20.59.32:010][416]LogOutputDevice: Error: [Callstack] 0x00000000DE115465 UE4Editor.exe!UnknownFunction []
+[2017.12.06-20.59.32:010][416]LogOutputDevice: Error: [Callstack] 0x00000000DE1154AA UE4Editor.exe!UnknownFunction []
+[2017.12.06-20.59.32:010][416]LogOutputDevice: Error: [Callstack] 0x00000000DE122379 UE4Editor.exe!UnknownFunction []
+[2017.12.06-20.59.32:010][416]LogOutputDevice: Error: [Callstack] 0x00000000DE123D57 UE4Editor.exe!UnknownFunction []
+[2017.12.06-20.59.32:010][416]LogOutputDevice: Error: [Callstack] 0x00000000C56D2774 KERNEL32.DLL!UnknownFunction []
+[2017.12.06-20.59.32:010][416]LogOutputDevice: Error: [Callstack] 0x00000000C6C20D51 ntdll.dll!UnknownFunction []
+[2017.12.06-20.59.32:010][416]LogOutputDevice: Error: 
+[2017.12.06-20.59.32:010][416]LogStats:             FDebug::EnsureFailed -  0.001 s
+[2017.12.06-20.59.32:022][416]LogExit: Editor shut down
+[2017.12.06-20.59.32:026][416]LogExit: Transaction tracking system shut down
+[2017.12.06-20.59.32:112][416]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.06-20.59.32:112][416]LogDirectoryWatcher: A directory notification for '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/' was aborted.
+[2017.12.06-20.59.32:112][416]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.06-20.59.32:112][416]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.12.06-20.59.32:113][416]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.12.06-20.59.32:113][416]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.12.06-20.59.32:113][416]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.12.06-20.59.32:199][416]LogExit: Object subsystem successfully closed.
+[2017.12.06-20.59.32:211][416]LogD3D11RHI: Shutdown
+[2017.12.06-20.59.32:211][416]LogD3D11RHI: CleanupD3DDevice
+[2017.12.06-20.59.32:213][416]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.06-20.59.32:227][416]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (554)
+[2017.12.06-20.59.32:227][416]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2017.12.06-20.59.32:227][416]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2017.12.06-20.59.32:227][416]LogModuleManager: Shutting down and abandoning module DesktopPlatform (548)
+[2017.12.06-20.59.32:227][416]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2017.12.06-20.59.32:227][416]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2017.12.06-20.59.32:228][416]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2017.12.06-20.59.32:228][416]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2017.12.06-20.59.32:228][416]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2017.12.06-20.59.32:229][416]LogDirectoryWatcher: A directory notification for 'C:/Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/Collections/' was aborted.
+[2017.12.06-20.59.32:229][416]LogDirectoryWatcher: A directory notification for 'C:/Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/Developers/u1139622/Collections/' was aborted.
+[2017.12.06-20.59.32:229][416]LogDirectoryWatcher: A directory notification for 'C:/Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Collections/' was aborted.
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2017.12.06-20.59.32:229][416]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2017.12.06-20.59.32:230][416]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2017.12.06-20.59.32:230][416]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2017.12.06-20.59.32:230][416]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2017.12.06-20.59.32:230][416]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2017.12.06-20.59.32:230][416]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2017.12.06-20.59.32:230][416]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2017.12.06-20.59.32:967][416]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2017.12.06-20.59.32:967][416]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2017.12.06-20.59.32:967][416]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2017.12.06-20.59.32:967][416]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2017.12.06-20.59.32:967][416]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2017.12.06-20.59.32:967][416]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2017.12.06-20.59.32:967][416]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2017.12.06-20.59.32:967][416]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2017.12.06-20.59.32:967][416]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2017.12.06-20.59.32:967][416]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2017.12.06-20.59.32:967][416]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2017.12.06-20.59.32:967][416]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2017.12.06-20.59.32:967][416]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2017.12.06-20.59.32:967][416]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2017.12.06-20.59.32:967][416]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2017.12.06-20.59.32:967][416]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2017.12.06-20.59.32:967][416]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2017.12.06-20.59.32:967][416]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2017.12.06-20.59.32:967][416]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2017.12.06-20.59.32:967][416]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2017.12.06-20.59.32:967][416]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2017.12.06-20.59.32:967][416]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2017.12.06-20.59.32:967][416]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2017.12.06-20.59.32:967][416]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2017.12.06-20.59.33:030][416]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2017.12.06-20.59.33:030][416]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2017.12.06-20.59.33:030][416]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2017.12.06-20.59.33:030][416]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2017.12.06-20.59.33:030][416]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2017.12.06-20.59.33:030][416]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2017.12.06-20.59.33:030][416]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2017.12.06-20.59.33:030][416]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2017.12.06-20.59.33:030][416]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2017.12.06-20.59.33:030][416]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2017.12.06-20.59.33:037][416]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2017.12.06-20.59.33:037][416]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2017.12.06-20.59.33:037][416]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2017.12.06-20.59.33:037][416]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2017.12.06-20.59.33:037][416]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2017.12.06-20.59.33:037][416]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2017.12.06-20.59.33:037][416]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2017.12.06-20.59.33:037][416]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2017.12.06-20.59.33:037][416]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2017.12.06-20.59.33:037][416]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2017.12.06-20.59.33:037][416]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2017.12.06-20.59.33:037][416]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2017.12.06-20.59.33:037][416]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2017.12.06-20.59.33:037][416]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2017.12.06-20.59.33:037][416]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2017.12.06-20.59.33:037][416]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2017.12.06-20.59.33:037][416]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2017.12.06-20.59.33:037][416]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2017.12.06-20.59.33:037][416]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2017.12.06-20.59.33:198][416]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2017.12.06-20.59.33:199][416]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2017.12.06-20.59.33:199][416]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2017.12.06-20.59.33:200][416]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2017.12.06-20.59.33:200][416]LogDirectoryWatcher: A directory notification for 'C:/Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Binaries/Win64' was aborted.
+[2017.12.06-20.59.33:200][416]LogModuleManager: Shutting down and abandoning module CastleOfPerdition (270)
+[2017.12.06-20.59.33:200][416]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.12.06-20.59.33:200][416]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.12.06-20.59.33:200][416]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.12.06-20.59.33:200][416]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.12.06-20.59.33:200][416]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.12.06-20.59.33:200][416]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.12.06-20.59.33:200][416]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.12.06-20.59.33:200][416]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.12.06-20.59.33:301][416]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.12.06-20.59.33:401][416]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.12.06-20.59.33:401][416]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.12.06-20.59.33:401][416]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.12.06-20.59.33:401][416]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.12.06-20.59.33:401][416]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.12.06-20.59.33:401][416]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.12.06-20.59.33:402][416]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.12.06-20.59.33:402][416]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.12.06-20.59.33:402][416]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.12.06-20.59.33:402][416]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.12.06-20.59.33:402][416]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.12.06-20.59.33:402][416]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.12.06-20.59.33:403][416]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.12.06-20.59.33:403][416]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.12.06-20.59.33:403][416]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.12.06-20.59.33:403][416]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.12.06-20.59.33:408][416]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.12.06-20.59.33:408][416]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.12.06-20.59.33:408][416]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.12.06-20.59.33:408][416]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.12.06-20.59.33:408][416]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.12.06-20.59.33:408][416]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.12.06-20.59.33:408][416]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.12.06-20.59.33:408][416]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.12.06-20.59.33:408][416]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.12.06-20.59.33:408][416]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.12.06-20.59.33:408][416]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.12.06-20.59.33:408][416]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.12.06-20.59.33:408][416]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.12.06-20.59.33:408][416]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.12.06-20.59.33:408][416]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.12.06-20.59.33:408][416]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.12.06-20.59.33:410][416]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.12.06-20.59.33:410][416]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.12.06-20.59.33:410][416]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.12.06-20.59.33:410][416]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.12.06-20.59.33:410][416]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.12.06-20.59.33:410][416]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.12.06-20.59.33:411][416]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.12.06-20.59.33:411][416]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.12.06-20.59.33:411][416]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.12.06-20.59.33:411][416]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.12.06-20.59.33:411][416]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.12.06-20.59.33:411][416]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.12.06-20.59.33:411][416]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.12.06-20.59.33:411][416]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.12.06-20.59.33:411][416]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.12.06-20.59.33:411][416]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.12.06-20.59.33:411][416]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.12.06-20.59.33:497][416]LogDerivedDataCache: Shutdown
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.06-20.59.33:497][416]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.06-20.59.33:497][416]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.06-20.59.33:497][416]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B901EF952-4E92-DC3C-83E6-C2B6A9D7F27A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.1-3754814%2B%2B%2BUE4%2BRelease-4.18&UserID=682c75f145b334b23c162d8a5aeba07b%7Cf8aac9f6fccf4e459b4c1ba2f792bcf1%7C0c3f5c3c-62f8-4c42-88a0-be96360781b8&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.06-20.59.33:531][416]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.06-20.59.33:532][416]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.06-20.59.33:532][416]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.06-20.59.33:532][416]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.06-20.59.33:532][416]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.06-20.59.33:533][416]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.06-20.59.33:533][416]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.06-20.59.33:533][416]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.06-20.59.33:534][416]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.06-20.59.33:534][416]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.06-20.59.33:534][416]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.06-20.59.33:534][416]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.06-20.59.33:534][416]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.06-20.59.33:534][416]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.06-20.59.33:534][416]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.06-20.59.33:534][416]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.06-20.59.33:534][416]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.06-20.59.33:534][416]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.06-20.59.33:534][416]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.06-20.59.33:537][416]LogExit: Exiting.
+[2017.12.06-20.59.33:555][416]Log file closed, 12/06/17 13:59:33
