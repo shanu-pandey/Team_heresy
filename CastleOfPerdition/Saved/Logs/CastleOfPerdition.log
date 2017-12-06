@@ -1,4 +1,4 @@
-﻿Log file open, 12/06/17 00:07:14
+﻿Log file open, 12/06/17 01:08:56
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +7,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: CastleOfPerdition
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(-1359696619) SRandInit(-1359696618).
+LogInit: Display: RandInit(230509720) SRandInit(230509720).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 3.099206
+LogStats: Stats thread started at 0.177509
 LogD3D11RHI: Aftermath initialized
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin LightPropagationVolume
@@ -195,555 +195,574 @@ LogInit: Base directory: D:/Program Files (x86)/Epic Games/UE_4.18/Engine/Binari
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2017.12.06-07.07.28:215][  0]LogInit: Selected Device Profile: [Windows]
-[2017.12.06-07.07.28:215][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2017.12.06-07.07.28:447][  0]LogInit: Computer: ALIENWARE-SHANU
-[2017.12.06-07.07.28:447][  0]LogInit: User: shant
-[2017.12.06-07.07.28:447][  0]LogInit: CPU Page size=4096, Cores=4
-[2017.12.06-07.07.28:447][  0]LogInit: High frequency timer resolution =2.742184 MHz
-[2017.12.06-07.07.28:448][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2017.12.06-07.07.28:456][  0]LogMemory: Platform Memory Stats for Windows
-[2017.12.06-07.07.28:456][  0]LogMemory: Process Physical Memory: 272.63 MB used, 272.63 MB peak
-[2017.12.06-07.07.28:456][  0]LogMemory: Process Virtual Memory: 271.82 MB used, 271.82 MB peak
-[2017.12.06-07.07.28:456][  0]LogMemory: Physical Memory: 6242.45 MB used,  10014.58 MB free, 16257.03 MB total
-[2017.12.06-07.07.28:456][  0]LogMemory: Virtual Memory: 646.33 MB used,  10014.58 MB free, 134217728.00 MB total
-[2017.12.06-07.07.32:140][  0]LogInit: Using OS detected language (en-US).
-[2017.12.06-07.07.32:141][  0]LogInit: Using OS detected locale (en-US).
-[2017.12.06-07.07.32:623][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2017.12.06-07.07.34:376][  0]LogInit: Setting process to per monitor DPI aware
-[2017.12.06-07.07.46:033][  0]LogD3D11RHI: D3D11 adapters:
-[2017.12.06-07.07.46:277][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
-[2017.12.06-07.07.46:277][  0]LogD3D11RHI:       6046/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2017.12.06-07.07.46:352][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
-[2017.12.06-07.07.46:352][  0]LogD3D11RHI:       128/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2017.12.06-07.07.46:356][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2017.12.06-07.07.46:356][  0]LogD3D11RHI:       0/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2017.12.06-07.07.46:356][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2017.12.06-07.07.46:380][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2017.12.06-07.07.46:395][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
-[2017.12.06-07.07.46:395][  0]LogWindows: EnumDisplayDevices:
-[2017.12.06-07.07.46:396][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:0 D:1)
-[2017.12.06-07.07.46:408][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
-[2017.12.06-07.07.46:408][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
-[2017.12.06-07.07.46:409][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
-[2017.12.06-07.07.46:409][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
-[2017.12.06-07.07.46:410][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
-[2017.12.06-07.07.46:410][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
-[2017.12.06-07.07.46:411][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
-[2017.12.06-07.07.46:411][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
-[2017.12.06-07.07.46:411][  0]LogD3D11RHI:   Driver Version: 385.14 (internal:22.21.13.8514, unified:385.14)
-[2017.12.06-07.07.46:411][  0]LogD3D11RHI:      Driver Date: 7-30-2017
-[2017.12.06-07.07.46:411][  0]LogRHI: Texture pool is 4232 MB (70% of 6046 MB)
-[2017.12.06-07.07.46:585][  0]LogD3D11RHI: Async texture creation enabled
-[2017.12.06-07.07.46:921][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 3)
-[2017.12.06-07.07.47:113][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/Intermediate/Shaders/WorkingDirectory/1644/).
-[2017.12.06-07.07.47:113][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/shant/AppData/Local/Temp/UnrealShaderWorkingDir/C5D4870E4E6CBB6C8EC0FABB144E22F0/'.
-[2017.12.06-07.07.47:127][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2017.12.06-07.08.00:119][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2017.12.06-07.08.00:602][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2017.12.06-07.08.01:123][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2017.12.06-07.08.01:340][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2017.12.06-07.08.01:605][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2017.12.06-07.08.02:030][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2017.12.06-07.08.02:332][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2017.12.06-07.08.02:746][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2017.12.06-07.08.03:153][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2017.12.06-07.08.03:688][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2017.12.06-07.08.04:152][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2017.12.06-07.08.04:322][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2017.12.06-07.08.04:867][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2017.12.06-07.08.05:391][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2017.12.06-07.08.05:957][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2017.12.06-07.08.05:957][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2017.12.06-07.08.06:467][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2017.12.06-07.08.06:811][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2017.12.06-07.08.07:704][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2017.12.06-07.08.07:988][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2017.12.06-07.08.08:496][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2017.12.06-07.08.08:795][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2017.12.06-07.08.09:203][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2017.12.06-07.08.09:661][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2017.12.06-07.08.09:661][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2017.12.06-07.08.15:981][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2017.12.06-07.08.17:405][  0]LogDerivedDataCache: Loaded boot cache 1.39s 78MB C:/Users/shant/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2017.12.06-07.08.17:405][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/shant/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2017.12.06-07.08.17:405][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2017.12.06-07.08.17:405][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2017.12.06-07.08.17:405][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2017.12.06-07.08.17:405][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2017.12.06-07.08.17:592][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2017.12.06-07.08.17:606][  0]LogDerivedDataCache: Using Local data cache path C:/Users/shant/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2017.12.06-07.08.17:741][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2017.12.06-07.08.17:784][  0]LogSlate: Using Freetype 2.6.0
-[2017.12.06-07.08.17:899][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.12.06-07.08.17:899][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.12.06-07.08.35:602][  0]LogInit: Selected Device Profile: [Windows]
-[2017.12.06-07.08.38:570][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2017.12.06-07.08.38:862][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2017.12.06-07.08.38:863][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2017.12.06-07.08.38:863][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2017.12.06-07.08.38:863][  0]LogMeshReduction: No automatic mesh merging module available
-[2017.12.06-07.08.38:863][  0]LogMeshMerging: No automatic mesh merging module available
-[2017.12.06-07.08.39:542][  0]LogNetVersion: CastleOfPerdition , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 261315538)
-[2017.12.06-07.08.41:687][  0]LogAssetRegistry: FAssetRegistry took 0.0515 seconds to start up
-[2017.12.06-07.08.50:912][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.280975 seconds
-[2017.12.06-07.08.51:028][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
-[2017.12.06-07.08.51:028][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
-[2017.12.06-07.08.51:028][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2017.12.06-07.08.51:429][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2017.12.06-07.09.28:495][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2017.12.06-07.09.28:761][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2017.12.06-07.09.34:818][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2017.12.06-07.09.37:955][  0]SourceControl: Source control is disabled
-[2017.12.06-07.09.37:955][  0]SourceControl: Source control is disabled
-[2017.12.06-07.09.38:508][  0]SourceControl: Source control is disabled
-[2017.12.06-07.09.38:991][  0]SourceControl: Source control is disabled
-[2017.12.06-07.09.47:367][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2017.12.06-07.09.49:845][  0]LogOcInput: OculusInput pre-init called
-[2017.12.06-07.09.52:372][  0]LogEngine: Initializing Engine...
-[2017.12.06-07.09.52:465][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2017.12.06-07.09.54:146][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2017.12.06-07.09.54:148][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2017.12.06-07.09.55:288][  0]LogAIModule: Creating AISystem for world Untitled
-[2017.12.06-07.09.55:654][  0]LogInit: XAudio2 using 'Headphones (2- boAt Rockerz 600 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
-[2017.12.06-07.09.56:084][  0]LogInit: FAudioDevice initialized.
-[2017.12.06-07.09.56:433][  0]LogDerivedDataCache: Saved boot cache 0.27s 78MB C:/Users/shant/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2017.12.06-07.09.56:464][  0]LogInit: Texture streaming: Enabled
-[2017.12.06-07.09.57:864][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2017.12.06-07.09.59:396][  0]LogInit: Transaction tracking system initialized
-[2017.12.06-07.10.06:354][  0]BlueprintLog: New page: Editor Load
-[2017.12.06-07.10.13:959][  0]LocalizationService: Localization service is disabled
-[2017.12.06-07.10.19:420][  0]LogConsoleResponse: Display: 
-[2017.12.06-07.10.23:449][  0]LogFileCache: Scanning file cache for directory 'D:/Programming/Git Repos/Team_heresy/CastleOfPerdition/Content/' took 0.05s
-[2017.12.06-07.10.23:449][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2017.12.06-07.10.23:470][  0]LogCook: Display: Mobile HDR setting 1
-[2017.12.06-07.10.23:520][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2017.12.06-07.10.36:610][  0]SourceControl: Source control is disabled
-[2017.12.06-07.10.37:071][  0]LogSlate: Took 0.028251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2017.12.06-07.11.47:279][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2017.12.06-07.11.47:377][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2017.12.06-07.11.47:440][  0]Cmd: MAP LOAD FILE="../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2017.12.06-07.11.47:610][  0]LightingResults: New page: Lighting Build
-[2017.12.06-07.11.48:190][  0]MapCheck: New page: Map Check
-[2017.12.06-07.11.48:190][  0]LightingResults: New page: Lighting Build
-[2017.12.06-07.11.55:190][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
-[2017.12.06-07.11.55:926][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2017.12.06-07.11.56:120][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2017.12.06-07.11.56:559][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 435.271ms to complete.
-[2017.12.06-07.11.56:581][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 9.171
-[2017.12.06-07.11.59:083][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_2180_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_334_0///####STATCAT_Advanced####
-[2017.12.06-07.11.59:083][  0]LogCollectionManager: Loaded 0 collections in 0.006793 seconds
-[2017.12.06-07.11.59:920][  0]LogFileCache: Scanning file cache for directory 'D:/Programming/Git Repos/Team_heresy/CastleOfPerdition/Saved/Collections/' took 0.01s
-[2017.12.06-07.11.59:920][  0]LogFileCache: Scanning file cache for directory 'D:/Programming/Git Repos/Team_heresy/CastleOfPerdition/Content/Developers/shant/Collections/' took 0.01s
-[2017.12.06-07.11.59:920][  0]LogFileCache: Scanning file cache for directory 'D:/Programming/Git Repos/Team_heresy/CastleOfPerdition/Content/Collections/' took 0.01s
-[2017.12.06-07.11.59:920][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
-[2017.12.06-07.11.59:988][  0]LogContentBrowser: Native class hierarchy populated in 0.0636 seconds. Added 2365 classes and 521 folders.
-[2017.12.06-07.12.00:839][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0033 seconds. Added 0 classes and 0 folders.
-[2017.12.06-07.12.02:896][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0039 seconds. Added 0 classes and 0 folders.
-[2017.12.06-07.12.03:448][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0038 seconds. Added 1 classes and 2 folders.
-[2017.12.06-07.12.04:027][  0]LogSlate: Took 0.030916 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2017.12.06-07.12.04:133][  0]LogSlate: Took 0.027813 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2017.12.06-07.12.05:266][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
-[2017.12.06-07.12.06:499][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0037 seconds. Added 1 classes and 2 folders.
-[2017.12.06-07.12.06:499][  0]LogLoad: (Engine Initialization) Total time: 306.99 seconds
-[2017.12.06-07.12.06:499][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2017.12.06-07.12.06:526][  0]LogExternalProfiler: Found external profiler: VSPerf
-[2017.12.06-07.12.06:527][  0]LogExternalProfiler: Using external profiler: VSPerf
-[2017.12.06-07.12.07:166][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2017.12.06-07.12.07:671][  1]LogSlate: Took 0.021744 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2017.12.06-07.12.07:963][  3]LogSlate: Took 0.000675 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2017.12.06-07.12.09:245][  3]LogSlate: Took 0.000568 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2017.12.06-07.12.10:385][  3]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0048 seconds. Added 116 classes and 0 folders.
-[2017.12.06-07.12.14:846][  3]LogMaterial: Missing cached shader map for material Red_Head_Material, compiling. 
-[2017.12.06-07.12.17:334][  3]LogSlate: Took 0.956736 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2017.12.06-07.12.19:233][  4]LogSlate: Took 0.018172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2017.12.06-07.12.22:270][ 13]LogAssetRegistry: Asset discovery search completed in 220.6054 seconds
-[2017.12.06-07.12.22:322][ 13]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2017.12.06-07.12.22:323][ 13]LogCollectionManager: Fixed up redirectors for 0 collections in 0.018911 seconds (updated 0 objects)
-[2017.12.06-07.13.57:204][593]LogAIModule: Creating AISystem for world Level1_2
-[2017.12.06-07.13.57:405][593]Cmd: MAP LOAD FILE="../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level1_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2017.12.06-07.13.57:405][593]LightingResults: New page: Lighting Build
-[2017.12.06-07.13.57:406][593]LoadErrors: New page: Loading map: Level1_2.umap
-[2017.12.06-07.13.57:420][593]MapCheck: New page: Map Check
-[2017.12.06-07.13.57:420][593]LightingResults: New page: Lighting Build
-[2017.12.06-07.13.57:578][593]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2017.12.06-07.13.57:680][593]Cmd: MAP CHECKDEP NOCLEARLOG
-[2017.12.06-07.13.57:796][593]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 115.486ms to complete.
-[2017.12.06-07.13.57:796][593]LogFileHelpers: Loading map 'Level1_2' took 0.500
-[2017.12.06-07.14.30:375][517]LogInit: XAudio2 using 'Headphones (2- boAt Rockerz 600 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
-[2017.12.06-07.14.30:430][517]LogAudio: Error: CreateMasteringVoice error: Unhandled error code -2147024875
-[2017.12.06-07.14.30:430][517]LogInit: Warning: Failed to create the mastering voice for XAudio2
-[2017.12.06-07.14.30:750][536]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{f826dc68-c2e1-4ed1-8667-5426ad8a8fc8} was removed. Shutting down audio device.
-[2017.12.06-07.14.30:802][536]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2017.12.06-07.14.39:307][  5]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.06-07.14.40:106][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.06-07.14.41:933][  5]PIE: New page: PIE session: Level1_2 (Dec 5, 2017, 5:14:41 PM)
-[2017.12.06-07.14.41:962][  5]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
-[2017.12.06-07.14.42:073][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.110910s)
-[2017.12.06-07.14.42:074][  5]LogAIModule: Creating AISystem for world Level1_2
-[2017.12.06-07.14.42:075][  5]LogPlayLevel: PIE: World Init took: (0.002135s)
-[2017.12.06-07.14.42:090][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.128769s)
-[2017.12.06-07.14.42:272][  5]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2017.12.06-07.14.42:377][  5]LogInit: FAudioDevice initialized.
-[2017.12.06-07.14.42:485][  5]LogLoad: Game class is 'CastleOfPerditionGameMode'
-[2017.12.06-07.14.42:621][  5]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 60) at 2017.12.06-00.14.42
-[2017.12.06-07.14.42:653][  5]LogWorld: Bringing up level for play took: 0.042410
-[2017.12.06-07.14.42:965][  5]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0038 seconds. Added 11 classes and 0 folders.
-[2017.12.06-07.14.43:047][  5]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 3.221
-[2017.12.06-07.18.22:008][234]LogInit: XAudio2 using 'S271HL (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
-[2017.12.06-07.18.25:390][244]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2017.12.06-07.20.46:959][151]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.06-07.20.46:985][151]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.06-07.20.46:985][151]PIE: New page: PIE session: Level1_2 (Dec 5, 2017, 5:20:46 PM)
-[2017.12.06-07.20.46:985][151]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
-[2017.12.06-07.20.47:001][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016294s)
-[2017.12.06-07.20.47:002][151]LogAIModule: Creating AISystem for world Level1_2
-[2017.12.06-07.20.47:002][151]LogPlayLevel: PIE: World Init took: (0.000827s)
-[2017.12.06-07.20.47:003][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.017537s)
-[2017.12.06-07.20.47:050][151]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2017.12.06-07.20.47:093][151]LogInit: FAudioDevice initialized.
-[2017.12.06-07.20.47:126][151]LogLoad: Game class is 'CastleOfPerditionGameMode'
-[2017.12.06-07.20.47:130][151]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 60) at 2017.12.06-00.20.47
-[2017.12.06-07.20.47:131][151]LogWorld: Bringing up level for play took: 0.003190
-[2017.12.06-07.20.47:133][151]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 -0.693
-[2017.12.06-07.22.13:345][587]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_36)
-[2017.12.06-07.22.14:591][617]LogEditorViewport: Clicking Background
-[2017.12.06-07.22.23:346][126]LogActorFactory: Actor Factory created Cube
-[2017.12.06-07.22.24:828][212]LogActorFactory: Actor Factory created Cube
-[2017.12.06-07.22.26:876][250]LogEditorViewport: Clicking Background
-[2017.12.06-07.22.30:580][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
-[2017.12.06-07.22.36:915][831]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_36)
-[2017.12.06-07.22.40:570][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
-[2017.12.06-07.22.42:744][169]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_36)
-[2017.12.06-07.22.44:513][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
-[2017.12.06-07.23.16:490][ 63]LogSlate: Took 0.000505 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2017.12.06-07.23.20:227][265]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.06-07.23.20:251][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.06-07.23.20:251][265]PIE: New page: PIE session: Level1_2 (Dec 5, 2017, 5:23:20 PM)
-[2017.12.06-07.23.20:252][265]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
-[2017.12.06-07.23.20:256][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003968s)
-[2017.12.06-07.23.20:256][265]LogAIModule: Creating AISystem for world Level1_2
-[2017.12.06-07.23.20:257][265]LogPlayLevel: PIE: World Init took: (0.000850s)
-[2017.12.06-07.23.20:257][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.005139s)
-[2017.12.06-07.23.20:302][265]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2017.12.06-07.23.20:347][265]LogInit: FAudioDevice initialized.
-[2017.12.06-07.23.20:385][265]LogLoad: Game class is 'CastleOfPerditionGameMode'
-[2017.12.06-07.23.20:390][265]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 60) at 2017.12.06-00.23.20
-[2017.12.06-07.23.20:391][265]LogWorld: Bringing up level for play took: 0.004044
-[2017.12.06-07.23.20:393][265]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.568
-[2017.12.06-07.23.25:481][548]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (TP_2DSideScrollerCharacter)
-[2017.12.06-07.23.38:400][263]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.06-07.23.38:423][263]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.06-07.23.38:424][263]PIE: New page: PIE session: Level1_2 (Dec 5, 2017, 5:23:38 PM)
-[2017.12.06-07.23.38:424][263]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
-[2017.12.06-07.23.38:427][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003408s)
-[2017.12.06-07.23.38:427][263]LogAIModule: Creating AISystem for world Level1_2
-[2017.12.06-07.23.38:428][263]LogPlayLevel: PIE: World Init took: (0.000482s)
-[2017.12.06-07.23.38:428][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.004198s)
-[2017.12.06-07.23.38:659][263]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2017.12.06-07.23.38:745][263]LogInit: FAudioDevice initialized.
-[2017.12.06-07.23.38:782][263]LogLoad: Game class is 'CastleOfPerditionGameMode'
-[2017.12.06-07.23.38:786][263]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 60) at 2017.12.06-00.23.38
-[2017.12.06-07.23.38:787][263]LogWorld: Bringing up level for play took: 0.003170
-[2017.12.06-07.23.38:789][263]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.963
-[2017.12.06-07.23.48:367][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
-[2017.12.06-07.24.27:852][ 69]LogRenderer: Reallocating scene render targets to support 1256x704 Format 10 NumSamples 1 (Frame:1).
-[2017.12.06-07.24.36:678][549]LogRenderer: Reallocating scene render targets to support 1260x704 Format 10 NumSamples 1 (Frame:13614).
-[2017.12.06-07.26.19:433][121]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (TP_2DSideScrollerCharacter)
-[2017.12.06-07.27.08:421][970]Cmd: TRANSACTION UNDO
-[2017.12.06-07.27.08:421][970]LogEditorTransaction: Undo Rotate Actors
-[2017.12.06-07.27.09:288][ 19]Cmd: TRANSACTION UNDO
-[2017.12.06-07.27.09:288][ 19]LogEditorTransaction: Undo Rotate Actors
-[2017.12.06-07.27.09:875][ 54]Cmd: TRANSACTION UNDO
-[2017.12.06-07.27.09:875][ 54]LogEditorTransaction: Undo Change Vector Pin Value
-[2017.12.06-07.27.53:786][645]BlueprintLog: New page: Compile wrap_teleport_bp
-[2017.12.06-07.27.57:491][827]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.06-07.27.57:519][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.06-07.27.57:519][827]PIE: New page: PIE session: Level1_2 (Dec 5, 2017, 5:27:57 PM)
-[2017.12.06-07.27.57:519][827]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
-[2017.12.06-07.27.57:535][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015698s)
-[2017.12.06-07.27.57:535][827]LogAIModule: Creating AISystem for world Level1_2
-[2017.12.06-07.27.57:535][827]LogPlayLevel: PIE: World Init took: (0.000674s)
-[2017.12.06-07.27.57:536][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.016660s)
-[2017.12.06-07.27.57:623][827]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2017.12.06-07.27.57:704][827]LogInit: FAudioDevice initialized.
-[2017.12.06-07.27.57:753][827]LogLoad: Game class is 'CastleOfPerditionGameMode'
-[2017.12.06-07.27.57:759][827]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 60) at 2017.12.06-00.27.57
-[2017.12.06-07.27.57:760][827]LogWorld: Bringing up level for play took: 0.005102
-[2017.12.06-07.27.57:762][827]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 -0.063
-[2017.12.06-07.28.05:815][304]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
-[2017.12.06-07.28.12:889][725]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
-[2017.12.06-07.28.49:534][879]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (TP_2DSideScrollerCharacter)
-[2017.12.06-07.29.19:405][653]Cmd: TRANSACTION UNDO
-[2017.12.06-07.29.19:405][653]LogEditorTransaction: Undo Set Location
-[2017.12.06-07.29.30:059][284]BlueprintLog: New page: Compile wrap_teleport_bp
-[2017.12.06-07.29.32:984][436]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.06-07.29.33:012][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.06-07.29.33:012][436]PIE: New page: PIE session: Level1_2 (Dec 5, 2017, 5:29:33 PM)
-[2017.12.06-07.29.33:012][436]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
-[2017.12.06-07.29.33:016][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003456s)
-[2017.12.06-07.29.33:016][436]LogAIModule: Creating AISystem for world Level1_2
-[2017.12.06-07.29.33:016][436]LogPlayLevel: PIE: World Init took: (0.000489s)
-[2017.12.06-07.29.33:016][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.004282s)
-[2017.12.06-07.29.33:141][436]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2017.12.06-07.29.33:248][436]LogInit: FAudioDevice initialized.
-[2017.12.06-07.29.33:304][436]LogLoad: Game class is 'CastleOfPerditionGameMode'
-[2017.12.06-07.29.33:311][436]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 60) at 2017.12.06-00.29.33
-[2017.12.06-07.29.33:312][436]LogWorld: Bringing up level for play took: 0.006135
-[2017.12.06-07.29.33:315][436]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 -0.51
-[2017.12.06-07.29.44:958][132]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
-[2017.12.06-07.29.44:958][132]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
-[2017.12.06-07.30.15:332][948]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.06-07.30.15:361][948]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.06-07.30.15:362][948]PIE: New page: PIE session: Level1_2 (Dec 5, 2017, 5:30:15 PM)
-[2017.12.06-07.30.15:362][948]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
-[2017.12.06-07.30.15:365][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003713s)
-[2017.12.06-07.30.15:366][948]LogAIModule: Creating AISystem for world Level1_2
-[2017.12.06-07.30.15:366][948]LogPlayLevel: PIE: World Init took: (0.000721s)
-[2017.12.06-07.30.15:366][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.004703s)
-[2017.12.06-07.30.15:412][948]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2017.12.06-07.30.15:462][948]LogInit: FAudioDevice initialized.
-[2017.12.06-07.30.15:496][948]LogLoad: Game class is 'CastleOfPerditionGameMode'
-[2017.12.06-07.30.15:498][948]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 60) at 2017.12.06-00.30.15
-[2017.12.06-07.30.15:499][948]LogWorld: Bringing up level for play took: 0.001769
-[2017.12.06-07.30.15:500][948]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 -0.326
-[2017.12.06-07.30.23:277][409]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (TP_2DSideScrollerCharacter)
-[2017.12.06-07.31.55:656][926]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.06-07.31.55:681][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.06-07.31.55:681][926]PIE: New page: PIE session: Level1_2 (Dec 5, 2017, 5:31:55 PM)
-[2017.12.06-07.31.55:681][926]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
-[2017.12.06-07.31.55:686][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004161s)
-[2017.12.06-07.31.55:686][926]LogAIModule: Creating AISystem for world Level1_2
-[2017.12.06-07.31.55:686][926]LogPlayLevel: PIE: World Init took: (0.000692s)
-[2017.12.06-07.31.55:687][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.005163s)
-[2017.12.06-07.31.55:766][926]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2017.12.06-07.31.55:824][926]LogInit: FAudioDevice initialized.
-[2017.12.06-07.31.55:855][926]LogLoad: Game class is 'CastleOfPerditionGameMode'
-[2017.12.06-07.31.55:858][926]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 60) at 2017.12.06-00.31.55
-[2017.12.06-07.31.55:858][926]LogWorld: Bringing up level for play took: 0.002042
-[2017.12.06-07.31.55:859][926]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.034
-[2017.12.06-07.31.57:896][ 48]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
-[2017.12.06-07.31.57:897][ 48]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
-[2017.12.06-07.32.41:307][914]LogSavePackage: Save=229.49ms
-[2017.12.06-07.32.41:307][914]LogSavePackage: Moving '../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/Saved/Level1_2_Auto1A95D05BF4323D51CAFB7E58280EAD854.tmp' to '../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/Saved/Autosaves/Game/2DSideScrollerCPP/Maps/Level1_2_Auto1.umap'
-[2017.12.06-07.32.41:324][914]LogSavePackage: Display: Finished SavePackage ../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/Saved/Autosaves/Game/2DSideScrollerCPP/Maps/Level1_2_Auto1.umap
-[2017.12.06-07.32.41:335][914]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerCPP/Maps/Level1_2' took 0.487
-[2017.12.06-07.32.41:336][914]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.487
-[2017.12.06-07.32.41:341][914]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerCPP/Blueprints/wrap_teleport_bp] ([1] browsable assets)...
-[2017.12.06-07.32.41:414][914]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/2DSideScrollerCPP/Blueprints/wrap_teleport_bp.wrap_teleport_bp]
-[2017.12.06-07.32.41:415][914]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerCPP/Blueprints/wrap_teleport_bp]
-[2017.12.06-07.32.41:593][914]LogSavePackage: Save=169.03ms
-[2017.12.06-07.32.41:593][914]LogSavePackage: Moving '../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/Saved/wrap_teleport_bp_Auto1792E050A46C84B03B684289D697CC9C1.tmp' to '../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/Saved/Autosaves/Game/2DSideScrollerCPP/Blueprints/wrap_teleport_bp_Auto1.uasset'
-[2017.12.06-07.32.41:596][914]LogSavePackage: Display: Finished SavePackage ../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/Saved/Autosaves/Game/2DSideScrollerCPP/Blueprints/wrap_teleport_bp_Auto1.uasset
-[2017.12.06-07.32.41:597][914]LogFileHelpers: Auto-saving content packages took 0.258
-[2017.12.06-07.33.05:970][988]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.06-07.33.05:996][988]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.06-07.33.05:996][988]PIE: New page: PIE session: Level1_2 (Dec 5, 2017, 5:33:05 PM)
-[2017.12.06-07.33.05:997][988]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
-[2017.12.06-07.33.06:000][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003459s)
-[2017.12.06-07.33.06:001][988]LogAIModule: Creating AISystem for world Level1_2
-[2017.12.06-07.33.06:001][988]LogPlayLevel: PIE: World Init took: (0.000943s)
-[2017.12.06-07.33.06:001][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.004703s)
-[2017.12.06-07.33.06:098][988]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2017.12.06-07.33.06:149][988]LogInit: FAudioDevice initialized.
-[2017.12.06-07.33.06:184][988]LogLoad: Game class is 'CastleOfPerditionGameMode'
-[2017.12.06-07.33.06:186][988]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 60) at 2017.12.06-00.33.06
-[2017.12.06-07.33.06:188][988]LogWorld: Bringing up level for play took: 0.002251
-[2017.12.06-07.33.06:191][988]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.365
-[2017.12.06-07.33.07:361][ 53]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
-[2017.12.06-07.33.07:361][ 53]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
-[2017.12.06-07.33.21:810][836]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift)
-[2017.12.06-07.33.26:965][140]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.06-07.33.26:988][140]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.06-07.33.26:988][140]PIE: New page: PIE session: Level1_2 (Dec 5, 2017, 5:33:26 PM)
-[2017.12.06-07.33.26:988][140]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
-[2017.12.06-07.33.26:991][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003130s)
-[2017.12.06-07.33.26:992][140]LogAIModule: Creating AISystem for world Level1_2
-[2017.12.06-07.33.26:992][140]LogPlayLevel: PIE: World Init took: (0.000598s)
-[2017.12.06-07.33.26:992][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.004081s)
-[2017.12.06-07.33.27:042][140]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2017.12.06-07.33.27:109][140]LogInit: FAudioDevice initialized.
-[2017.12.06-07.33.27:147][140]LogLoad: Game class is 'CastleOfPerditionGameMode'
-[2017.12.06-07.33.27:152][140]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 60) at 2017.12.06-00.33.27
-[2017.12.06-07.33.27:152][140]LogWorld: Bringing up level for play took: 0.003352
-[2017.12.06-07.33.27:154][140]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 -0.671
-[2017.12.06-07.33.28:138][198]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
-[2017.12.06-07.33.28:138][198]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
-[2017.12.06-07.34.03:107][232]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.06-07.34.03:130][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.06-07.34.03:130][232]PIE: New page: PIE session: Level1_2 (Dec 5, 2017, 5:34:03 PM)
-[2017.12.06-07.34.03:130][232]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
-[2017.12.06-07.34.03:134][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003878s)
-[2017.12.06-07.34.03:135][232]LogAIModule: Creating AISystem for world Level1_2
-[2017.12.06-07.34.03:135][232]LogPlayLevel: PIE: World Init took: (0.000630s)
-[2017.12.06-07.34.03:135][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.004814s)
-[2017.12.06-07.34.03:181][232]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2017.12.06-07.34.03:223][232]LogInit: FAudioDevice initialized.
-[2017.12.06-07.34.03:257][232]LogLoad: Game class is 'CastleOfPerditionGameMode'
-[2017.12.06-07.34.03:259][232]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 60) at 2017.12.06-00.34.03
-[2017.12.06-07.34.03:260][232]LogWorld: Bringing up level for play took: 0.001447
-[2017.12.06-07.34.03:261][232]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 -0.565
-[2017.12.06-07.34.04:831][319]LogEditorViewport: Clicking on Actor (LMB): wrap_teleport_bp_C (wrap_teleport_bp)
-[2017.12.06-07.34.23:400][429]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.06-07.34.23:425][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.06-07.34.23:425][429]PIE: New page: PIE session: Level1_2 (Dec 5, 2017, 5:34:23 PM)
-[2017.12.06-07.34.23:425][429]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
-[2017.12.06-07.34.23:429][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003313s)
-[2017.12.06-07.34.23:429][429]LogAIModule: Creating AISystem for world Level1_2
-[2017.12.06-07.34.23:429][429]LogPlayLevel: PIE: World Init took: (0.000523s)
-[2017.12.06-07.34.23:429][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.004094s)
-[2017.12.06-07.34.23:478][429]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2017.12.06-07.34.23:563][429]LogInit: FAudioDevice initialized.
-[2017.12.06-07.34.23:604][429]LogLoad: Game class is 'CastleOfPerditionGameMode'
-[2017.12.06-07.34.23:610][429]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 60) at 2017.12.06-00.34.23
-[2017.12.06-07.34.23:611][429]LogWorld: Bringing up level for play took: 0.004909
-[2017.12.06-07.34.23:614][429]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 -0.212
-[2017.12.06-07.34.24:977][510]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
-[2017.12.06-07.34.34:689][ 88]LogEditorViewport: Clicking on Actor (LMB): wrap_teleport_bp_C (wrap_teleport_bp)
-[2017.12.06-07.34.36:947][220]Cmd: EDIT COPY
-[2017.12.06-07.34.39:017][330]LogEditorViewport: Clicking Background
-[2017.12.06-07.34.39:656][368]Cmd: EDIT PASTE
-[2017.12.06-07.35.16:080][541]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.06-07.35.16:104][541]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.06-07.35.16:104][541]PIE: New page: PIE session: Level1_2 (Dec 5, 2017, 5:35:16 PM)
-[2017.12.06-07.35.16:104][541]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
-[2017.12.06-07.35.16:108][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003435s)
-[2017.12.06-07.35.16:108][541]LogAIModule: Creating AISystem for world Level1_2
-[2017.12.06-07.35.16:108][541]LogPlayLevel: PIE: World Init took: (0.000632s)
-[2017.12.06-07.35.16:109][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.004371s)
-[2017.12.06-07.35.16:154][541]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2017.12.06-07.35.16:203][541]LogInit: FAudioDevice initialized.
-[2017.12.06-07.35.16:236][541]LogLoad: Game class is 'CastleOfPerditionGameMode'
-[2017.12.06-07.35.16:239][541]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 60) at 2017.12.06-00.35.16
-[2017.12.06-07.35.16:239][541]LogWorld: Bringing up level for play took: 0.002194
-[2017.12.06-07.35.16:240][541]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.415
-[2017.12.06-07.35.17:301][604]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
-[2017.12.06-07.35.18:818][695]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.35.19:184][717]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.35.19:551][739]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.35.20:901][820]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.35.21:968][884]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.35.22:785][933]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.35.23:151][955]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.35.23:518][977]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.35.24:435][ 32]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.35.25:552][ 99]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.35.25:918][121]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.35.26:285][143]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.35.26:652][165]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.35.27:018][187]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.35.27:435][212]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.35.27:868][238]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.35.28:235][260]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.35.28:602][282]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.35.28:969][304]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.35.29:335][326]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.35.29:702][348]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.35.30:069][370]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.36.52:245][158]BlueprintLog: New page: Compile wrap_teleport_bp
-[2017.12.06-07.36.53:579][208]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.06-07.36.53:607][208]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.06-07.36.53:608][208]PIE: New page: PIE session: Level1_2 (Dec 5, 2017, 5:36:53 PM)
-[2017.12.06-07.36.53:608][208]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
-[2017.12.06-07.36.53:611][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003253s)
-[2017.12.06-07.36.53:612][208]LogAIModule: Creating AISystem for world Level1_2
-[2017.12.06-07.36.53:612][208]LogPlayLevel: PIE: World Init took: (0.000648s)
-[2017.12.06-07.36.53:612][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.004129s)
-[2017.12.06-07.36.53:687][208]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2017.12.06-07.36.53:748][208]LogInit: FAudioDevice initialized.
-[2017.12.06-07.36.53:784][208]LogLoad: Game class is 'CastleOfPerditionGameMode'
-[2017.12.06-07.36.53:787][208]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 60) at 2017.12.06-00.36.53
-[2017.12.06-07.36.53:787][208]LogWorld: Bringing up level for play took: 0.002036
-[2017.12.06-07.36.53:788][208]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 -0.037
-[2017.12.06-07.36.54:943][276]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
-[2017.12.06-07.36.56:526][371]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.36.56:893][393]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.36.57:260][415]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.36.57:626][437]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.36.59:693][561]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.37.00:060][583]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.37.00:427][605]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.37.20:396][790]BlueprintLog: New page: Compile wrap_teleport_bp
-[2017.12.06-07.37.21:923][855]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.06-07.37.21:950][855]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.06-07.37.21:950][855]PIE: New page: PIE session: Level1_2 (Dec 5, 2017, 5:37:21 PM)
-[2017.12.06-07.37.21:950][855]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
-[2017.12.06-07.37.21:953][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003414s)
-[2017.12.06-07.37.21:954][855]LogAIModule: Creating AISystem for world Level1_2
-[2017.12.06-07.37.21:954][855]LogPlayLevel: PIE: World Init took: (0.000507s)
-[2017.12.06-07.37.21:954][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.004267s)
-[2017.12.06-07.37.22:021][855]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2017.12.06-07.37.22:074][855]LogInit: FAudioDevice initialized.
-[2017.12.06-07.37.22:115][855]LogLoad: Game class is 'CastleOfPerditionGameMode'
-[2017.12.06-07.37.22:119][855]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 60) at 2017.12.06-00.37.22
-[2017.12.06-07.37.22:119][855]LogWorld: Bringing up level for play took: 0.003644
-[2017.12.06-07.37.22:121][855]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.296
-[2017.12.06-07.37.42:020][ 27]BlueprintLog: New page: Compile wrap_teleport_bp
-[2017.12.06-07.37.43:210][ 72]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.06-07.37.43:236][ 72]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.06-07.37.43:236][ 72]PIE: New page: PIE session: Level1_2 (Dec 5, 2017, 5:37:43 PM)
-[2017.12.06-07.37.43:236][ 72]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
-[2017.12.06-07.37.43:240][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003260s)
-[2017.12.06-07.37.43:241][ 72]LogAIModule: Creating AISystem for world Level1_2
-[2017.12.06-07.37.43:241][ 72]LogPlayLevel: PIE: World Init took: (0.000538s)
-[2017.12.06-07.37.43:241][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.004029s)
-[2017.12.06-07.37.43:302][ 72]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2017.12.06-07.37.43:355][ 72]LogInit: FAudioDevice initialized.
-[2017.12.06-07.37.43:397][ 72]LogLoad: Game class is 'CastleOfPerditionGameMode'
-[2017.12.06-07.37.43:400][ 72]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 60) at 2017.12.06-00.37.43
-[2017.12.06-07.37.43:400][ 72]LogWorld: Bringing up level for play took: 0.002262
-[2017.12.06-07.37.43:402][ 72]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 -0.424
-[2017.12.06-07.37.44:590][142]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
-[2017.12.06-07.37.45:990][226]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.37.47:724][330]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
-[2017.12.06-07.37.49:041][409]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.38.14:076][153]BlueprintLog: New page: Compile wrap_teleport_bp
-[2017.12.06-07.38.16:356][314]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.06-07.38.16:385][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.06-07.38.16:385][314]PIE: New page: PIE session: Level1_2 (Dec 5, 2017, 5:38:16 PM)
-[2017.12.06-07.38.16:385][314]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
-[2017.12.06-07.38.16:391][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005253s)
-[2017.12.06-07.38.16:391][314]LogAIModule: Creating AISystem for world Level1_2
-[2017.12.06-07.38.16:391][314]LogPlayLevel: PIE: World Init took: (0.000769s)
-[2017.12.06-07.38.16:392][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.006322s)
-[2017.12.06-07.38.16:447][314]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2017.12.06-07.38.16:496][314]LogInit: FAudioDevice initialized.
-[2017.12.06-07.38.16:532][314]LogLoad: Game class is 'CastleOfPerditionGameMode'
-[2017.12.06-07.38.16:535][314]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.06-00.38.16
-[2017.12.06-07.38.16:535][314]LogWorld: Bringing up level for play took: 0.001897
-[2017.12.06-07.38.16:536][314]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.71
-[2017.12.06-07.38.18:108][456]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
-[2017.12.06-07.38.19:297][563]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.38.23:043][908]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
-[2017.12.06-07.38.25:428][125]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.38.27:194][285]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
-[2017.12.06-07.38.30:336][566]LogEditorViewport: Clicking on Actor (LMB): wrap_teleport_bp_C (wrap_teleport_bp2)
-[2017.12.06-07.38.44:259][663]LogEditorViewport: Clicking on Actor (LMB): wrap_teleport_bp_C (wrap_teleport_bp)
-[2017.12.06-07.38.48:218][940]LogSavePackage: Save=101.26ms
-[2017.12.06-07.38.48:219][940]LogSavePackage: Moving '../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/Saved/Level1_228466ECA4D610A012D7019BE0274A6ED.tmp' to '../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level1_2.umap'
-[2017.12.06-07.38.48:226][940]LogSavePackage: Display: Finished SavePackage ../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level1_2.umap
-[2017.12.06-07.38.49:298][ 15]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.06-07.38.49:326][ 15]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.06-07.38.49:326][ 15]PIE: New page: PIE session: Level1_2 (Dec 5, 2017, 5:38:49 PM)
-[2017.12.06-07.38.49:326][ 15]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
-[2017.12.06-07.38.49:330][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003633s)
-[2017.12.06-07.38.49:331][ 15]LogAIModule: Creating AISystem for world Level1_2
-[2017.12.06-07.38.49:331][ 15]LogPlayLevel: PIE: World Init took: (0.000670s)
-[2017.12.06-07.38.49:331][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.004590s)
-[2017.12.06-07.38.49:383][ 15]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2017.12.06-07.38.49:435][ 15]LogInit: FAudioDevice initialized.
-[2017.12.06-07.38.49:465][ 15]LogLoad: Game class is 'CastleOfPerditionGameMode'
-[2017.12.06-07.38.49:467][ 15]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.06-00.38.49
-[2017.12.06-07.38.49:468][ 15]LogWorld: Bringing up level for play took: 0.001770
-[2017.12.06-07.38.49:468][ 15]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 -0.357
-[2017.12.06-07.38.50:344][ 88]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
-[2017.12.06-07.38.51:657][204]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.38.52:509][277]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
-[2017.12.06-07.38.53:993][405]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.38.56:293][617]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
-[2017.12.06-07.38.57:607][740]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.38.58:481][827]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
-[2017.12.06-07.38.59:684][937]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
-[2017.12.06-07.39.02:977][216]LogSavePackage: Save=85.83ms
-[2017.12.06-07.39.02:977][216]LogSavePackage: Moving '../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/Saved/Level1_262F8C35248B6CFA2AFA06D8AA7BE4CF9.tmp' to '../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level1_2.umap'
-[2017.12.06-07.39.02:980][216]LogSavePackage: Display: Finished SavePackage ../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level1_2.umap
+[2017.12.06-08.08.59:129][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.06-08.08.59:129][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.06-08.08.59:144][  0]LogInit: Computer: ALIENWARE-SHANU
+[2017.12.06-08.08.59:144][  0]LogInit: User: shant
+[2017.12.06-08.08.59:144][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.06-08.08.59:144][  0]LogInit: High frequency timer resolution =2.742184 MHz
+[2017.12.06-08.08.59:144][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.12.06-08.08.59:144][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.06-08.08.59:144][  0]LogMemory: Process Physical Memory: 272.64 MB used, 272.64 MB peak
+[2017.12.06-08.08.59:144][  0]LogMemory: Process Virtual Memory: 271.80 MB used, 271.80 MB peak
+[2017.12.06-08.08.59:144][  0]LogMemory: Physical Memory: 6531.65 MB used,  9725.38 MB free, 16257.03 MB total
+[2017.12.06-08.08.59:144][  0]LogMemory: Virtual Memory: 646.33 MB used,  9725.38 MB free, 134217728.00 MB total
+[2017.12.06-08.08.59:913][  0]LogInit: Using OS detected language (en-US).
+[2017.12.06-08.08.59:914][  0]LogInit: Using OS detected locale (en-US).
+[2017.12.06-08.08.59:918][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.06-08.09.00:317][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.06-08.09.00:740][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.06-08.09.00:792][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2017.12.06-08.09.00:792][  0]LogD3D11RHI:       6046/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.12.06-08.09.00:801][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2017.12.06-08.09.00:801][  0]LogD3D11RHI:       128/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.12.06-08.09.00:802][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.06-08.09.00:802][  0]LogD3D11RHI:       0/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.06-08.09.00:802][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.06-08.09.00:811][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.06-08.09.00:811][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.06-08.09.00:811][  0]LogWindows: EnumDisplayDevices:
+[2017.12.06-08.09.00:811][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2017.12.06-08.09.00:811][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.12.06-08.09.00:812][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.12.06-08.09.00:812][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2017.12.06-08.09.00:812][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.12.06-08.09.00:812][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.12.06-08.09.00:812][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.12.06-08.09.00:812][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.12.06-08.09.00:812][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2017.12.06-08.09.00:812][  0]LogD3D11RHI:   Driver Version: 385.14 (internal:22.21.13.8514, unified:385.14)
+[2017.12.06-08.09.00:812][  0]LogD3D11RHI:      Driver Date: 7-30-2017
+[2017.12.06-08.09.00:812][  0]LogRHI: Texture pool is 4232 MB (70% of 6046 MB)
+[2017.12.06-08.09.00:841][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.06-08.09.00:851][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.06-08.09.00:905][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/Intermediate/Shaders/WorkingDirectory/5332/).
+[2017.12.06-08.09.00:905][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/shant/AppData/Local/Temp/UnrealShaderWorkingDir/1E0DB78A49B4A001D513CEAD30322434/'.
+[2017.12.06-08.09.00:905][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.06-08.09.02:039][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.06-08.09.02:189][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.06-08.09.02:361][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.06-08.09.02:503][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.06-08.09.02:725][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.06-08.09.02:871][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.06-08.09.03:016][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.06-08.09.03:164][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.06-08.09.03:328][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.06-08.09.03:518][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.06-08.09.03:701][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.06-08.09.03:871][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.06-08.09.04:042][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.06-08.09.04:202][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.06-08.09.04:537][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.06-08.09.04:537][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.06-08.09.04:702][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.06-08.09.04:875][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.06-08.09.05:133][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.06-08.09.05:211][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.06-08.09.05:379][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.06-08.09.05:537][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.06-08.09.05:688][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.06-08.09.05:849][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.06-08.09.05:849][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.06-08.09.07:519][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.06-08.09.07:603][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/shant/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.06-08.09.07:603][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/shant/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.06-08.09.07:604][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.06-08.09.07:604][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.06-08.09.07:604][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.06-08.09.07:604][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.06-08.09.07:619][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.06-08.09.07:631][  0]LogDerivedDataCache: Using Local data cache path C:/Users/shant/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.06-08.09.07:642][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.06-08.09.07:642][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.06-08.09.07:643][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.06-08.09.07:643][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.06-08.09.08:084][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.06-08.09.08:996][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.06-08.09.09:140][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.06-08.09.09:140][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.06-08.09.09:140][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.06-08.09.09:140][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.06-08.09.09:140][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.06-08.09.09:180][  0]LogNetVersion: CastleOfPerdition , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 261315538)
+[2017.12.06-08.09.09:463][  0]LogAssetRegistry: FAssetRegistry took 0.0259 seconds to start up
+[2017.12.06-08.09.10:332][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.073794 seconds
+[2017.12.06-08.09.10:337][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.06-08.09.10:337][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.12.06-08.09.10:337][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.06-08.09.10:561][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.06-08.09.17:424][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.06-08.09.17:521][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.06-08.09.19:630][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.06-08.09.20:813][  0]SourceControl: Source control is disabled
+[2017.12.06-08.09.20:813][  0]SourceControl: Source control is disabled
+[2017.12.06-08.09.21:006][  0]SourceControl: Source control is disabled
+[2017.12.06-08.09.21:165][  0]SourceControl: Source control is disabled
+[2017.12.06-08.09.23:667][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.06-08.09.24:531][  0]LogOcInput: OculusInput pre-init called
+[2017.12.06-08.09.25:250][  0]LogEngine: Initializing Engine...
+[2017.12.06-08.09.25:252][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.06-08.09.25:484][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.06-08.09.25:484][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.06-08.09.25:966][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.06-08.09.26:018][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.06-08.09.26:067][  0]LogInit: FAudioDevice initialized.
+[2017.12.06-08.09.26:225][  0]LogDerivedDataCache: Saved boot cache 0.16s 78MB C:/Users/shant/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.06-08.09.26:245][  0]LogInit: Texture streaming: Enabled
+[2017.12.06-08.09.26:636][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.06-08.09.27:050][  0]LogInit: Transaction tracking system initialized
+[2017.12.06-08.09.28:188][  0]BlueprintLog: New page: Editor Load
+[2017.12.06-08.09.31:285][  0]LocalizationService: Localization service is disabled
+[2017.12.06-08.09.33:757][  0]LogConsoleResponse: Display: 
+[2017.12.06-08.09.34:018][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.06-08.09.34:018][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.06-08.09.34:018][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.06-08.09.34:218][  0]LogFileCache: Scanning file cache for directory 'D:/Programming/Git Repos/Team_heresy/CastleOfPerdition/Content/' took 0.01s
+[2017.12.06-08.09.37:725][  0]SourceControl: Source control is disabled
+[2017.12.06-08.09.37:725][  0]Cmd: MAP LOAD FILE="../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.06-08.09.37:726][  0]LightingResults: New page: Lighting Build
+[2017.12.06-08.09.37:855][  0]MapCheck: New page: Map Check
+[2017.12.06-08.09.37:855][  0]LightingResults: New page: Lighting Build
+[2017.12.06-08.09.38:244][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.12.06-08.09.38:254][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.06-08.09.38:264][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.06-08.09.38:373][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 109.094ms to complete.
+[2017.12.06-08.09.38:374][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.648
+[2017.12.06-08.09.38:577][  0]LogCollectionManager: Loaded 0 collections in 0.001322 seconds
+[2017.12.06-08.09.38:766][  0]LogFileCache: Scanning file cache for directory 'D:/Programming/Git Repos/Team_heresy/CastleOfPerdition/Saved/Collections/' took 0.01s
+[2017.12.06-08.09.38:766][  0]LogFileCache: Scanning file cache for directory 'D:/Programming/Git Repos/Team_heresy/CastleOfPerdition/Content/Developers/shant/Collections/' took 0.01s
+[2017.12.06-08.09.38:766][  0]LogFileCache: Scanning file cache for directory 'D:/Programming/Git Repos/Team_heresy/CastleOfPerdition/Content/Collections/' took 0.01s
+[2017.12.06-08.09.38:766][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.06-08.09.38:775][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2365 classes and 521 folders.
+[2017.12.06-08.09.38:997][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.12.06-08.09.39:057][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0017 seconds. Added 0 classes and 0 folders.
+[2017.12.06-08.09.39:196][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.12.06-08.09.39:299][  0]LogSlate: Took 0.000337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.06-08.09.39:301][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.06-08.09.39:310][  0]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.06-08.09.39:427][  0]LogRenderer: Reallocating scene render targets to support 1208x568 Format 10 NumSamples 1 (Frame:1).
+[2017.12.06-08.09.39:779][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.12.06-08.09.39:779][  0]LogLoad: (Engine Initialization) Total time: 45.08 seconds
+[2017.12.06-08.09.39:779][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.06-08.09.39:779][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.06-08.09.39:779][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.06-08.09.40:142][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.06-08.09.40:188][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.06-08.09.40:483][  1]LogAssetRegistry: Asset discovery search completed in 31.0420 seconds
+[2017.12.06-08.09.40:485][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.06-08.09.40:485][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000066 seconds (updated 0 objects)
+[2017.12.06-08.09.40:829][  3]LogSlate: Took 0.000304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.06-08.09.41:280][  3]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0020 seconds. Added 116 classes and 0 folders.
+[2017.12.06-08.09.43:529][  3]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.06-08.09.43:871][  4]LogSlate: Took 0.000628 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.06-08.11.20:708][636]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.06-08.11.20:744][636]Cmd: MAP LOAD FILE="../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level1_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.06-08.11.20:745][636]LightingResults: New page: Lighting Build
+[2017.12.06-08.11.20:745][636]LoadErrors: New page: Loading map: Level1_2.umap
+[2017.12.06-08.11.20:746][636]MapCheck: New page: Map Check
+[2017.12.06-08.11.20:746][636]LightingResults: New page: Lighting Build
+[2017.12.06-08.11.20:777][636]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.06-08.11.20:832][636]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.06-08.11.20:935][636]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 103.891ms to complete.
+[2017.12.06-08.11.20:937][636]LogFileHelpers: Loading map 'Level1_2' took 0.194
+[2017.12.06-08.12.33:725][553]LogRenderer: Reallocating scene render targets to support 1256x712 Format 10 NumSamples 1 (Frame:1).
+[2017.12.06-08.14.45:036][486]LogActorFactory: Actor Factory created Cube
+[2017.12.06-08.14.46:971][661]LogActorFactory: Actor Factory created Cube
+[2017.12.06-08.14.50:383][900]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.06-08.16.03:151][356]LogEditorViewport: Clicking Background
+[2017.12.06-08.16.03:623][397]Cmd: TRANSACTION UNDO
+[2017.12.06-08.16.03:623][397]LogEditorTransaction: Undo Clicking Background
+[2017.12.06-08.16.04:228][432]Cmd: TRANSACTION UNDO
+[2017.12.06-08.16.04:228][432]LogEditorTransaction: Undo Set Location
+[2017.12.06-08.17.02:421][688]LogRenderer: Reallocating scene render targets to support 1564x888 Format 10 NumSamples 1 (Frame:151).
+[2017.12.06-08.17.36:818][766]BlueprintLog: New page: Compile Icicle_spawner_blueprint
+[2017.12.06-08.17.52:190][798]BlueprintLog: New page: Compile Icicle_spawner_blueprint
+[2017.12.06-08.17.53:749][871]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-08.17.53:802][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-08.17.53:802][871]PIE: New page: PIE session: Level1_2 (Dec 5, 2017, 6:17:53 PM)
+[2017.12.06-08.17.53:802][871]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.06-08.17.53:806][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003641s)
+[2017.12.06-08.17.53:807][871]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.06-08.17.53:807][871]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2017.12.06-08.17.53:807][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.004762s)
+[2017.12.06-08.17.53:856][871]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.06-08.17.53:901][871]LogInit: FAudioDevice initialized.
+[2017.12.06-08.17.53:948][871]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.06-08.17.53:952][871]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.06-01.17.53
+[2017.12.06-08.17.53:952][871]LogWorld: Bringing up level for play took: 0.002282
+[2017.12.06-08.17.54:085][871]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
+[2017.12.06-08.17.54:086][871]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.26
+[2017.12.06-08.17.55:770][991]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-08.17.57:782][142]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-08.18.12:315][143]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-08.18.12:341][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-08.18.12:341][143]PIE: New page: PIE session: Level1_2 (Dec 5, 2017, 6:18:12 PM)
+[2017.12.06-08.18.12:341][143]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.06-08.18.12:344][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003181s)
+[2017.12.06-08.18.12:345][143]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.06-08.18.12:345][143]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2017.12.06-08.18.12:345][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.004215s)
+[2017.12.06-08.18.12:391][143]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.06-08.18.12:427][143]LogInit: FAudioDevice initialized.
+[2017.12.06-08.18.12:466][143]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.06-08.18.12:470][143]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.06-01.18.12
+[2017.12.06-08.18.12:471][143]LogWorld: Bringing up level for play took: 0.003562
+[2017.12.06-08.18.12:473][143]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.648
+[2017.12.06-08.18.14:305][292]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-08.18.16:305][457]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-08.18.18:308][624]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-08.18.20:315][792]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-08.18.22:322][956]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-08.18.24:333][122]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-08.18.26:337][282]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-08.18.28:343][451]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-08.18.30:350][613]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-08.18.32:362][774]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-08.18.34:364][936]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-08.18.36:374][ 98]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-08.18.38:378][260]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-08.19.50:741][462]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-08.19.50:769][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-08.19.50:770][462]PIE: New page: PIE session: Level1_2 (Dec 5, 2017, 6:19:50 PM)
+[2017.12.06-08.19.50:770][462]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.06-08.19.50:773][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003469s)
+[2017.12.06-08.19.50:774][462]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.06-08.19.50:774][462]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2017.12.06-08.19.50:774][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.004418s)
+[2017.12.06-08.19.50:825][462]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.06-08.19.50:879][462]LogInit: FAudioDevice initialized.
+[2017.12.06-08.19.50:970][462]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.06-08.19.50:973][462]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.06-01.19.50
+[2017.12.06-08.19.50:973][462]LogWorld: Bringing up level for play took: 0.002171
+[2017.12.06-08.19.50:974][462]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.12.06-08.19.50:979][462]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 1.154
+[2017.12.06-08.19.52:738][578]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-08.20.11:150][ 38]BlueprintLog: New page: Compile projectile
+[2017.12.06-08.20.12:714][155]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-08.20.12:743][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-08.20.12:743][155]PIE: New page: PIE session: Level1_2 (Dec 5, 2017, 6:20:12 PM)
+[2017.12.06-08.20.12:743][155]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.06-08.20.12:746][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003289s)
+[2017.12.06-08.20.12:747][155]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.06-08.20.12:747][155]LogPlayLevel: PIE: World Init took: (0.000501s)
+[2017.12.06-08.20.12:747][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.004085s)
+[2017.12.06-08.20.12:795][155]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.06-08.20.12:837][155]LogInit: FAudioDevice initialized.
+[2017.12.06-08.20.12:968][155]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.06-08.20.12:970][155]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.06-01.20.12
+[2017.12.06-08.20.12:970][155]LogWorld: Bringing up level for play took: 0.001855
+[2017.12.06-08.20.12:971][155]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.12.06-08.20.12:982][155]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 1.157
+[2017.12.06-08.20.14:716][267]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-08.20.34:762][421]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.06-08.20.34:834][421]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.06-08.20.34:909][421]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.06-08.20.56:950][240]LogSavePackage: Save=33.09ms
+[2017.12.06-08.20.56:950][240]LogSavePackage: Moving '../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/Saved/Icicle_spawner_blueprint0FD6A7E74AEC0899ADF067B838DF569B.tmp' to '../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/Icicle_spawner_blueprint.uasset'
+[2017.12.06-08.20.56:954][240]LogSavePackage: Display: Finished SavePackage ../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/Icicle_spawner_blueprint.uasset
+[2017.12.06-08.20.57:268][240]LogSavePackage: Save=106.60ms
+[2017.12.06-08.20.57:268][240]LogSavePackage: Moving '../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/Saved/Level1_220AB9FD24A63C137D7A018A7D7C9F0AE.tmp' to '../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level1_2.umap'
+[2017.12.06-08.20.57:272][240]LogSavePackage: Display: Finished SavePackage ../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level1_2.umap
+[2017.12.06-08.20.57:309][240]LogFileHelpers: Saving map 'Level1_2' took 0.352
+[2017.12.06-08.20.57:411][240]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.06-08.20.57:471][240]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.06-08.20.57:529][240]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.06-08.20.57:784][241]Cmd: QUIT_EDITOR
+[2017.12.06-08.20.58:236][241]LogExit: Preparing to exit.
+[2017.12.06-08.20.58:819][241]LogDirectoryWatcher: A directory notification for 'D:/Programming/Git Repos/Team_heresy/CastleOfPerdition/Content/' was aborted.
+[2017.12.06-08.20.58:877][241]LogExit: Editor shut down
+[2017.12.06-08.20.58:884][241]LogExit: Transaction tracking system shut down
+[2017.12.06-08.20.58:961][241]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.06-08.20.58:961][241]LogDirectoryWatcher: A directory notification for '../../../../../../Programming/Git Repos/Team_heresy/CastleOfPerdition/Content/' was aborted.
+[2017.12.06-08.20.58:961][241]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.06-08.20.58:961][241]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.12.06-08.20.58:961][241]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.12.06-08.20.58:961][241]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.12.06-08.20.58:962][241]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.12.06-08.20.59:046][241]LogExit: Object subsystem successfully closed.
+[2017.12.06-08.20.59:063][241]LogD3D11RHI: Shutdown
+[2017.12.06-08.20.59:063][241]LogD3D11RHI: CleanupD3DDevice
+[2017.12.06-08.20.59:066][241]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.06-08.20.59:127][241]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (556)
+[2017.12.06-08.20.59:127][241]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (554)
+[2017.12.06-08.20.59:127][241]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2017.12.06-08.20.59:127][241]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2017.12.06-08.20.59:127][241]LogModuleManager: Shutting down and abandoning module DesktopPlatform (548)
+[2017.12.06-08.20.59:127][241]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2017.12.06-08.20.59:127][241]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2017.12.06-08.20.59:127][241]LogDirectoryWatcher: A directory notification for 'D:/Program Files (x86)/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2017.12.06-08.20.59:130][241]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2017.12.06-08.20.59:130][241]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2017.12.06-08.20.59:130][241]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2017.12.06-08.20.59:130][241]LogDirectoryWatcher: A directory notification for 'D:/Programming/Git Repos/Team_heresy/CastleOfPerdition/Content/Collections/' was aborted.
+[2017.12.06-08.20.59:130][241]LogDirectoryWatcher: A directory notification for 'D:/Programming/Git Repos/Team_heresy/CastleOfPerdition/Content/Developers/shant/Collections/' was aborted.
+[2017.12.06-08.20.59:130][241]LogDirectoryWatcher: A directory notification for 'D:/Programming/Git Repos/Team_heresy/CastleOfPerdition/Saved/Collections/' was aborted.
+[2017.12.06-08.20.59:130][241]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2017.12.06-08.20.59:130][241]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2017.12.06-08.20.59:130][241]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2017.12.06-08.20.59:130][241]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2017.12.06-08.20.59:130][241]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2017.12.06-08.20.59:130][241]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2017.12.06-08.20.59:130][241]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2017.12.06-08.20.59:130][241]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2017.12.06-08.20.59:130][241]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2017.12.06-08.20.59:130][241]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2017.12.06-08.20.59:130][241]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2017.12.06-08.20.59:130][241]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2017.12.06-08.20.59:131][241]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2017.12.06-08.20.59:811][241]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2017.12.06-08.20.59:811][241]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2017.12.06-08.20.59:811][241]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2017.12.06-08.20.59:811][241]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2017.12.06-08.20.59:811][241]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2017.12.06-08.20.59:811][241]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2017.12.06-08.20.59:811][241]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2017.12.06-08.20.59:811][241]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2017.12.06-08.20.59:811][241]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2017.12.06-08.20.59:811][241]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2017.12.06-08.20.59:811][241]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2017.12.06-08.20.59:811][241]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2017.12.06-08.20.59:811][241]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2017.12.06-08.20.59:812][241]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2017.12.06-08.20.59:812][241]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2017.12.06-08.20.59:812][241]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2017.12.06-08.20.59:812][241]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2017.12.06-08.20.59:812][241]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2017.12.06-08.20.59:812][241]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2017.12.06-08.20.59:812][241]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2017.12.06-08.20.59:812][241]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2017.12.06-08.20.59:812][241]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2017.12.06-08.20.59:812][241]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2017.12.06-08.20.59:812][241]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2017.12.06-08.20.59:864][241]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2017.12.06-08.20.59:864][241]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2017.12.06-08.20.59:864][241]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2017.12.06-08.20.59:864][241]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2017.12.06-08.20.59:864][241]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2017.12.06-08.20.59:864][241]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2017.12.06-08.20.59:865][241]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2017.12.06-08.20.59:865][241]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2017.12.06-08.20.59:865][241]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2017.12.06-08.20.59:865][241]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2017.12.06-08.20.59:873][241]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2017.12.06-08.20.59:875][241]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2017.12.06-08.20.59:875][241]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2017.12.06-08.20.59:875][241]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2017.12.06-08.20.59:875][241]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2017.12.06-08.20.59:875][241]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2017.12.06-08.20.59:875][241]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2017.12.06-08.20.59:875][241]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2017.12.06-08.20.59:875][241]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2017.12.06-08.20.59:875][241]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2017.12.06-08.20.59:875][241]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2017.12.06-08.20.59:875][241]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2017.12.06-08.20.59:875][241]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2017.12.06-08.20.59:875][241]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2017.12.06-08.20.59:875][241]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2017.12.06-08.20.59:875][241]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2017.12.06-08.20.59:875][241]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2017.12.06-08.20.59:875][241]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2017.12.06-08.20.59:875][241]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2017.12.06-08.21.00:027][241]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2017.12.06-08.21.00:027][241]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2017.12.06-08.21.00:027][241]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2017.12.06-08.21.00:027][241]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2017.12.06-08.21.00:027][241]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2017.12.06-08.21.00:027][241]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2017.12.06-08.21.00:027][241]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2017.12.06-08.21.00:027][241]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2017.12.06-08.21.00:027][241]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2017.12.06-08.21.00:027][241]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2017.12.06-08.21.00:027][241]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2017.12.06-08.21.00:027][241]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2017.12.06-08.21.00:028][241]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2017.12.06-08.21.00:028][241]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2017.12.06-08.21.00:028][241]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2017.12.06-08.21.00:028][241]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2017.12.06-08.21.00:028][241]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2017.12.06-08.21.00:028][241]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2017.12.06-08.21.00:028][241]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2017.12.06-08.21.00:028][241]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2017.12.06-08.21.00:028][241]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2017.12.06-08.21.00:028][241]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2017.12.06-08.21.00:028][241]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2017.12.06-08.21.00:028][241]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2017.12.06-08.21.00:028][241]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2017.12.06-08.21.00:028][241]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2017.12.06-08.21.00:028][241]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2017.12.06-08.21.00:028][241]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2017.12.06-08.21.00:028][241]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2017.12.06-08.21.00:028][241]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2017.12.06-08.21.00:028][241]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2017.12.06-08.21.00:028][241]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2017.12.06-08.21.00:029][241]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2017.12.06-08.21.00:029][241]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2017.12.06-08.21.00:029][241]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2017.12.06-08.21.00:030][241]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2017.12.06-08.21.00:030][241]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2017.12.06-08.21.00:031][241]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2017.12.06-08.21.00:031][241]LogDirectoryWatcher: A directory notification for 'D:/Programming/Git Repos/Team_heresy/CastleOfPerdition/Binaries/Win64' was aborted.
+[2017.12.06-08.21.00:031][241]LogModuleManager: Shutting down and abandoning module CastleOfPerdition (270)
+[2017.12.06-08.21.00:032][241]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.12.06-08.21.00:032][241]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.12.06-08.21.00:032][241]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.12.06-08.21.00:032][241]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.12.06-08.21.00:032][241]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.12.06-08.21.00:032][241]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.12.06-08.21.00:032][241]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.12.06-08.21.00:032][241]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.12.06-08.21.00:132][241]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.12.06-08.21.00:233][241]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.12.06-08.21.00:233][241]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.12.06-08.21.00:233][241]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.12.06-08.21.00:233][241]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.12.06-08.21.00:233][241]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.12.06-08.21.00:233][241]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.12.06-08.21.00:234][241]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.12.06-08.21.00:234][241]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.12.06-08.21.00:234][241]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.12.06-08.21.00:234][241]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.12.06-08.21.00:234][241]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.12.06-08.21.00:234][241]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.12.06-08.21.00:234][241]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.12.06-08.21.00:234][241]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.12.06-08.21.00:234][241]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.12.06-08.21.00:234][241]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.12.06-08.21.00:240][241]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.12.06-08.21.00:240][241]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.12.06-08.21.00:240][241]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.12.06-08.21.00:240][241]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.12.06-08.21.00:240][241]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.12.06-08.21.00:240][241]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.12.06-08.21.00:240][241]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.12.06-08.21.00:240][241]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.12.06-08.21.00:240][241]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.12.06-08.21.00:240][241]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.12.06-08.21.00:240][241]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.12.06-08.21.00:240][241]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.12.06-08.21.00:240][241]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.12.06-08.21.00:241][241]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.12.06-08.21.00:241][241]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.12.06-08.21.00:241][241]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.12.06-08.21.00:244][241]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.12.06-08.21.00:244][241]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.12.06-08.21.00:244][241]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.12.06-08.21.00:244][241]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.12.06-08.21.00:244][241]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.12.06-08.21.00:244][241]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.12.06-08.21.00:244][241]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.12.06-08.21.00:244][241]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.12.06-08.21.00:245][241]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.12.06-08.21.00:245][241]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.12.06-08.21.00:245][241]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.12.06-08.21.00:245][241]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.12.06-08.21.00:245][241]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.12.06-08.21.00:245][241]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.12.06-08.21.00:245][241]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.12.06-08.21.00:245][241]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.12.06-08.21.00:245][241]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.12.06-08.21.00:330][241]LogDerivedDataCache: Shutdown
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.12.06-08.21.00:330][241]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.12.06-08.21.00:331][241]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.12.06-08.21.00:331][241]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.12.06-08.21.00:331][241]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.12.06-08.21.00:331][241]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.12.06-08.21.00:331][241]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.12.06-08.21.00:331][241]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.12.06-08.21.00:331][241]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.12.06-08.21.00:331][241]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.12.06-08.21.00:331][241]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.12.06-08.21.00:331][241]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.12.06-08.21.00:331][241]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.12.06-08.21.00:331][241]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.12.06-08.21.00:331][241]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.12.06-08.21.00:331][241]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.06-08.21.00:331][241]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.06-08.21.00:331][241]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.06-08.21.00:331][241]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.06-08.21.00:331][241]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.06-08.21.00:331][241]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6B9F863F-488D-4643-C6C5-8585FD4D2FD3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.1-3754814%2B%2B%2BUE4%2BRelease-4.18&UserID=ac751fd74201c412dd84cca2deecd4e3%7Cf8aac9f6fccf4e459b4c1ba2f792bcf1%7C61d4e8df-cc4a-4618-8026-6408d801702d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.06-08.21.00:365][241]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.06-08.21.00:367][241]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.06-08.21.00:367][241]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.06-08.21.00:367][241]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.06-08.21.00:367][241]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.06-08.21.00:368][241]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.06-08.21.00:368][241]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.06-08.21.00:368][241]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.06-08.21.00:370][241]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.06-08.21.00:370][241]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.06-08.21.00:370][241]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.06-08.21.00:370][241]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.06-08.21.00:370][241]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.06-08.21.00:370][241]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.06-08.21.00:371][241]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.06-08.21.00:371][241]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.06-08.21.00:371][241]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.06-08.21.00:371][241]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.06-08.21.00:371][241]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.06-08.21.00:378][241]LogExit: Exiting.
+[2017.12.06-08.21.00:411][241]Log file closed, 12/06/17 01:21:00
