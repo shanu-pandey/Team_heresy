@@ -1175,3 +1175,111 @@ LogInit: Object subsystem initialized
 [2017.12.07-13.33.47:135][741]LogSavePackage: Save=252.20ms
 [2017.12.07-13.33.47:135][741]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Level20C37A6BD4602196772B379BCBBFF2C0D.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap'
 [2017.12.07-13.33.47:147][741]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap
+[2017.12.07-13.38.14:858][109]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift2)
+[2017.12.07-13.38.17:392][393]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift3)
+[2017.12.07-13.38.19:413][617]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift6)
+[2017.12.07-13.38.20:430][726]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift4)
+[2017.12.07-13.38.21:746][872]Cmd: EDIT COPY
+[2017.12.07-13.38.22:075][909]Cmd: EDIT PASTE
+[2017.12.07-13.38.43:786][342]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift3)
+[2017.12.07-13.38.45:181][500]Cmd: DELETE
+[2017.12.07-13.38.45:181][500]Cmd: ACTOR DELETE
+[2017.12.07-13.38.45:186][500]LogEditorActor: Deleted Actor: 2DLift_C
+[2017.12.07-13.38.45:205][500]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2017.12.07-13.38.46:397][642]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift2)
+[2017.12.07-13.38.47:383][753]Cmd: DELETE
+[2017.12.07-13.38.47:383][753]Cmd: ACTOR DELETE
+[2017.12.07-13.38.47:387][753]LogEditorActor: Deleted Actor: 2DLift_C
+[2017.12.07-13.38.47:402][753]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.12.07-13.38.52:087][314]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift17)
+[2017.12.07-13.39.12:541][680]Cmd: EDIT COPY
+[2017.12.07-13.39.12:749][703]Cmd: EDIT PASTE
+[2017.12.07-13.39.25:665][197]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift17)
+[2017.12.07-13.39.27:023][353]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift18)
+[2017.12.07-13.39.30:446][749]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift17)
+[2017.12.07-13.39.31:994][926]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift18)
+[2017.12.07-13.39.35:589][345]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift17)
+[2017.12.07-13.39.50:233][ 52]Cmd: TRANSACTION UNDO
+[2017.12.07-13.39.50:233][ 52]LogEditorTransaction: Undo Set Location
+[2017.12.07-13.40.08:080][ 82]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift18)
+[2017.12.07-13.40.18:356][259]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift17)
+[2017.12.07-13.40.19:296][364]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift18)
+[2017.12.07-13.40.20:670][520]Cmd: EDIT COPY
+[2017.12.07-13.40.20:897][546]Cmd: EDIT PASTE
+[2017.12.07-13.40.31:524][737]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift18)
+[2017.12.07-13.40.34:350][ 45]Cmd: TRANSACTION UNDO
+[2017.12.07-13.40.34:350][ 45]LogEditorTransaction: Undo Move Actors
+[2017.12.07-13.40.46:858][435]Cmd: EDIT COPY
+[2017.12.07-13.40.47:077][460]Cmd: EDIT PASTE
+[2017.12.07-13.41.00:250][955]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift20)
+[2017.12.07-13.41.01:430][ 91]Cmd: EDIT COPY
+[2017.12.07-13.41.01:630][114]Cmd: EDIT PASTE
+[2017.12.07-13.41.22:757][493]Cmd: EDIT COPY
+[2017.12.07-13.41.22:993][520]Cmd: EDIT PASTE
+[2017.12.07-13.41.27:150][983]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift21)
+[2017.12.07-13.41.28:527][140]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift22)
+[2017.12.07-13.41.47:901][380]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift21)
+[2017.12.07-13.41.48:871][488]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift22)
+[2017.12.07-13.41.49:408][546]LogEditorViewport: Clicking on Actor (CTRL LMB): 2DLift_C (2DLift21)
+[2017.12.07-13.41.49:889][597]LogEditorViewport: Clicking on Actor (CTRL LMB): 2DLift_C (2DLift20)
+[2017.12.07-13.41.50:331][644]LogEditorViewport: Clicking on Actor (CTRL LMB): 2DLift_C (2DLift19)
+[2017.12.07-13.41.50:689][681]LogEditorViewport: Clicking on Actor (CTRL LMB): 2DLift_C (2DLift18)
+[2017.12.07-13.41.50:993][711]LogEditorViewport: Clicking on Actor (CTRL LMB): 2DLift_C (2DLift17)
+[2017.12.07-13.42.02:768][908]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift18)
+[2017.12.07-13.42.04:255][ 76]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift17)
+[2017.12.07-13.42.05:954][271]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift18)
+[2017.12.07-13.42.07:814][484]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift19)
+[2017.12.07-13.42.08:353][542]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift20)
+[2017.12.07-13.42.08:742][583]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift21)
+[2017.12.07-13.42.09:097][618]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift22)
+[2017.12.07-13.42.09:896][705]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift17)
+[2017.12.07-13.42.11:259][860]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift18)
+[2017.12.07-13.42.12:622][ 15]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift17)
+[2017.12.07-13.42.20:658][937]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift18)
+[2017.12.07-13.42.24:730][395]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift19)
+[2017.12.07-13.42.29:157][897]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift20)
+[2017.12.07-13.42.33:334][365]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift21)
+[2017.12.07-13.42.52:269][494]LogSavePackage: Save=288.24ms
+[2017.12.07-13.42.52:269][494]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Level2477E4C7B4F0CC81405DAA7B5F72F4FA4.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap'
+[2017.12.07-13.42.52:273][494]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap
+[2017.12.07-13.42.56:053][917]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2017.12.07-13.42.57:245][ 50]Cmd: DELETE
+[2017.12.07-13.42.57:245][ 50]Cmd: ACTOR DELETE
+[2017.12.07-13.42.57:249][ 50]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.12.07-13.42.57:264][ 50]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.12.07-13.42.59:490][316]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift4)
+[2017.12.07-13.43.01:260][516]Cmd: EDIT COPY
+[2017.12.07-13.43.01:494][543]Cmd: EDIT PASTE
+[2017.12.07-13.43.30:872][862]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-13.43.30:896][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-13.43.30:896][862]PIE: New page: PIE session: Level2 (Dec 6, 2017, 11:43:30 PM)
+[2017.12.07-13.43.30:896][862]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2
+[2017.12.07-13.43.30:908][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011769s)
+[2017.12.07-13.43.30:908][862]LogAIModule: Creating AISystem for world Level2
+[2017.12.07-13.43.30:908][862]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2017.12.07-13.43.30:909][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level2.Level2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 (0.012732s)
+[2017.12.07-13.43.30:941][862]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-13.43.30:949][862]LogInit: FAudioDevice initialized.
+[2017.12.07-13.43.30:982][862]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.07-13.43.30:988][862]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2017.12.07-06.43.30
+[2017.12.07-13.43.30:988][862]LogWorld: Bringing up level for play took: 0.005611
+[2017.12.07-13.43.30:990][862]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2 0.98
+[2017.12.07-13.44.13:293][894]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint)
+[2017.12.07-13.47.16:015][811]Cmd: TRANSACTION UNDO
+[2017.12.07-13.47.16:015][811]LogEditorTransaction: Undo Move Actors
+[2017.12.07-13.47.16:817][893]Cmd: TRANSACTION UNDO
+[2017.12.07-13.47.16:817][893]LogEditorTransaction: Undo Scale Actors
+[2017.12.07-13.47.19:106][158]Cmd: TRANSACTION UNDO
+[2017.12.07-13.47.19:106][158]LogEditorTransaction: Undo Create Actors
+[2017.12.07-13.47.24:979][810]Cmd: TRANSACTION UNDO
+[2017.12.07-13.47.24:979][810]LogEditorTransaction: Undo Create Actors
+[2017.12.07-13.47.36:179][ 49]Cmd: TRANSACTION UNDO
+[2017.12.07-13.47.36:179][ 49]LogEditorTransaction: Undo Create Actors
+[2017.12.07-13.48.23:560][488]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite7)
+[2017.12.07-13.48.24:542][590]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite2)
+[2017.12.07-13.48.25:642][674]LogSavePackage: Save=290.77ms
+[2017.12.07-13.48.25:642][674]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Level2B31667A44AECABE1F335EC94B12435E2.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap'
+[2017.12.07-13.48.25:646][674]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap
+[2017.12.07-13.48.26:155][683]LogSavePackage: Save=291.67ms
+[2017.12.07-13.48.26:155][683]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Level24DDC5D604BE547D4EA8AE6A054C09B0D.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap'
+[2017.12.07-13.48.26:158][683]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap
