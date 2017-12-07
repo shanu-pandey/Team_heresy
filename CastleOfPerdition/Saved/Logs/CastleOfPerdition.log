@@ -5250,3 +5250,1022 @@ Script call stack:
 [2017.12.07-09.34.39:220][763]LogSavePackage: Save=31.00ms
 [2017.12.07-09.34.39:220][763]LogSavePackage: Moving '../../../../../../Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Icicle_spawner_blueprint4B0BFDD946A80244CABF3AABFF46C608.tmp' to '../../../../../../Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/Icicle_spawner_blueprint.uasset'
 [2017.12.07-09.34.39:224][763]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/Icicle_spawner_blueprint.uasset
+[2017.12.07-09.34.51:036][936]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.12.07-09.37.22:916][203]LogEditorFactories: Performing atomic reimport of [C:/Users/u1166219/Desktop/Heresy/Assets/bg 2.png]
+[2017.12.07-09.37.22:924][203]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/u1166219/Desktop/Heresy/Assets/bg 2.png)
+[2017.12.07-09.37.23:293][203]LogTexture: Display: Building textures: bg_2 (BGRA8, 3556X2160)
+[2017.12.07-09.37.23:905][203]LogEditorFactories: -- imported successfully
+[2017.12.07-09.37.23:952][203]LogEditorFactories: Performing atomic reimport of [C:/Users/u1166219/Desktop/Heresy/Assets/bg 2 Dark.png]
+[2017.12.07-09.37.23:961][203]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/u1166219/Desktop/Heresy/Assets/bg 2 Dark.png)
+[2017.12.07-09.37.24:349][203]LogTexture: Display: Building textures: bg_2_Dark (BGRA8, 3556X2160)
+[2017.12.07-09.37.24:911][203]LogEditorFactories: -- imported successfully
+[2017.12.07-09.37.28:647][301]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-09.37.28:673][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-09.37.28:673][301]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 7:37:28 PM)
+[2017.12.07-09.37.28:673][301]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-09.37.28:679][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005717s)
+[2017.12.07-09.37.28:680][301]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-09.37.28:680][301]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2017.12.07-09.37.28:680][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.006648s)
+[2017.12.07-09.37.28:712][301]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-09.37.28:719][301]LogInit: FAudioDevice initialized.
+[2017.12.07-09.37.28:749][301]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-09.37.28:752][301]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-02.37.28
+[2017.12.07-09.37.28:752][301]LogWorld: Bringing up level for play took: 0.002776
+[2017.12.07-09.37.28:754][301]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 -0.548
+[2017.12.07-09.37.30:736][470]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.07-09.37.30:737][470]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.07-09.37.30:737][470]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.07-09.37.30:737][470]LogBlueprintUserMessages: [Icicle_spawner_blueprint4] Hello
+[2017.12.07-09.37.32:843][650]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.07-09.37.32:843][650]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.07-09.37.32:844][650]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.07-09.37.32:844][650]LogBlueprintUserMessages: [Icicle_spawner_blueprint4] Hello
+[2017.12.07-09.37.34:945][824]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.07-09.37.34:945][824]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.07-09.37.34:946][824]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.07-09.37.34:946][824]LogBlueprintUserMessages: [Icicle_spawner_blueprint4] Hello
+[2017.12.07-09.37.37:052][  0]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.07-09.37.37:052][  0]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.07-09.37.37:053][  0]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.07-09.37.37:053][  0]LogBlueprintUserMessages: [Icicle_spawner_blueprint4] Hello
+[2017.12.07-09.37.39:162][178]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.07-09.37.39:162][178]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.07-09.37.39:162][178]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.07-09.37.39:163][178]LogBlueprintUserMessages: [Icicle_spawner_blueprint4] Hello
+[2017.12.07-09.37.41:272][357]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.07-09.37.41:273][357]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.07-09.37.41:273][357]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.07-09.37.41:274][357]LogBlueprintUserMessages: [Icicle_spawner_blueprint4] Hello
+[2017.12.07-09.37.43:384][533]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.07-09.37.43:384][533]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.07-09.37.43:385][533]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.07-09.37.43:385][533]LogBlueprintUserMessages: [Icicle_spawner_blueprint4] Hello
+[2017.12.07-09.37.45:488][710]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.07-09.37.45:488][710]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.07-09.37.45:489][710]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.07-09.37.45:489][710]LogBlueprintUserMessages: [Icicle_spawner_blueprint4] Hello
+[2017.12.07-09.37.47:591][888]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.07-09.37.47:591][888]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.07-09.37.47:591][888]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.07-09.37.47:592][888]LogBlueprintUserMessages: [Icicle_spawner_blueprint4] Hello
+[2017.12.07-09.40.37:169][112]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.12.07-09.40.40:843][373]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint_C (Icicle_spawner_blueprint)
+[2017.12.07-09.41.21:631][214]Cmd: TRANSACTION UNDO
+[2017.12.07-09.41.21:631][214]LogEditorTransaction: Undo Create Actors
+[2017.12.07-09.41.24:710][431]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint_C (Icicle_spawner_blueprint)
+[2017.12.07-09.41.25:646][496]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint_Child_C (Icicle_spawner_blueprint_Child)
+[2017.12.07-09.41.31:520][896]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint_C (Icicle_spawner_blueprint)
+[2017.12.07-09.41.33:199][ 18]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint_Child_C (Icicle_spawner_blueprint_Child)
+[2017.12.07-09.41.40:669][539]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.12.07-09.41.41:577][602]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint_Child_C (Icicle_spawner_blueprint_Child)
+[2017.12.07-09.41.50:471][218]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.12.07-09.41.51:188][268]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint_C (Icicle_spawner_blueprint)
+[2017.12.07-09.41.52:178][337]Cmd: DELETE
+[2017.12.07-09.41.52:178][337]Cmd: ACTOR DELETE
+[2017.12.07-09.41.52:181][337]LogEditorActor: Deleted Actor: Icicle_spawner_blueprint_C
+[2017.12.07-09.41.52:203][337]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2017.12.07-09.41.52:660][375]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint_Child_C (Icicle_spawner_blueprint_Child)
+[2017.12.07-09.41.53:958][468]Cmd: TRANSACTION UNDO
+[2017.12.07-09.41.53:958][468]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.07-09.41.54:759][528]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.12.07-09.41.55:495][579]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint_Child_C (Icicle_spawner_blueprint_Child)
+[2017.12.07-09.41.57:974][751]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-09.41.58:008][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-09.41.58:008][751]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 7:41:58 PM)
+[2017.12.07-09.41.58:008][751]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-09.41.58:013][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005313s)
+[2017.12.07-09.41.58:014][751]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-09.41.58:014][751]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2017.12.07-09.41.58:014][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.006196s)
+[2017.12.07-09.41.58:043][751]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-09.41.58:050][751]LogInit: FAudioDevice initialized.
+[2017.12.07-09.41.58:083][751]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-09.41.58:087][751]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-02.41.58
+[2017.12.07-09.41.58:087][751]LogWorld: Bringing up level for play took: 0.003191
+[2017.12.07-09.41.58:090][751]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.791
+[2017.12.07-09.42.00:071][905]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.07-09.42.00:071][905]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.07-09.42.00:072][905]LogBlueprintUserMessages: [Icicle_spawner_blueprint4] Hello
+[2017.12.07-09.42.00:072][905]LogBlueprintUserMessages: [Icicle_spawner_blueprint_Child_2] Hello
+[2017.12.07-09.42.02:179][ 75]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.07-09.42.02:179][ 75]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.07-09.42.02:180][ 75]LogBlueprintUserMessages: [Icicle_spawner_blueprint4] Hello
+[2017.12.07-09.42.02:180][ 75]LogBlueprintUserMessages: [Icicle_spawner_blueprint_Child_2] Hello
+[2017.12.07-09.42.04:280][247]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.07-09.42.04:280][247]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.07-09.42.04:281][247]LogBlueprintUserMessages: [Icicle_spawner_blueprint4] Hello
+[2017.12.07-09.42.04:281][247]LogBlueprintUserMessages: [Icicle_spawner_blueprint_Child_2] Hello
+[2017.12.07-09.42.06:390][413]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.07-09.42.06:391][413]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.07-09.42.06:391][413]LogBlueprintUserMessages: [Icicle_spawner_blueprint4] Hello
+[2017.12.07-09.42.06:391][413]LogBlueprintUserMessages: [Icicle_spawner_blueprint_Child_2] Hello
+[2017.12.07-09.42.12:199][868]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint_Child_C (Icicle_spawner_blueprint_Child)
+[2017.12.07-09.42.36:508][539]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.07-09.42.38:896][694]Cmd: TRANSACTION UNDO
+[2017.12.07-09.42.38:896][694]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.07-09.42.39:121][709]Cmd: TRANSACTION UNDO
+[2017.12.07-09.42.39:122][709]LogEditorTransaction: Undo Move Actors
+[2017.12.07-09.42.39:321][722]Cmd: TRANSACTION UNDO
+[2017.12.07-09.42.39:321][722]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.07-09.42.39:529][734]Cmd: TRANSACTION UNDO
+[2017.12.07-09.42.39:529][734]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.07-09.42.39:777][755]Cmd: TRANSACTION UNDO
+[2017.12.07-09.42.39:777][755]LogEditorTransaction: Undo Delete Actors
+[2017.12.07-09.42.40:003][768]Cmd: TRANSACTION UNDO
+[2017.12.07-09.42.40:003][768]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.07-09.42.40:241][782]Cmd: TRANSACTION UNDO
+[2017.12.07-09.42.40:241][782]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.07-09.42.40:474][796]Cmd: TRANSACTION UNDO
+[2017.12.07-09.42.40:474][796]LogEditorTransaction: Undo Move Actors
+[2017.12.07-09.42.48:294][213]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.07-09.42.48:380][213]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.07-09.42.48:484][213]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.07-09.43.29:105][591]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint_C (Icicle_spawner_blueprint2)
+[2017.12.07-09.43.29:779][660]Cmd: DELETE
+[2017.12.07-09.43.29:779][660]Cmd: ACTOR DELETE
+[2017.12.07-09.43.29:784][660]LogEditorActor: Deleted Actor: Icicle_spawner_blueprint_C
+[2017.12.07-09.43.29:801][660]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2017.12.07-09.43.30:191][706]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint1_C (Icicle_spawner_blueprint1)
+[2017.12.07-09.43.54:861][307]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.07-09.43.59:726][770]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint_C (Icicle_spawner_blueprint3)
+[2017.12.07-09.44.00:949][893]Cmd: DELETE
+[2017.12.07-09.44.00:949][893]Cmd: ACTOR DELETE
+[2017.12.07-09.44.00:952][893]LogEditorActor: Deleted Actor: Icicle_spawner_blueprint_C
+[2017.12.07-09.44.00:968][893]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.12.07-09.44.01:401][942]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint2_C (Icicle_spawner_blueprint2)
+[2017.12.07-09.45.02:199][504]BlueprintLog: New page: Compile Icicle_spawner_blueprint
+[2017.12.07-09.47.53:449][956]BlueprintLog: New page: Compile Icicle_spawner_blueprint
+[2017.12.07-09.48.00:978][459]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.12.07-09.48.02:151][541]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint_C (Icicle_spawner_blueprint)
+[2017.12.07-09.48.23:688][156]BlueprintLog: New page: Compile Icicle_spawner_blueprint1
+[2017.12.07-09.48.38:164][185]BlueprintLog: New page: Compile Icicle_spawner_blueprint2
+[2017.12.07-09.48.42:854][504]BlueprintLog: New page: Compile Icicle_spawner_blueprint
+[2017.12.07-09.48.44:346][577]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-09.48.44:393][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-09.48.44:394][577]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 7:48:44 PM)
+[2017.12.07-09.48.44:394][577]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-09.48.44:399][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005548s)
+[2017.12.07-09.48.44:400][577]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-09.48.44:400][577]LogPlayLevel: PIE: World Init took: (0.000620s)
+[2017.12.07-09.48.44:400][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.006444s)
+[2017.12.07-09.48.44:430][577]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-09.48.44:437][577]LogInit: FAudioDevice initialized.
+[2017.12.07-09.48.44:471][577]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-09.48.44:475][577]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-02.48.44
+[2017.12.07-09.48.44:475][577]LogWorld: Bringing up level for play took: 0.003311
+[2017.12.07-09.48.44:478][577]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 -0.813
+[2017.12.07-09.48.46:455][746]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.07-09.48.46:456][746]LogBlueprintUserMessages: [Icicle_spawner_blueprint4] Hello
+[2017.12.07-09.48.46:942][788]LogBlueprintUserMessages: [Icicle_spawner_blueprint1_2] Hello
+[2017.12.07-09.48.47:453][832]LogBlueprintUserMessages: [Icicle_spawner_blueprint2_3] Hello
+[2017.12.07-09.48.48:558][928]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.07-09.48.48:559][928]LogBlueprintUserMessages: [Icicle_spawner_blueprint4] Hello
+[2017.12.07-09.48.49:052][971]LogBlueprintUserMessages: [Icicle_spawner_blueprint1_2] Hello
+[2017.12.07-09.48.49:562][ 15]LogBlueprintUserMessages: [Icicle_spawner_blueprint2_3] Hello
+[2017.12.07-09.48.50:661][113]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.07-09.48.50:661][113]LogBlueprintUserMessages: [Icicle_spawner_blueprint4] Hello
+[2017.12.07-09.48.51:161][156]LogBlueprintUserMessages: [Icicle_spawner_blueprint1_2] Hello
+[2017.12.07-09.48.51:672][201]LogBlueprintUserMessages: [Icicle_spawner_blueprint2_3] Hello
+[2017.12.07-09.48.52:767][298]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.07-09.48.52:768][298]LogBlueprintUserMessages: [Icicle_spawner_blueprint4] Hello
+[2017.12.07-09.48.53:270][342]LogBlueprintUserMessages: [Icicle_spawner_blueprint1_2] Hello
+[2017.12.07-09.48.53:777][387]LogBlueprintUserMessages: [Icicle_spawner_blueprint2_3] Hello
+[2017.12.07-09.48.54:878][486]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.07-09.48.54:879][486]LogBlueprintUserMessages: [Icicle_spawner_blueprint4] Hello
+[2017.12.07-09.48.55:377][530]LogBlueprintUserMessages: [Icicle_spawner_blueprint1_2] Hello
+[2017.12.07-09.48.55:887][575]LogBlueprintUserMessages: [Icicle_spawner_blueprint2_3] Hello
+[2017.12.07-09.48.56:983][674]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.07-09.48.56:984][674]LogBlueprintUserMessages: [Icicle_spawner_blueprint4] Hello
+[2017.12.07-09.48.57:479][718]LogBlueprintUserMessages: [Icicle_spawner_blueprint1_2] Hello
+[2017.12.07-09.48.57:992][763]LogBlueprintUserMessages: [Icicle_spawner_blueprint2_3] Hello
+[2017.12.07-09.48.59:086][858]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.07-09.48.59:087][858]LogBlueprintUserMessages: [Icicle_spawner_blueprint4] Hello
+[2017.12.07-09.48.59:583][901]LogBlueprintUserMessages: [Icicle_spawner_blueprint1_2] Hello
+[2017.12.07-09.49.08:140][661]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint1_C (Icicle_spawner_blueprint1)
+[2017.12.07-09.49.20:444][577]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint2_C (Icicle_spawner_blueprint2)
+[2017.12.07-09.49.24:954][925]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint_C (Icicle_spawner_blueprint)
+[2017.12.07-09.49.31:066][424]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint1_C (Icicle_spawner_blueprint1)
+[2017.12.07-09.49.31:868][484]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-09.49.31:890][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-09.49.31:890][484]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 7:49:31 PM)
+[2017.12.07-09.49.31:890][484]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-09.49.31:897][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006431s)
+[2017.12.07-09.49.31:897][484]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-09.49.31:898][484]LogPlayLevel: PIE: World Init took: (0.000531s)
+[2017.12.07-09.49.31:898][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.007261s)
+[2017.12.07-09.49.31:926][484]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-09.49.31:933][484]LogInit: FAudioDevice initialized.
+[2017.12.07-09.49.31:965][484]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-09.49.31:969][484]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-02.49.31
+[2017.12.07-09.49.31:969][484]LogWorld: Bringing up level for play took: 0.002870
+[2017.12.07-09.49.31:971][484]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.681
+[2017.12.07-09.49.33:974][666]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.07-09.49.33:975][666]LogBlueprintUserMessages: [Icicle_spawner_blueprint4] Hello
+[2017.12.07-09.49.34:468][711]LogBlueprintUserMessages: [Icicle_spawner_blueprint1_2] Hello
+[2017.12.07-09.49.34:966][756]LogBlueprintUserMessages: [Icicle_spawner_blueprint2_3] Hello
+[2017.12.07-09.49.36:079][858]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.07-09.49.36:079][858]LogBlueprintUserMessages: [Icicle_spawner_blueprint4] Hello
+[2017.12.07-09.49.36:571][903]LogBlueprintUserMessages: [Icicle_spawner_blueprint1_2] Hello
+[2017.12.07-09.49.37:068][948]LogBlueprintUserMessages: [Icicle_spawner_blueprint2_3] Hello
+[2017.12.07-09.49.38:185][ 48]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.07-09.49.38:186][ 48]LogBlueprintUserMessages: [Icicle_spawner_blueprint4] Hello
+[2017.12.07-09.49.38:676][ 92]LogBlueprintUserMessages: [Icicle_spawner_blueprint1_2] Hello
+[2017.12.07-09.49.39:172][137]LogBlueprintUserMessages: [Icicle_spawner_blueprint2_3] Hello
+[2017.12.07-09.49.40:290][239]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.07-09.49.40:290][239]LogBlueprintUserMessages: [Icicle_spawner_blueprint4] Hello
+[2017.12.07-09.49.40:777][284]LogBlueprintUserMessages: [Icicle_spawner_blueprint1_2] Hello
+[2017.12.07-09.49.41:274][330]LogBlueprintUserMessages: [Icicle_spawner_blueprint2_3] Hello
+[2017.12.07-09.49.42:396][430]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.07-09.49.42:396][430]LogBlueprintUserMessages: [Icicle_spawner_blueprint4] Hello
+[2017.12.07-09.49.42:879][473]LogBlueprintUserMessages: [Icicle_spawner_blueprint1_2] Hello
+[2017.12.07-09.49.43:377][518]LogBlueprintUserMessages: [Icicle_spawner_blueprint2_3] Hello
+[2017.12.07-09.49.44:502][621]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.07-09.49.44:503][621]LogBlueprintUserMessages: [Icicle_spawner_blueprint4] Hello
+[2017.12.07-09.49.44:988][666]LogBlueprintUserMessages: [Icicle_spawner_blueprint1_2] Hello
+[2017.12.07-09.49.45:482][711]LogBlueprintUserMessages: [Icicle_spawner_blueprint2_3] Hello
+[2017.12.07-09.49.46:610][813]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.07-09.49.46:610][813]LogBlueprintUserMessages: [Icicle_spawner_blueprint4] Hello
+[2017.12.07-09.49.47:099][858]LogBlueprintUserMessages: [Icicle_spawner_blueprint1_2] Hello
+[2017.12.07-09.49.47:589][903]LogBlueprintUserMessages: [Icicle_spawner_blueprint2_3] Hello
+[2017.12.07-09.50.24:300][223]BlueprintLog: New page: Compile Icicle_spawner_blueprint2
+[2017.12.07-09.50.25:182][273]BlueprintLog: New page: Compile Icicle_spawner_blueprint1
+[2017.12.07-09.50.26:025][317]BlueprintLog: New page: Compile Icicle_spawner_blueprint
+[2017.12.07-09.50.42:525][936]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint1_C (Icicle_spawner_blueprint1)
+[2017.12.07-09.50.44:954][124]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint2_C (Icicle_spawner_blueprint2)
+[2017.12.07-09.50.47:094][289]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-09.50.47:136][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-09.50.47:136][289]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 7:50:47 PM)
+[2017.12.07-09.50.47:136][289]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-09.50.47:141][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005297s)
+[2017.12.07-09.50.47:142][289]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-09.50.47:142][289]LogPlayLevel: PIE: World Init took: (0.000497s)
+[2017.12.07-09.50.47:142][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.006113s)
+[2017.12.07-09.50.47:171][289]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-09.50.47:178][289]LogInit: FAudioDevice initialized.
+[2017.12.07-09.50.47:208][289]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-09.50.47:212][289]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-02.50.47
+[2017.12.07-09.50.47:212][289]LogWorld: Bringing up level for play took: 0.003014
+[2017.12.07-09.50.47:214][289]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 -0.075
+[2017.12.07-09.50.57:122][146]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-09.50.57:122][146]PIE: New page: SIE session: Level1_2 (Dec 6, 2017, 7:50:57 PM)
+[2017.12.07-09.50.57:122][146]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-09.50.57:128][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005969s)
+[2017.12.07-09.50.57:129][146]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-09.50.57:129][146]LogPlayLevel: PIE: World Init took: (0.000592s)
+[2017.12.07-09.50.57:129][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.006862s)
+[2017.12.07-09.50.57:158][146]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-09.50.57:164][146]LogInit: FAudioDevice initialized.
+[2017.12.07-09.50.57:199][146]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-09.50.57:202][146]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-02.50.57
+[2017.12.07-09.50.57:203][146]LogWorld: Bringing up level for play took: 0.003082
+[2017.12.07-09.50.57:204][146]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 -0.084
+[2017.12.07-09.51.02:997][561]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint1_C (Icicle_spawner_blueprint1)
+[2017.12.07-09.51.16:603][521]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2017.12.07-09.51.16:603][521]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2017.12.07-09.51.16:603][521]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2017.12.07-09.51.16:604][521]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2017.12.07-09.51.16:604][521]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2017.12.07-09.51.16:604][521]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2017.12.07-09.51.18:380][642]BlueprintLog: New page: Compile Icicle_spawner_blueprint2
+[2017.12.07-09.51.23:675][972]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2017.12.07-09.51.23:675][972]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2017.12.07-09.51.23:675][972]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2017.12.07-09.51.23:677][972]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2017.12.07-09.51.23:677][972]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2017.12.07-09.51.23:677][972]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2017.12.07-09.51.24:734][ 41]BlueprintLog: New page: Compile Icicle_spawner_blueprint1
+[2017.12.07-09.51.30:159][365]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2017.12.07-09.51.30:159][365]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2017.12.07-09.51.30:160][365]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2017.12.07-09.51.30:160][365]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2017.12.07-09.51.30:160][365]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2017.12.07-09.51.30:160][365]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2017.12.07-09.51.30:160][365]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2017.12.07-09.51.30:161][365]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2017.12.07-09.51.31:421][447]BlueprintLog: New page: Compile Icicle_spawner_blueprint
+[2017.12.07-09.51.41:731][196]BlueprintLog: New page: Compile Icicle_spawner_blueprint
+[2017.12.07-09.51.53:912][ 99]BlueprintLog: New page: Compile Icicle_spawner_blueprint2
+[2017.12.07-09.51.54:382][104]BlueprintLog: New page: Compile Icicle_spawner_blueprint2
+[2017.12.07-09.51.56:295][219]LogTemp: Repeating last play command: Simulate
+[2017.12.07-09.51.56:335][219]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.07-09.51.56:338][219]LogPlayLevel: [PlayLevel] Compiling Icicle_spawner_blueprint1 before play...
+[2017.12.07-09.51.56:764][219]LogPlayLevel: PlayLevel: Blueprint regeneration took 428 ms (1 blueprints)
+[2017.12.07-09.51.56:764][219]PIE: New page: SIE session: Level1_2 (Dec 6, 2017, 7:51:56 PM)
+[2017.12.07-09.51.56:764][219]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-09.51.56:770][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005516s)
+[2017.12.07-09.51.56:771][219]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-09.51.56:771][219]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2017.12.07-09.51.56:771][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.006703s)
+[2017.12.07-09.51.56:801][219]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-09.51.56:808][219]LogInit: FAudioDevice initialized.
+[2017.12.07-09.51.56:839][219]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-09.51.56:842][219]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-02.51.56
+[2017.12.07-09.51.56:842][219]LogWorld: Bringing up level for play took: 0.002957
+[2017.12.07-09.51.56:844][219]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 -0.444
+[2017.12.07-09.52.05:289][884]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint1_C (Icicle_spawner_blueprint1)
+[2017.12.07-09.52.10:074][228]BlueprintLog: New page: Compile Icicle_spawner_blueprint2
+[2017.12.07-09.52.14:141][502]BlueprintLog: New page: Compile Icicle_spawner_blueprint1
+[2017.12.07-09.52.15:675][573]LogTemp: Repeating last play command: Simulate
+[2017.12.07-09.52.15:709][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-09.52.15:709][573]PIE: New page: SIE session: Level1_2 (Dec 6, 2017, 7:52:15 PM)
+[2017.12.07-09.52.15:709][573]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-09.52.15:716][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006459s)
+[2017.12.07-09.52.15:716][573]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-09.52.15:717][573]LogPlayLevel: PIE: World Init took: (0.000498s)
+[2017.12.07-09.52.15:717][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.007269s)
+[2017.12.07-09.52.15:746][573]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-09.52.15:752][573]LogInit: FAudioDevice initialized.
+[2017.12.07-09.52.15:784][573]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-09.52.15:788][573]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-02.52.15
+[2017.12.07-09.52.15:788][573]LogWorld: Bringing up level for play took: 0.003210
+[2017.12.07-09.52.15:789][573]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.502
+[2017.12.07-09.52.24:034][271]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint2_C (Icicle_spawner_blueprint2)
+[2017.12.07-09.52.29:190][658]BlueprintLog: New page: Compile Icicle_spawner_blueprint2
+[2017.12.07-09.52.33:148][925]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.12.07-09.52.34:053][992]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.12.07-09.52.34:694][ 42]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint1_C (Icicle_spawner_blueprint1)
+[2017.12.07-09.52.42:778][662]LogTemp: Repeating last play command: Simulate
+[2017.12.07-09.52.42:806][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-09.52.42:806][662]PIE: New page: SIE session: Level1_2 (Dec 6, 2017, 7:52:42 PM)
+[2017.12.07-09.52.42:806][662]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-09.52.42:812][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005315s)
+[2017.12.07-09.52.42:812][662]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-09.52.42:812][662]LogPlayLevel: PIE: World Init took: (0.000549s)
+[2017.12.07-09.52.42:812][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.006180s)
+[2017.12.07-09.52.42:841][662]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-09.52.42:848][662]LogInit: FAudioDevice initialized.
+[2017.12.07-09.52.42:882][662]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-09.52.42:885][662]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-02.52.42
+[2017.12.07-09.52.42:885][662]LogWorld: Bringing up level for play took: 0.003091
+[2017.12.07-09.52.42:886][662]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 -0.4
+[2017.12.07-09.52.51:412][351]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint_C (Icicle_spawner_blueprint)
+[2017.12.07-09.52.56:190][718]LogTemp: Repeating last play command: Simulate
+[2017.12.07-09.52.56:214][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-09.52.56:215][718]PIE: New page: SIE session: Level1_2 (Dec 6, 2017, 7:52:56 PM)
+[2017.12.07-09.52.56:215][718]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-09.52.56:221][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006564s)
+[2017.12.07-09.52.56:222][718]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-09.52.56:222][718]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2017.12.07-09.52.56:222][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.007488s)
+[2017.12.07-09.52.56:252][718]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-09.52.56:258][718]LogInit: FAudioDevice initialized.
+[2017.12.07-09.52.56:292][718]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-09.52.56:295][718]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-02.52.56
+[2017.12.07-09.52.56:296][718]LogWorld: Bringing up level for play took: 0.003343
+[2017.12.07-09.52.56:297][718]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 1.011
+[2017.12.07-09.53.03:604][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-09.53.03:604][331]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 7:53:03 PM)
+[2017.12.07-09.53.03:605][331]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-09.53.03:612][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007649s)
+[2017.12.07-09.53.03:613][331]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-09.53.03:613][331]LogPlayLevel: PIE: World Init took: (0.000535s)
+[2017.12.07-09.53.03:613][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.008510s)
+[2017.12.07-09.53.03:645][331]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-09.53.03:652][331]LogInit: FAudioDevice initialized.
+[2017.12.07-09.53.03:684][331]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-09.53.03:687][331]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-02.53.03
+[2017.12.07-09.53.03:687][331]LogWorld: Bringing up level for play took: 0.003026
+[2017.12.07-09.53.03:689][331]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.403
+[2017.12.07-09.53.29:192][586]LogScript: Warning: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill
+	testPopcicle_C /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2:PersistentLevel.testPopcicle_C_34
+	Function /Game/2DSideScrollerCPP/Blueprints/testPopcicle.testPopcicle_C:ExecuteUbergraph_testPopcicle:01EF
+[2017.12.07-09.53.29:193][586]PIE: Error: Blueprint Runtime Error: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill from function: 'ExecuteUbergraph_testPopcicle' from node: Set Simulate Physics in graph: EventGraph in object: testPopcicle with description: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill
+[2017.12.07-09.53.29:193][586]LogScript: Warning: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill
+	testPopcicle_C /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2:PersistentLevel.testPopcicle_C_34
+	Function /Game/2DSideScrollerCPP/Blueprints/testPopcicle.testPopcicle_C:ExecuteUbergraph_testPopcicle:0227
+[2017.12.07-09.53.29:193][586]PIE: Error: Blueprint Runtime Error: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill from function: 'ExecuteUbergraph_testPopcicle' from node: SetWorldLocation in graph: EventGraph in object: testPopcicle with description: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill
+[2017.12.07-09.53.29:193][586]LogScript: Warning: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill
+	testPopcicle_C /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2:PersistentLevel.testPopcicle_C_34
+	Function /Game/2DSideScrollerCPP/Blueprints/testPopcicle.testPopcicle_C:ExecuteUbergraph_testPopcicle:0248
+[2017.12.07-09.53.29:193][586]PIE: Error: Blueprint Runtime Error: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill from function: 'ExecuteUbergraph_testPopcicle' from node: SetWorldLocation in graph: EventGraph in object: testPopcicle with description: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill
+[2017.12.07-09.54.21:937][289]BlueprintLog: New page: Compile Icicle_spawner_blueprint2
+[2017.12.07-09.54.25:275][555]LogEditorTransaction: Undo Change Number Pin Value
+[2017.12.07-09.54.26:512][655]BlueprintLog: New page: Compile Icicle_spawner_blueprint2
+[2017.12.07-09.54.42:020][ 59]BlueprintLog: New page: Compile Icicle_spawner_blueprint1
+[2017.12.07-09.54.48:980][639]BlueprintLog: New page: Compile Icicle_spawner_blueprint1
+[2017.12.07-09.54.49:393][640]BlueprintLog: New page: Compile Icicle_spawner_blueprint1
+[2017.12.07-09.54.50:421][692]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-09.54.50:461][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-09.54.50:461][692]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 7:54:50 PM)
+[2017.12.07-09.54.50:461][692]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-09.54.50:466][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005427s)
+[2017.12.07-09.54.50:467][692]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-09.54.50:467][692]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2017.12.07-09.54.50:467][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.006432s)
+[2017.12.07-09.54.50:495][692]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-09.54.50:502][692]LogInit: FAudioDevice initialized.
+[2017.12.07-09.54.50:535][692]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-09.54.50:538][692]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-02.54.50
+[2017.12.07-09.54.50:538][692]LogWorld: Bringing up level for play took: 0.002816
+[2017.12.07-09.54.50:540][692]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 -0.744
+[2017.12.07-09.55.46:201][533]BlueprintLog: New page: Compile Icicle_spawner_blueprint1
+[2017.12.07-09.55.47:271][590]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-09.55.47:305][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-09.55.47:305][590]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 7:55:47 PM)
+[2017.12.07-09.55.47:305][590]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-09.55.47:311][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005575s)
+[2017.12.07-09.55.47:311][590]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-09.55.47:311][590]LogPlayLevel: PIE: World Init took: (0.000539s)
+[2017.12.07-09.55.47:311][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.006450s)
+[2017.12.07-09.55.47:342][590]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-09.55.47:348][590]LogInit: FAudioDevice initialized.
+[2017.12.07-09.55.47:380][590]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-09.55.47:383][590]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-02.55.47
+[2017.12.07-09.55.47:384][590]LogWorld: Bringing up level for play took: 0.002941
+[2017.12.07-09.55.47:386][590]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.103
+[2017.12.07-09.55.57:853][513]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-09.55.57:878][513]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-09.55.57:878][513]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 7:55:57 PM)
+[2017.12.07-09.55.57:878][513]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-09.55.57:884][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005733s)
+[2017.12.07-09.55.57:884][513]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-09.55.57:884][513]LogPlayLevel: PIE: World Init took: (0.000560s)
+[2017.12.07-09.55.57:884][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.006572s)
+[2017.12.07-09.55.57:915][513]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-09.55.57:921][513]LogInit: FAudioDevice initialized.
+[2017.12.07-09.55.57:954][513]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-09.55.57:958][513]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-02.55.57
+[2017.12.07-09.55.57:958][513]LogWorld: Bringing up level for play took: 0.002955
+[2017.12.07-09.55.57:960][513]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.678
+[2017.12.07-09.56.09:195][516]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-09.56.09:220][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-09.56.09:220][516]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 7:56:09 PM)
+[2017.12.07-09.56.09:220][516]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-09.56.09:226][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005244s)
+[2017.12.07-09.56.09:226][516]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-09.56.09:226][516]LogPlayLevel: PIE: World Init took: (0.000539s)
+[2017.12.07-09.56.09:226][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.006092s)
+[2017.12.07-09.56.09:256][516]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-09.56.09:262][516]LogInit: FAudioDevice initialized.
+[2017.12.07-09.56.09:291][516]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-09.56.09:294][516]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-02.56.09
+[2017.12.07-09.56.09:295][516]LogWorld: Bringing up level for play took: 0.002758
+[2017.12.07-09.56.09:297][516]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.014
+[2017.12.07-09.56.35:791][932]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite2)
+[2017.12.07-09.57.14:026][204]BlueprintLog: New page: Compile Icicle_spawner_blueprint1
+[2017.12.07-09.57.24:874][ 85]BlueprintLog: New page: Compile Icicle_spawner_blueprint2
+[2017.12.07-09.57.26:161][155]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-09.57.26:199][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-09.57.26:200][155]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 7:57:26 PM)
+[2017.12.07-09.57.26:200][155]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-09.57.26:206][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005825s)
+[2017.12.07-09.57.26:206][155]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-09.57.26:206][155]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2017.12.07-09.57.26:206][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.006779s)
+[2017.12.07-09.57.26:235][155]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-09.57.26:241][155]LogInit: FAudioDevice initialized.
+[2017.12.07-09.57.26:273][155]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-09.57.26:276][155]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-02.57.26
+[2017.12.07-09.57.26:276][155]LogWorld: Bringing up level for play took: 0.002718
+[2017.12.07-09.57.26:278][155]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.997
+[2017.12.07-09.57.42:074][592]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-09.57.42:074][592]PIE: New page: SIE session: Level1_2 (Dec 6, 2017, 7:57:42 PM)
+[2017.12.07-09.57.42:074][592]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-09.57.42:080][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005981s)
+[2017.12.07-09.57.42:081][592]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-09.57.42:081][592]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2017.12.07-09.57.42:081][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.007005s)
+[2017.12.07-09.57.42:112][592]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-09.57.42:117][592]LogInit: FAudioDevice initialized.
+[2017.12.07-09.57.42:152][592]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-09.57.42:156][592]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-02.57.42
+[2017.12.07-09.57.42:156][592]LogWorld: Bringing up level for play took: 0.003424
+[2017.12.07-09.57.42:158][592]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.877
+[2017.12.07-09.57.49:293][108]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.12.07-09.57.50:479][201]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.12.07-09.57.53:385][421]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint2_C (Icicle_spawner_blueprint2)
+[2017.12.07-09.57.55:438][579]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.12.07-09.57.56:498][659]LogEditorViewport: Clicking on Actor (LMB): Icicle_spawner_blueprint2_C (Icicle_spawner_blueprint2)
+[2017.12.07-09.58.03:800][218]Cmd: TRANSACTION UNDO
+[2017.12.07-09.58.03:800][218]LogEditorTransaction: Undo Move Actors
+[2017.12.07-09.58.08:857][594]LogTemp: Repeating last play command: Simulate
+[2017.12.07-09.58.08:882][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-09.58.08:882][594]PIE: New page: SIE session: Level1_2 (Dec 6, 2017, 7:58:08 PM)
+[2017.12.07-09.58.08:882][594]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-09.58.08:887][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005348s)
+[2017.12.07-09.58.08:888][594]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-09.58.08:888][594]LogPlayLevel: PIE: World Init took: (0.000512s)
+[2017.12.07-09.58.08:888][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.006222s)
+[2017.12.07-09.58.08:917][594]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-09.58.08:923][594]LogInit: FAudioDevice initialized.
+[2017.12.07-09.58.08:953][594]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-09.58.08:956][594]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-02.58.08
+[2017.12.07-09.58.08:957][594]LogWorld: Bringing up level for play took: 0.002661
+[2017.12.07-09.58.08:958][594]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 -0.322
+[2017.12.07-09.58.15:145][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-09.58.15:145][100]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 7:58:15 PM)
+[2017.12.07-09.58.15:145][100]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-09.58.15:151][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005425s)
+[2017.12.07-09.58.15:151][100]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-09.58.15:151][100]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2017.12.07-09.58.15:151][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.006310s)
+[2017.12.07-09.58.15:182][100]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-09.58.15:188][100]LogInit: FAudioDevice initialized.
+[2017.12.07-09.58.15:224][100]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-09.58.15:228][100]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-02.58.15
+[2017.12.07-09.58.15:228][100]LogWorld: Bringing up level for play took: 0.003295
+[2017.12.07-09.58.15:230][100]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 -0.049
+[2017.12.07-09.59.06:774][588]LogCharacterMovement: BP_2DSideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=-528.05 Y=0.00 Z=0.00 Location: X=1708.00 Y=0.00 Z=354.22 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:35.000 Actor:2DLift_294 Component:PaperSprite BoneName:None (0 other events since notify)
+[2017.12.07-09.59.51:298][503]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-09.59.51:323][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-09.59.51:323][503]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 7:59:51 PM)
+[2017.12.07-09.59.51:323][503]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-09.59.51:328][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005295s)
+[2017.12.07-09.59.51:329][503]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-09.59.51:329][503]LogPlayLevel: PIE: World Init took: (0.000523s)
+[2017.12.07-09.59.51:329][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.006122s)
+[2017.12.07-09.59.51:360][503]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-09.59.51:366][503]LogInit: FAudioDevice initialized.
+[2017.12.07-09.59.51:399][503]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-09.59.51:402][503]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-02.59.51
+[2017.12.07-09.59.51:403][503]LogWorld: Bringing up level for play took: 0.003227
+[2017.12.07-09.59.51:405][503]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.127
+[2017.12.07-10.00.01:375][388]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-10.00.01:399][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-10.00.01:399][388]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 8:00:01 PM)
+[2017.12.07-10.00.01:399][388]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-10.00.01:406][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006305s)
+[2017.12.07-10.00.01:406][388]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-10.00.01:406][388]LogPlayLevel: PIE: World Init took: (0.000657s)
+[2017.12.07-10.00.01:407][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.007361s)
+[2017.12.07-10.00.01:438][388]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-10.00.01:444][388]LogInit: FAudioDevice initialized.
+[2017.12.07-10.00.01:479][388]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-10.00.01:482][388]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-03.00.01
+[2017.12.07-10.00.01:483][388]LogWorld: Bringing up level for play took: 0.003122
+[2017.12.07-10.00.01:485][388]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.207
+[2017.12.07-10.00.09:671][115]LogScript: Warning: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill
+	testPopcicle_C /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2:PersistentLevel.testPopcicle_C_6
+	Function /Game/2DSideScrollerCPP/Blueprints/testPopcicle.testPopcicle_C:ExecuteUbergraph_testPopcicle:01EF
+[2017.12.07-10.00.09:671][115]PIE: Error: Blueprint Runtime Error: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill from function: 'ExecuteUbergraph_testPopcicle' from node: Set Simulate Physics in graph: EventGraph in object: testPopcicle with description: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill
+[2017.12.07-10.00.09:671][115]LogScript: Warning: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill
+	testPopcicle_C /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2:PersistentLevel.testPopcicle_C_6
+	Function /Game/2DSideScrollerCPP/Blueprints/testPopcicle.testPopcicle_C:ExecuteUbergraph_testPopcicle:0227
+[2017.12.07-10.00.09:671][115]PIE: Error: Blueprint Runtime Error: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill from function: 'ExecuteUbergraph_testPopcicle' from node: SetWorldLocation in graph: EventGraph in object: testPopcicle with description: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill
+[2017.12.07-10.00.09:671][115]LogScript: Warning: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill
+	testPopcicle_C /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2:PersistentLevel.testPopcicle_C_6
+	Function /Game/2DSideScrollerCPP/Blueprints/testPopcicle.testPopcicle_C:ExecuteUbergraph_testPopcicle:0248
+[2017.12.07-10.00.09:671][115]PIE: Error: Blueprint Runtime Error: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill from function: 'ExecuteUbergraph_testPopcicle' from node: SetWorldLocation in graph: EventGraph in object: testPopcicle with description: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill
+[2017.12.07-10.00.09:826][128]LogScript: Warning: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill
+	testPopcicle_C /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2:PersistentLevel.testPopcicle_C_6
+	Function /Game/2DSideScrollerCPP/Blueprints/testPopcicle.testPopcicle_C:ExecuteUbergraph_testPopcicle:01EF
+[2017.12.07-10.00.09:826][128]PIE: Error: Blueprint Runtime Error: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill from function: 'ExecuteUbergraph_testPopcicle' from node: Set Simulate Physics in graph: EventGraph in object: testPopcicle with description: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill
+[2017.12.07-10.00.09:826][128]LogScript: Warning: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill
+	testPopcicle_C /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2:PersistentLevel.testPopcicle_C_6
+	Function /Game/2DSideScrollerCPP/Blueprints/testPopcicle.testPopcicle_C:ExecuteUbergraph_testPopcicle:0227
+[2017.12.07-10.00.09:827][128]PIE: Error: Blueprint Runtime Error: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill from function: 'ExecuteUbergraph_testPopcicle' from node: SetWorldLocation in graph: EventGraph in object: testPopcicle with description: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill
+[2017.12.07-10.00.09:827][128]LogScript: Warning: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill
+	testPopcicle_C /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2:PersistentLevel.testPopcicle_C_6
+	Function /Game/2DSideScrollerCPP/Blueprints/testPopcicle.testPopcicle_C:ExecuteUbergraph_testPopcicle:0248
+[2017.12.07-10.00.09:827][128]PIE: Error: Blueprint Runtime Error: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill from function: 'ExecuteUbergraph_testPopcicle' from node: SetWorldLocation in graph: EventGraph in object: testPopcicle with description: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill
+[2017.12.07-10.00.09:976][141]LogScript: Warning: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill
+	testPopcicle_C /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2:PersistentLevel.testPopcicle_C_6
+	Function /Game/2DSideScrollerCPP/Blueprints/testPopcicle.testPopcicle_C:ExecuteUbergraph_testPopcicle:01EF
+[2017.12.07-10.00.09:976][141]PIE: Error: Blueprint Runtime Error: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill from function: 'ExecuteUbergraph_testPopcicle' from node: Set Simulate Physics in graph: EventGraph in object: testPopcicle with description: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill
+[2017.12.07-10.00.09:976][141]LogScript: Warning: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill
+	testPopcicle_C /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2:PersistentLevel.testPopcicle_C_6
+	Function /Game/2DSideScrollerCPP/Blueprints/testPopcicle.testPopcicle_C:ExecuteUbergraph_testPopcicle:0227
+[2017.12.07-10.00.09:977][141]PIE: Error: Blueprint Runtime Error: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill from function: 'ExecuteUbergraph_testPopcicle' from node: SetWorldLocation in graph: EventGraph in object: testPopcicle with description: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill
+[2017.12.07-10.00.09:977][141]LogScript: Warning: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill
+	testPopcicle_C /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2:PersistentLevel.testPopcicle_C_6
+	Function /Game/2DSideScrollerCPP/Blueprints/testPopcicle.testPopcicle_C:ExecuteUbergraph_testPopcicle:0248
+[2017.12.07-10.00.09:977][141]PIE: Error: Blueprint Runtime Error: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill from function: 'ExecuteUbergraph_testPopcicle' from node: SetWorldLocation in graph: EventGraph in object: testPopcicle with description: Attempted to access PaperSprite via property PaperSprite, but PaperSprite is pending kill
+[2017.12.07-10.00.13:716][455]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-10.00.13:740][455]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-10.00.13:741][455]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 8:00:13 PM)
+[2017.12.07-10.00.13:741][455]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-10.00.13:746][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005321s)
+[2017.12.07-10.00.13:747][455]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-10.00.13:747][455]LogPlayLevel: PIE: World Init took: (0.000533s)
+[2017.12.07-10.00.13:747][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.006166s)
+[2017.12.07-10.00.13:780][455]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-10.00.13:786][455]LogInit: FAudioDevice initialized.
+[2017.12.07-10.00.13:818][455]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-10.00.13:821][455]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-03.00.13
+[2017.12.07-10.00.13:821][455]LogWorld: Bringing up level for play took: 0.002740
+[2017.12.07-10.00.13:823][455]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.545
+[2017.12.07-10.00.23:671][316]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-10.00.23:695][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-10.00.23:695][316]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 8:00:23 PM)
+[2017.12.07-10.00.23:695][316]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-10.00.23:701][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005376s)
+[2017.12.07-10.00.23:701][316]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-10.00.23:701][316]LogPlayLevel: PIE: World Init took: (0.000530s)
+[2017.12.07-10.00.23:702][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.006220s)
+[2017.12.07-10.00.23:734][316]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-10.00.23:740][316]LogInit: FAudioDevice initialized.
+[2017.12.07-10.00.23:769][316]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-10.00.23:772][316]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-03.00.23
+[2017.12.07-10.00.23:773][316]LogWorld: Bringing up level for play took: 0.002940
+[2017.12.07-10.00.23:775][316]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.497
+[2017.12.07-10.00.34:366][265]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-10.00.34:390][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-10.00.34:390][265]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 8:00:34 PM)
+[2017.12.07-10.00.34:390][265]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-10.00.34:396][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005646s)
+[2017.12.07-10.00.34:396][265]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-10.00.34:396][265]LogPlayLevel: PIE: World Init took: (0.000543s)
+[2017.12.07-10.00.34:396][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.006524s)
+[2017.12.07-10.00.34:429][265]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-10.00.34:435][265]LogInit: FAudioDevice initialized.
+[2017.12.07-10.00.34:470][265]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-10.00.34:473][265]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-03.00.34
+[2017.12.07-10.00.34:473][265]LogWorld: Bringing up level for play took: 0.003176
+[2017.12.07-10.00.34:475][265]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 -0.802
+[2017.12.07-10.00.46:034][284]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-10.00.46:059][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-10.00.46:059][284]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 8:00:46 PM)
+[2017.12.07-10.00.46:059][284]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-10.00.46:065][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005328s)
+[2017.12.07-10.00.46:065][284]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-10.00.46:065][284]LogPlayLevel: PIE: World Init took: (0.000506s)
+[2017.12.07-10.00.46:066][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.006170s)
+[2017.12.07-10.00.46:097][284]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-10.00.46:103][284]LogInit: FAudioDevice initialized.
+[2017.12.07-10.00.46:135][284]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-10.00.46:139][284]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-03.00.46
+[2017.12.07-10.00.46:139][284]LogWorld: Bringing up level for play took: 0.003105
+[2017.12.07-10.00.46:142][284]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.864
+[2017.12.07-10.00.55:309][ 82]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-10.00.55:334][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-10.00.55:334][ 82]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 8:00:55 PM)
+[2017.12.07-10.00.55:334][ 82]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-10.00.55:339][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005293s)
+[2017.12.07-10.00.55:340][ 82]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-10.00.55:340][ 82]LogPlayLevel: PIE: World Init took: (0.000529s)
+[2017.12.07-10.00.55:340][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.006132s)
+[2017.12.07-10.00.55:370][ 82]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-10.00.55:376][ 82]LogInit: FAudioDevice initialized.
+[2017.12.07-10.00.55:405][ 82]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-10.00.55:409][ 82]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-03.00.55
+[2017.12.07-10.00.55:409][ 82]LogWorld: Bringing up level for play took: 0.002978
+[2017.12.07-10.00.55:411][ 82]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.134
+[2017.12.07-10.01.02:390][702]LogCharacterMovement: BP_2DSideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=-55.61 Y=0.00 Z=0.00 Location: X=-18.03 Y=0.00 Z=2910.99 Normal: X=-0.00 Y=0.00 Z=-1.00 PenetrationDepth:5.427 Actor:testPopcicle_C_6 Component:PaperSprite BoneName:None (0 other events since notify)
+[2017.12.07-10.01.05:880][  5]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-10.01.05:905][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-10.01.05:905][  5]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 8:01:05 PM)
+[2017.12.07-10.01.05:905][  5]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-10.01.05:910][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005194s)
+[2017.12.07-10.01.05:911][  5]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-10.01.05:911][  5]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2017.12.07-10.01.05:911][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.006115s)
+[2017.12.07-10.01.05:945][  5]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-10.01.05:951][  5]LogInit: FAudioDevice initialized.
+[2017.12.07-10.01.05:985][  5]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-10.01.05:988][  5]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-03.01.05
+[2017.12.07-10.01.05:989][  5]LogWorld: Bringing up level for play took: 0.003240
+[2017.12.07-10.01.05:991][  5]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.715
+[2017.12.07-10.01.19:592][177]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-10.01.19:618][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-10.01.19:618][177]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 8:01:19 PM)
+[2017.12.07-10.01.19:618][177]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-10.01.19:624][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005486s)
+[2017.12.07-10.01.19:625][177]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-10.01.19:625][177]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2017.12.07-10.01.19:625][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.006383s)
+[2017.12.07-10.01.19:657][177]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-10.01.19:663][177]LogInit: FAudioDevice initialized.
+[2017.12.07-10.01.19:699][177]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-10.01.19:703][177]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-03.01.19
+[2017.12.07-10.01.19:703][177]LogWorld: Bringing up level for play took: 0.003487
+[2017.12.07-10.01.19:706][177]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.429
+[2017.12.07-10.01.29:749][ 52]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-10.01.29:774][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-10.01.29:774][ 52]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 8:01:29 PM)
+[2017.12.07-10.01.29:775][ 52]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.07-10.01.29:780][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005595s)
+[2017.12.07-10.01.29:781][ 52]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-10.01.29:781][ 52]LogPlayLevel: PIE: World Init took: (0.000569s)
+[2017.12.07-10.01.29:781][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.006506s)
+[2017.12.07-10.01.29:814][ 52]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-10.01.29:820][ 52]LogInit: FAudioDevice initialized.
+[2017.12.07-10.01.29:851][ 52]LogLoad: Game class is 'GameMode_Inferno_C'
+[2017.12.07-10.01.29:855][ 52]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.07-03.01.29
+[2017.12.07-10.01.29:855][ 52]LogWorld: Bringing up level for play took: 0.002922
+[2017.12.07-10.01.29:857][ 52]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.581
+[2017.12.07-10.02.28:028][223]LogSavePackage: Save=138.02ms
+[2017.12.07-10.02.28:028][223]LogSavePackage: Moving '../../../../../../Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Level1_2D3D882D34317F4BDBE5E50833FEB4BAD.tmp' to '../../../../../../Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level1_2.umap'
+[2017.12.07-10.02.28:035][223]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level1_2.umap
+[2017.12.07-10.02.54:919][260]LogSavePackage: Save=27.88ms
+[2017.12.07-10.02.54:919][260]LogSavePackage: Moving '../../../../../../Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Icicle_spawner_blueprintC75CE1744D7B7F15EC777497AA40DE0B.tmp' to '../../../../../../Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/Icicle_spawner_blueprint.uasset'
+[2017.12.07-10.02.54:923][260]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/Icicle_spawner_blueprint.uasset
+[2017.12.07-10.02.54:971][260]LogSavePackage: Save=28.65ms
+[2017.12.07-10.02.54:971][260]LogSavePackage: Moving '../../../../../../Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Icicle_spawner_blueprint18F237CFE4185D24541474AB41640311C.tmp' to '../../../../../../Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/Icicle_spawner_blueprint1.uasset'
+[2017.12.07-10.02.54:973][260]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/Icicle_spawner_blueprint1.uasset
+[2017.12.07-10.02.55:018][260]LogSavePackage: Save=28.33ms
+[2017.12.07-10.02.55:018][260]LogSavePackage: Moving '../../../../../../Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Icicle_spawner_blueprint2AEA6817D4BE704EF5C05249AEA2BD4D6.tmp' to '../../../../../../Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/Icicle_spawner_blueprint2.uasset'
+[2017.12.07-10.02.55:021][260]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/Icicle_spawner_blueprint2.uasset
+[2017.12.07-10.02.55:067][260]LogSavePackage: Save=27.26ms
+[2017.12.07-10.02.55:067][260]LogSavePackage: Moving '../../../../../../Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Icicle_spawner_blueprint30A280E3B41E805E3059E1191EB6382D5.tmp' to '../../../../../../Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/Icicle_spawner_blueprint3.uasset'
+[2017.12.07-10.02.55:070][260]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/Icicle_spawner_blueprint3.uasset
+[2017.12.07-10.02.55:078][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Environment/bg_2" FILE="../../../../../../Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/Assets/Environment/bg_2.uasset" SILENT=true
+[2017.12.07-10.02.55:702][260]LogSavePackage: Save=592.94ms
+[2017.12.07-10.02.55:702][260]LogSavePackage: Moving '../../../../../../Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/bg_254DEE6404D430C3D1884EFA793B66B1F.tmp' to '../../../../../../Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/Assets/Environment/bg_2.uasset'
+[2017.12.07-10.02.55:706][260]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/Assets/Environment/bg_2.uasset
+[2017.12.07-10.02.56:335][260]LogSavePackage: Save=586.75ms
+[2017.12.07-10.02.56:335][260]LogSavePackage: Moving '../../../../../../Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/bg_2_Dark0958FF9B4B91E708C627059101D937A0.tmp' to '../../../../../../Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/Assets/Environment/bg_2_Dark.uasset'
+[2017.12.07-10.02.56:338][260]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/Assets/Environment/bg_2_Dark.uasset
+[2017.12.07-10.02.56:532][260]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.07-10.02.56:609][260]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.07-10.02.56:706][260]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.07-10.02.56:779][260]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.07-10.02.56:840][260]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.07-10.02.57:089][261]Cmd: QUIT_EDITOR
+[2017.12.07-10.02.57:769][261]LogExit: Preparing to exit.
+[2017.12.07-10.02.58:470][261]LogDirectoryWatcher: A directory notification for 'C:/Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/' was aborted.
+[2017.12.07-10.02.58:503][261]LogExit: Editor shut down
+[2017.12.07-10.02.58:507][261]LogExit: Transaction tracking system shut down
+[2017.12.07-10.02.58:733][261]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.07-10.02.58:733][261]LogDirectoryWatcher: A directory notification for '../../../../../../Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/' was aborted.
+[2017.12.07-10.02.58:733][261]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.07-10.02.58:733][261]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.12.07-10.02.58:733][261]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.12.07-10.02.58:733][261]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.12.07-10.02.58:733][261]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.12.07-10.02.58:847][261]LogExit: Object subsystem successfully closed.
+[2017.12.07-10.02.58:860][261]LogD3D11RHI: Shutdown
+[2017.12.07-10.02.58:860][261]LogD3D11RHI: CleanupD3DDevice
+[2017.12.07-10.02.58:873][261]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.07-10.02.58:893][261]LogModuleManager: Shutting down and abandoning module BlueprintGraph (554)
+[2017.12.07-10.02.58:893][261]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (552)
+[2017.12.07-10.02.58:893][261]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2017.12.07-10.02.58:893][261]LogModuleManager: Shutting down and abandoning module DesktopPlatform (548)
+[2017.12.07-10.02.58:893][261]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2017.12.07-10.02.58:893][261]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2017.12.07-10.02.58:893][261]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2017.12.07-10.02.58:894][261]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2017.12.07-10.02.58:894][261]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2017.12.07-10.02.58:894][261]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2017.12.07-10.02.58:894][261]LogDirectoryWatcher: A directory notification for 'C:/Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/Collections/' was aborted.
+[2017.12.07-10.02.58:894][261]LogDirectoryWatcher: A directory notification for 'C:/Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/Developers/u1166219/Collections/' was aborted.
+[2017.12.07-10.02.58:894][261]LogDirectoryWatcher: A directory notification for 'C:/Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Collections/' was aborted.
+[2017.12.07-10.02.58:894][261]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2017.12.07-10.02.58:894][261]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2017.12.07-10.02.58:895][261]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2017.12.07-10.02.58:896][261]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2017.12.07-10.02.58:896][261]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2017.12.07-10.02.58:896][261]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2017.12.07-10.02.58:896][261]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2017.12.07-10.02.58:896][261]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2017.12.07-10.02.58:896][261]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2017.12.07-10.02.58:896][261]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2017.12.07-10.02.58:896][261]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2017.12.07-10.02.58:896][261]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2017.12.07-10.02.58:896][261]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2017.12.07-10.02.58:896][261]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2017.12.07-10.02.59:280][261]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2017.12.07-10.02.59:280][261]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2017.12.07-10.02.59:280][261]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2017.12.07-10.02.59:280][261]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2017.12.07-10.02.59:280][261]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2017.12.07-10.02.59:280][261]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2017.12.07-10.02.59:280][261]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2017.12.07-10.02.59:280][261]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2017.12.07-10.02.59:280][261]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2017.12.07-10.02.59:280][261]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2017.12.07-10.02.59:280][261]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2017.12.07-10.02.59:280][261]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2017.12.07-10.02.59:280][261]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2017.12.07-10.02.59:280][261]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2017.12.07-10.02.59:280][261]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2017.12.07-10.02.59:280][261]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2017.12.07-10.02.59:280][261]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2017.12.07-10.02.59:281][261]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2017.12.07-10.02.59:281][261]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2017.12.07-10.02.59:281][261]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2017.12.07-10.02.59:281][261]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2017.12.07-10.02.59:281][261]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2017.12.07-10.02.59:281][261]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2017.12.07-10.02.59:281][261]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2017.12.07-10.02.59:344][261]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2017.12.07-10.02.59:344][261]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2017.12.07-10.02.59:344][261]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2017.12.07-10.02.59:344][261]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2017.12.07-10.02.59:344][261]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2017.12.07-10.02.59:344][261]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2017.12.07-10.02.59:344][261]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2017.12.07-10.02.59:344][261]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2017.12.07-10.02.59:344][261]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2017.12.07-10.02.59:344][261]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2017.12.07-10.02.59:356][261]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2017.12.07-10.02.59:356][261]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2017.12.07-10.02.59:356][261]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2017.12.07-10.02.59:356][261]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2017.12.07-10.02.59:356][261]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2017.12.07-10.02.59:356][261]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2017.12.07-10.02.59:356][261]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2017.12.07-10.02.59:357][261]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2017.12.07-10.02.59:357][261]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2017.12.07-10.02.59:357][261]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2017.12.07-10.02.59:357][261]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2017.12.07-10.02.59:357][261]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2017.12.07-10.02.59:357][261]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2017.12.07-10.02.59:357][261]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2017.12.07-10.02.59:357][261]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2017.12.07-10.02.59:357][261]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2017.12.07-10.02.59:357][261]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2017.12.07-10.02.59:357][261]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2017.12.07-10.02.59:357][261]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2017.12.07-10.02.59:543][261]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2017.12.07-10.02.59:543][261]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2017.12.07-10.02.59:543][261]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2017.12.07-10.02.59:543][261]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2017.12.07-10.02.59:543][261]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2017.12.07-10.02.59:543][261]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2017.12.07-10.02.59:543][261]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2017.12.07-10.02.59:543][261]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2017.12.07-10.02.59:543][261]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2017.12.07-10.02.59:543][261]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2017.12.07-10.02.59:543][261]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2017.12.07-10.02.59:543][261]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2017.12.07-10.02.59:543][261]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2017.12.07-10.02.59:543][261]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2017.12.07-10.02.59:543][261]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2017.12.07-10.02.59:543][261]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2017.12.07-10.02.59:543][261]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2017.12.07-10.02.59:543][261]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2017.12.07-10.02.59:543][261]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2017.12.07-10.02.59:543][261]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2017.12.07-10.02.59:543][261]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2017.12.07-10.02.59:544][261]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2017.12.07-10.02.59:544][261]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2017.12.07-10.02.59:544][261]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2017.12.07-10.02.59:544][261]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2017.12.07-10.02.59:544][261]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2017.12.07-10.02.59:544][261]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2017.12.07-10.02.59:544][261]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2017.12.07-10.02.59:544][261]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2017.12.07-10.02.59:544][261]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2017.12.07-10.02.59:544][261]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2017.12.07-10.02.59:544][261]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2017.12.07-10.02.59:544][261]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2017.12.07-10.02.59:544][261]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2017.12.07-10.02.59:544][261]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2017.12.07-10.02.59:545][261]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2017.12.07-10.02.59:545][261]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2017.12.07-10.02.59:545][261]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2017.12.07-10.02.59:545][261]LogDirectoryWatcher: A directory notification for 'C:/Users/u1166219/Documents/GitHub/Team_heresy/CastleOfPerdition/Binaries/Win64' was aborted.
+[2017.12.07-10.02.59:546][261]LogModuleManager: Shutting down and abandoning module CastleOfPerdition (270)
+[2017.12.07-10.02.59:546][261]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.12.07-10.02.59:546][261]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.12.07-10.02.59:546][261]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.12.07-10.02.59:546][261]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.12.07-10.02.59:546][261]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.12.07-10.02.59:546][261]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.12.07-10.02.59:546][261]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.12.07-10.02.59:546][261]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.12.07-10.02.59:647][261]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.12.07-10.02.59:747][261]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.12.07-10.02.59:747][261]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.12.07-10.02.59:747][261]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.12.07-10.02.59:747][261]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.12.07-10.02.59:747][261]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.12.07-10.02.59:747][261]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.12.07-10.02.59:748][261]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.12.07-10.02.59:748][261]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.12.07-10.02.59:748][261]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.12.07-10.02.59:748][261]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.12.07-10.02.59:748][261]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.12.07-10.02.59:748][261]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.12.07-10.02.59:748][261]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.12.07-10.02.59:748][261]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.12.07-10.02.59:748][261]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.12.07-10.02.59:748][261]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.12.07-10.02.59:754][261]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.12.07-10.02.59:754][261]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.12.07-10.02.59:754][261]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.12.07-10.02.59:754][261]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.12.07-10.02.59:754][261]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.12.07-10.02.59:754][261]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.12.07-10.02.59:754][261]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.12.07-10.02.59:754][261]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.12.07-10.02.59:754][261]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.12.07-10.02.59:754][261]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.12.07-10.02.59:754][261]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.12.07-10.02.59:754][261]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.12.07-10.02.59:754][261]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.12.07-10.02.59:755][261]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.12.07-10.02.59:755][261]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.12.07-10.02.59:755][261]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.12.07-10.02.59:757][261]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.12.07-10.02.59:757][261]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.12.07-10.02.59:757][261]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.12.07-10.02.59:757][261]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.12.07-10.02.59:757][261]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.12.07-10.02.59:757][261]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.12.07-10.02.59:757][261]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.12.07-10.02.59:757][261]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.12.07-10.02.59:758][261]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.12.07-10.02.59:758][261]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.12.07-10.02.59:758][261]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.12.07-10.02.59:758][261]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.12.07-10.02.59:758][261]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.12.07-10.02.59:758][261]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.12.07-10.02.59:758][261]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.12.07-10.02.59:758][261]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.12.07-10.02.59:758][261]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.12.07-10.02.59:819][261]LogDerivedDataCache: Shutdown
+[2017.12.07-10.02.59:819][261]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.12.07-10.02.59:819][261]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.12.07-10.02.59:819][261]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.12.07-10.02.59:819][261]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.12.07-10.02.59:819][261]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.12.07-10.02.59:819][261]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.12.07-10.02.59:819][261]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.12.07-10.02.59:819][261]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.12.07-10.02.59:819][261]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.12.07-10.02.59:819][261]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.12.07-10.02.59:819][261]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.12.07-10.02.59:819][261]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.12.07-10.02.59:819][261]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.12.07-10.02.59:819][261]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.12.07-10.02.59:819][261]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.12.07-10.02.59:819][261]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.12.07-10.02.59:819][261]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.12.07-10.02.59:819][261]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.07-10.02.59:820][261]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.07-10.02.59:821][261]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.07-10.02.59:821][261]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.07-10.02.59:821][261]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5A7A9495-4E38-D59E-FAF5-15ABCBD38637%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.1-3754814%2B%2B%2BUE4%2BRelease-4.18&UserID=ee0cbebb4f2e0d4b5c6ed0acade245cb%7C1e8c8df1d7a74174851f05a61d533a52%7C0c3f5c3c-62f8-4c42-88a0-be96360781b8&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.07-10.02.59:847][261]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.07-10.02.59:848][261]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.07-10.02.59:848][261]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.07-10.02.59:848][261]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.07-10.02.59:848][261]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.07-10.02.59:848][261]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.07-10.02.59:848][261]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.07-10.02.59:848][261]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.07-10.02.59:850][261]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.07-10.02.59:850][261]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.07-10.02.59:850][261]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.07-10.02.59:850][261]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.07-10.02.59:850][261]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.07-10.02.59:850][261]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.07-10.02.59:850][261]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.07-10.02.59:850][261]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.07-10.02.59:850][261]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.07-10.02.59:850][261]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.07-10.02.59:850][261]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.07-10.02.59:853][261]LogExit: Exiting.
+[2017.12.07-10.02.59:875][261]Log file closed, 12/07/17 03:02:59
