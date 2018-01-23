@@ -1,0 +1,1285 @@
+﻿Log file open, 12/07/17 05:21:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CastleOfPerdition
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1438346863) SRandInit(1438346863).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.160659
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Binaries/Win64/UE4Editor-CastleOfPerdition.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.19.0
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.07-12.21.18:638][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.07-12.21.18:638][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.07-12.21.18:649][  0]LogInit: Computer: eae-d-057
+[2017.12.07-12.21.18:649][  0]LogInit: User: u1139622
+[2017.12.07-12.21.18:649][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.07-12.21.18:649][  0]LogInit: High frequency timer resolution =3.326084 MHz
+[2017.12.07-12.21.18:650][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2017.12.07-12.21.18:650][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.07-12.21.18:650][  0]LogMemory: Process Physical Memory: 277.88 MB used, 277.88 MB peak
+[2017.12.07-12.21.18:650][  0]LogMemory: Process Virtual Memory: 276.27 MB used, 276.27 MB peak
+[2017.12.07-12.21.18:650][  0]LogMemory: Physical Memory: 9508.12 MB used,  23196.53 MB free, 32704.65 MB total
+[2017.12.07-12.21.18:650][  0]LogMemory: Virtual Memory: 700.89 MB used,  23196.53 MB free, 134217728.00 MB total
+[2017.12.07-12.21.18:772][  0]LogInit: Using OS detected language (en-US).
+[2017.12.07-12.21.18:772][  0]LogInit: Using OS detected locale (en-US).
+[2017.12.07-12.21.18:775][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.07-12.21.19:153][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.07-12.21.19:385][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.07-12.21.19:432][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.12.07-12.21.19:433][  0]LogD3D11RHI:       8096/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.12.07-12.21.19:434][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.07-12.21.19:434][  0]LogD3D11RHI:       0/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.07-12.21.19:434][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.07-12.21.19:440][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.07-12.21.19:441][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.07-12.21.19:441][  0]LogWindows: EnumDisplayDevices:
+[2017.12.07-12.21.19:441][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.12.07-12.21.19:441][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2017.12.07-12.21.19:441][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.07-12.21.19:441][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.07-12.21.19:441][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.12.07-12.21.19:441][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.12.07-12.21.19:441][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2017.12.07-12.21.19:441][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2017.12.07-12.21.19:441][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2017.12.07-12.21.19:470][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.07-12.21.19:480][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.07-12.21.19:564][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Intermediate/Shaders/WorkingDirectory/38276/).
+[2017.12.07-12.21.19:565][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u1139622/AppData/Local/Temp/UnrealShaderWorkingDir/D79343A44D72FFCE24E5AB993EE5ACC5/'.
+[2017.12.07-12.21.19:565][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.07-12.21.20:377][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.07-12.21.20:421][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.07-12.21.20:466][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.07-12.21.20:510][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.07-12.21.20:555][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.07-12.21.20:600][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.07-12.21.20:644][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.07-12.21.20:689][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.07-12.21.20:726][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.07-12.21.20:770][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.07-12.21.20:812][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.07-12.21.20:858][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.07-12.21.20:902][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.07-12.21.20:944][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.07-12.21.21:030][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.07-12.21.21:030][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.07-12.21.21:073][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.07-12.21.21:106][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.07-12.21.21:185][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.07-12.21.21:208][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.07-12.21.21:251][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.07-12.21.21:294][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.07-12.21.21:338][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.07-12.21.21:380][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.07-12.21.21:380][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.07-12.21.21:772][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.07-12.21.21:849][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/u1139622/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.07-12.21.21:849][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/u1139622/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.07-12.21.21:849][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.07-12.21.21:849][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.07-12.21.21:849][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.07-12.21.21:849][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.07-12.21.21:864][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.07-12.21.21:876][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u1139622/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.07-12.21.21:886][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.07-12.21.21:887][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.07-12.21.21:887][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.07-12.21.21:887][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.07-12.21.22:218][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.07-12.21.22:503][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.07-12.21.22:538][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.07-12.21.22:538][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.07-12.21.22:538][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.07-12.21.22:538][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.07-12.21.22:538][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.07-12.21.22:567][  0]LogNetVersion: CastleOfPerdition , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 261315538)
+[2017.12.07-12.21.22:711][  0]LogAssetRegistry: FAssetRegistry took 0.0254 seconds to start up
+[2017.12.07-12.21.23:185][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.071695 seconds
+[2017.12.07-12.21.23:192][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.07-12.21.23:192][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.12.07-12.21.23:192][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.07-12.21.23:242][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.07-12.21.25:721][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.07-12.21.25:759][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.07-12.21.26:398][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.07-12.21.26:767][  0]SourceControl: Source control is disabled
+[2017.12.07-12.21.26:767][  0]SourceControl: Source control is disabled
+[2017.12.07-12.21.26:814][  0]SourceControl: Source control is disabled
+[2017.12.07-12.21.26:859][  0]SourceControl: Source control is disabled
+[2017.12.07-12.21.27:569][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.07-12.21.27:805][  0]LogOcInput: OculusInput pre-init called
+[2017.12.07-12.21.28:045][  0]LogEngine: Initializing Engine...
+[2017.12.07-12.21.28:046][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.07-12.21.28:242][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.07-12.21.28:242][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.07-12.21.28:352][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.07-12.21.28:369][  0]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-12.21.28:378][  0]LogInit: FAudioDevice initialized.
+[2017.12.07-12.21.28:458][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/u1139622/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.07-12.21.28:472][  0]LogInit: Texture streaming: Enabled
+[2017.12.07-12.21.28:556][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.07-12.21.28:666][  0]LogInit: Transaction tracking system initialized
+[2017.12.07-12.21.28:927][  0]BlueprintLog: New page: Editor Load
+[2017.12.07-12.21.29:673][  0]LocalizationService: Localization service is disabled
+[2017.12.07-12.21.30:304][  0]LogConsoleResponse: Display: 
+[2017.12.07-12.21.30:459][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.07-12.21.30:459][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.07-12.21.30:459][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.07-12.21.30:819][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/' took 0.01s
+[2017.12.07-12.21.31:482][  0]SourceControl: Source control is disabled
+[2017.12.07-12.21.31:483][  0]Cmd: MAP LOAD FILE="../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.07-12.21.31:483][  0]LightingResults: New page: Lighting Build
+[2017.12.07-12.21.31:517][  0]MapCheck: New page: Map Check
+[2017.12.07-12.21.31:517][  0]LightingResults: New page: Lighting Build
+[2017.12.07-12.21.31:973][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.12.07-12.21.31:985][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.07-12.21.31:997][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.07-12.21.32:051][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.179ms to complete.
+[2017.12.07-12.21.32:051][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.569
+[2017.12.07-12.21.32:187][  0]LogCollectionManager: Loaded 0 collections in 0.002007 seconds
+[2017.12.07-12.21.32:260][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Collections/' took 0.01s
+[2017.12.07-12.21.32:260][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/Developers/u1139622/Collections/' took 0.01s
+[2017.12.07-12.21.32:260][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/Collections/' took 0.01s
+[2017.12.07-12.21.32:260][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.12.07-12.21.32:270][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2365 classes and 521 folders.
+[2017.12.07-12.21.32:325][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.12.07-12.21.32:361][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.12.07-12.21.32:398][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.12.07-12.21.32:470][  0]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.07-12.21.32:472][  0]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.07-12.21.32:479][  0]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.07-12.21.32:588][  0]LogRenderer: Reallocating scene render targets to support 1204x648 Format 10 NumSamples 1 (Frame:1).
+[2017.12.07-12.21.32:761][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.12.07-12.21.32:761][  0]LogLoad: (Engine Initialization) Total time: 17.07 seconds
+[2017.12.07-12.21.32:761][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.07-12.21.32:761][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.07-12.21.32:761][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.07-12.21.32:772][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.07-12.21.32:789][  0]LogAssetRegistry: Asset discovery search completed in 10.0997 seconds
+[2017.12.07-12.21.32:790][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.07-12.21.32:790][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000030 seconds (updated 0 objects)
+[2017.12.07-12.21.32:793][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.07-12.21.32:837][  0]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.07-12.21.33:794][ 92]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.07-12.21.34:078][ 92]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2017.12.07-12.21.34:834][ 92]LogRenderer: Reallocating scene render targets to support 1528x788 Format 10 NumSamples 1 (Frame:1).
+[2017.12.07-12.21.37:977][410]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.07-12.21.38:416][411]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.07-12.21.44:994][161]LogAIModule: Creating AISystem for world Level2
+[2017.12.07-12.21.45:024][161]Cmd: MAP LOAD FILE="../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.07-12.21.45:024][161]LightingResults: New page: Lighting Build
+[2017.12.07-12.21.45:025][161]LoadErrors: New page: Loading map: Level2.umap
+[2017.12.07-12.21.45:025][161]MapCheck: New page: Map Check
+[2017.12.07-12.21.45:025][161]LightingResults: New page: Lighting Build
+[2017.12.07-12.21.45:100][161]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.07-12.21.45:157][161]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.07-12.21.45:215][161]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.104ms to complete.
+[2017.12.07-12.21.45:216][161]LogFileHelpers: Loading map 'Level2' took 0.193
+[2017.12.07-12.25.19:958][905]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2017.12.07-12.25.22:843][243]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift4)
+[2017.12.07-12.25.24:996][495]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift)
+[2017.12.07-12.25.26:175][632]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2017.12.07-12.25.26:902][713]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift4)
+[2017.12.07-12.25.29:153][974]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-12.25.29:219][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-12.25.29:219][974]PIE: New page: PIE session: Level2 (Dec 6, 2017, 10:25:29 PM)
+[2017.12.07-12.25.29:219][974]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2
+[2017.12.07-12.25.29:223][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003295s)
+[2017.12.07-12.25.29:223][974]LogAIModule: Creating AISystem for world Level2
+[2017.12.07-12.25.29:223][974]LogPlayLevel: PIE: World Init took: (0.000598s)
+[2017.12.07-12.25.29:223][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level2.Level2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 (0.004217s)
+[2017.12.07-12.25.29:251][974]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-12.25.29:257][974]LogInit: FAudioDevice initialized.
+[2017.12.07-12.25.29:297][974]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.07-12.25.29:300][974]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2017.12.07-05.25.29
+[2017.12.07-12.25.29:300][974]LogWorld: Bringing up level for play took: 0.001710
+[2017.12.07-12.25.29:336][974]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2017.12.07-12.25.29:338][974]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2 -0.741
+[2017.12.07-12.25.31:147][188]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.25.33:147][428]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.25.35:147][668]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.25.37:147][908]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.25.39:147][148]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.25.41:147][388]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.25.43:147][628]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.25.45:148][868]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.25.50:849][505]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-12.25.50:879][505]Cmd: MAP LOAD FILE="../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level1_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.07-12.25.50:879][505]LightingResults: New page: Lighting Build
+[2017.12.07-12.25.50:880][505]LoadErrors: New page: Loading map: Level1_2.umap
+[2017.12.07-12.25.50:880][505]MapCheck: New page: Map Check
+[2017.12.07-12.25.50:880][505]LightingResults: New page: Lighting Build
+[2017.12.07-12.25.50:992][505]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.07-12.25.51:053][505]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.07-12.25.51:122][505]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68.91ms to complete.
+[2017.12.07-12.25.51:123][505]LogFileHelpers: Loading map 'Level1_2' took 0.245
+[2017.12.07-12.26.04:299][  9]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.12.07-12.26.06:712][290]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (character_devilHead_bg_Sprite)
+[2017.12.07-12.26.07:886][422]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.12.07-12.26.14:798][238]Cmd: SELECT NONE
+[2017.12.07-12.26.28:774][835]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift)
+[2017.12.07-12.26.29:471][912]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_92)
+[2017.12.07-12.26.30:257][999]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_63)
+[2017.12.07-12.26.30:814][ 59]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_62)
+[2017.12.07-12.26.32:609][268]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_98)
+[2017.12.07-12.27.22:322][798]LogAIModule: Creating AISystem for world Level2
+[2017.12.07-12.27.22:344][798]Cmd: MAP LOAD FILE="../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.07-12.27.22:344][798]LightingResults: New page: Lighting Build
+[2017.12.07-12.27.22:345][798]LoadErrors: New page: Loading map: Level2.umap
+[2017.12.07-12.27.22:347][798]MapCheck: New page: Map Check
+[2017.12.07-12.27.22:347][798]LightingResults: New page: Lighting Build
+[2017.12.07-12.27.22:456][798]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.07-12.27.22:510][798]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.07-12.27.22:573][798]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.748ms to complete.
+[2017.12.07-12.27.22:574][798]LogFileHelpers: Loading map 'Level2' took 0.231
+[2017.12.07-12.27.41:838][897]LogMaterial: Missing cached shader map for material platform_left_end_Mat, compiling. 
+[2017.12.07-12.27.46:902][404]Cmd: TRANSACTION UNDO
+[2017.12.07-12.27.46:902][404]LogEditorTransaction: Undo Create Actors
+[2017.12.07-12.27.46:924][404]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.07-12.28.08:044][585]Cmd: SELECT NONE
+[2017.12.07-12.28.12:911][166]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_19)
+[2017.12.07-12.28.16:220][541]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_26)
+[2017.12.07-12.28.22:855][314]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_27)
+[2017.12.07-12.28.29:970][147]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_26)
+[2017.12.07-12.28.54:250][831]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_26)
+[2017.12.07-12.28.55:523][973]Cmd: DELETE
+[2017.12.07-12.28.55:523][973]Cmd: ACTOR DELETE
+[2017.12.07-12.28.55:525][973]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.12.07-12.28.55:538][973]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2017.12.07-12.28.57:004][148]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_left_end_Sprite)
+[2017.12.07-12.29.02:659][780]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_18)
+[2017.12.07-12.29.05:626][113]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_19)
+[2017.12.07-12.29.09:005][479]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_18)
+[2017.12.07-12.29.11:608][770]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.12.07-12.29.34:756][205]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-12.29.34:779][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-12.29.34:779][205]PIE: New page: PIE session: Level2 (Dec 6, 2017, 10:29:34 PM)
+[2017.12.07-12.29.34:779][205]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2
+[2017.12.07-12.29.34:783][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003685s)
+[2017.12.07-12.29.34:784][205]LogAIModule: Creating AISystem for world Level2
+[2017.12.07-12.29.34:784][205]LogPlayLevel: PIE: World Init took: (0.000633s)
+[2017.12.07-12.29.34:784][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level2.Level2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 (0.004577s)
+[2017.12.07-12.29.34:812][205]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-12.29.34:819][205]LogInit: FAudioDevice initialized.
+[2017.12.07-12.29.34:850][205]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.07-12.29.34:852][205]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2017.12.07-05.29.34
+[2017.12.07-12.29.34:852][205]LogWorld: Bringing up level for play took: 0.001826
+[2017.12.07-12.29.34:853][205]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2 0.78
+[2017.12.07-12.29.38:287][608]Cmd: SELECT NONE
+[2017.12.07-12.29.38:844][674]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.12.07-12.29.45:418][400]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-12.29.45:442][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-12.29.45:442][400]PIE: New page: PIE session: Level2 (Dec 6, 2017, 10:29:45 PM)
+[2017.12.07-12.29.45:442][400]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2
+[2017.12.07-12.29.45:446][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004267s)
+[2017.12.07-12.29.45:447][400]LogAIModule: Creating AISystem for world Level2
+[2017.12.07-12.29.45:447][400]LogPlayLevel: PIE: World Init took: (0.000571s)
+[2017.12.07-12.29.45:447][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level2.Level2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 (0.005095s)
+[2017.12.07-12.29.45:478][400]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-12.29.45:485][400]LogInit: FAudioDevice initialized.
+[2017.12.07-12.29.45:515][400]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.07-12.29.45:517][400]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2017.12.07-05.29.45
+[2017.12.07-12.29.45:518][400]LogWorld: Bringing up level for play took: 0.001798
+[2017.12.07-12.29.45:519][400]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2 -0.554
+[2017.12.07-12.29.47:412][626]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.29.49:000][809]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.12.07-12.30.21:356][520]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_27)
+[2017.12.07-12.30.22:555][656]Cmd: DELETE
+[2017.12.07-12.30.22:555][656]Cmd: ACTOR DELETE
+[2017.12.07-12.30.22:557][656]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.12.07-12.30.22:572][656]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.12.07-12.30.24:058][824]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_28)
+[2017.12.07-12.30.25:427][964]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_29)
+[2017.12.07-12.30.25:811][  2]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_30)
+[2017.12.07-12.30.26:142][ 35]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_31)
+[2017.12.07-12.30.26:429][ 62]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_32)
+[2017.12.07-12.30.27:246][152]Cmd: DELETE
+[2017.12.07-12.30.27:246][152]Cmd: ACTOR DELETE
+[2017.12.07-12.30.27:249][152]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.12.07-12.30.27:249][152]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.12.07-12.30.27:250][152]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.12.07-12.30.27:250][152]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.12.07-12.30.27:251][152]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.12.07-12.30.27:265][152]LogEditorActor: Deleted 5 Actors (0.018 secs)
+[2017.12.07-12.30.30:575][547]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite)
+[2017.12.07-12.30.38:834][470]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.12.07-12.30.40:009][600]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite)
+[2017.12.07-12.30.45:504][211]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_with_ends_1_unit_Sprite)
+[2017.12.07-12.30.50:821][797]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite)
+[2017.12.07-12.30.57:835][590]Cmd: EDIT COPY
+[2017.12.07-12.31.01:383][997]Cmd: EDIT PASTE
+[2017.12.07-12.31.09:037][882]Cmd: EDIT PASTE
+[2017.12.07-12.31.10:059][997]Cmd: EDIT PASTE
+[2017.12.07-12.31.10:283][ 18]Cmd: EDIT PASTE
+[2017.12.07-12.31.10:488][ 38]Cmd: EDIT PASTE
+[2017.12.07-12.31.10:633][ 51]Cmd: EDIT PASTE
+[2017.12.07-12.31.10:788][ 64]Cmd: EDIT PASTE
+[2017.12.07-12.31.13:959][428]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite7)
+[2017.12.07-12.31.16:679][735]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite)
+[2017.12.07-12.31.19:152][ 13]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite6)
+[2017.12.07-12.31.21:846][316]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite5)
+[2017.12.07-12.31.25:569][739]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite4)
+[2017.12.07-12.31.29:207][151]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite3)
+[2017.12.07-12.31.36:811][ 16]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite8)
+[2017.12.07-12.31.37:819][127]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite7)
+[2017.12.07-12.31.38:212][166]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite)
+[2017.12.07-12.31.38:821][230]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite6)
+[2017.12.07-12.31.39:288][277]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite5)
+[2017.12.07-12.31.39:834][334]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite4)
+[2017.12.07-12.31.42:856][675]LogEditorViewport: Clicking Background
+[2017.12.07-12.31.47:438][218]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite3)
+[2017.12.07-12.31.50:330][539]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite4)
+[2017.12.07-12.31.50:687][575]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite5)
+[2017.12.07-12.31.51:083][616]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite6)
+[2017.12.07-12.31.51:491][658]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite)
+[2017.12.07-12.31.52:006][712]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite7)
+[2017.12.07-12.31.52:426][755]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite8)
+[2017.12.07-12.31.52:837][797]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite2)
+[2017.12.07-12.31.53:269][841]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite3)
+[2017.12.07-12.31.54:993][ 36]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_with_ends_1_unit_Sprite)
+[2017.12.07-12.31.57:024][269]Cmd: DELETE
+[2017.12.07-12.31.57:024][269]Cmd: ACTOR DELETE
+[2017.12.07-12.31.57:026][269]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.12.07-12.31.57:041][269]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.12.07-12.31.58:357][426]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite4)
+[2017.12.07-12.31.59:317][532]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite5)
+[2017.12.07-12.31.59:680][568]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite6)
+[2017.12.07-12.32.00:086][609]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite)
+[2017.12.07-12.32.00:456][646]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite7)
+[2017.12.07-12.32.00:886][690]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite8)
+[2017.12.07-12.32.01:255][726]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite2)
+[2017.12.07-12.32.01:607][760]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite3)
+[2017.12.07-12.32.03:315][950]Cmd: EDIT COPY
+[2017.12.07-12.32.03:980][ 27]Cmd: EDIT PASTE
+[2017.12.07-12.32.10:373][743]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite3)
+[2017.12.07-12.32.11:282][842]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite2)
+[2017.12.07-12.32.12:339][959]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite8)
+[2017.12.07-12.32.12:949][ 24]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite7)
+[2017.12.07-12.32.14:350][178]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite12)
+[2017.12.07-12.32.14:712][214]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite13)
+[2017.12.07-12.32.15:241][269]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite14)
+[2017.12.07-12.32.15:707][316]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite9)
+[2017.12.07-12.32.16:098][355]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite15)
+[2017.12.07-12.32.16:557][402]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite16)
+[2017.12.07-12.32.17:018][449]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite10)
+[2017.12.07-12.32.17:530][501]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite11)
+[2017.12.07-12.32.17:917][539]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite4)
+[2017.12.07-12.32.18:322][579]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite5)
+[2017.12.07-12.32.18:883][637]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite6)
+[2017.12.07-12.32.19:253][673]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite)
+[2017.12.07-12.32.20:105][764]Cmd: EDIT COPY
+[2017.12.07-12.32.20:585][818]Cmd: EDIT PASTE
+[2017.12.07-12.32.36:824][595]LogSavePackage: Save=103.42ms
+[2017.12.07-12.32.36:824][595]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Level243C5FCA84E5A57AA66E76E957E87A668.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap'
+[2017.12.07-12.32.36:828][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap
+[2017.12.07-12.32.42:010][115]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.07-12.32.42:032][115]Cmd: MAP LOAD FILE="../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level1_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.07-12.32.42:032][115]LightingResults: New page: Lighting Build
+[2017.12.07-12.32.42:033][115]LoadErrors: New page: Loading map: Level1_2.umap
+[2017.12.07-12.32.42:034][115]MapCheck: New page: Map Check
+[2017.12.07-12.32.42:034][115]LightingResults: New page: Lighting Build
+[2017.12.07-12.32.42:188][115]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.07-12.32.42:242][115]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.07-12.32.42:306][115]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.398ms to complete.
+[2017.12.07-12.32.42:307][115]LogFileHelpers: Loading map 'Level1_2' took 0.275
+[2017.12.07-12.32.51:252][163]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_98)
+[2017.12.07-12.33.05:473][795]LogEditorViewport: Clicking Background
+[2017.12.07-12.33.14:572][793]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_98)
+[2017.12.07-12.33.30:291][536]LogAIModule: Creating AISystem for world Level2
+[2017.12.07-12.33.30:315][536]Cmd: MAP LOAD FILE="../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.07-12.33.30:315][536]LightingResults: New page: Lighting Build
+[2017.12.07-12.33.30:315][536]LoadErrors: New page: Loading map: Level2.umap
+[2017.12.07-12.33.30:317][536]MapCheck: New page: Map Check
+[2017.12.07-12.33.30:317][536]LightingResults: New page: Lighting Build
+[2017.12.07-12.33.30:451][536]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.07-12.33.30:506][536]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.07-12.33.30:568][536]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.29ms to complete.
+[2017.12.07-12.33.30:568][536]LogFileHelpers: Loading map 'Level2' took 0.254
+[2017.12.07-12.33.32:651][778]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite3)
+[2017.12.07-12.33.35:996][172]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_left_end_Sprite)
+[2017.12.07-12.33.37:344][328]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite3)
+[2017.12.07-12.33.41:570][824]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite28)
+[2017.12.07-12.33.42:264][901]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite29)
+[2017.12.07-12.33.42:925][974]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite30)
+[2017.12.07-12.33.43:421][ 28]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite25)
+[2017.12.07-12.33.43:832][ 71]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite31)
+[2017.12.07-12.33.44:278][119]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite32)
+[2017.12.07-12.33.44:683][162]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite26)
+[2017.12.07-12.33.45:232][222]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite27)
+[2017.12.07-12.33.45:738][277]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite20)
+[2017.12.07-12.33.46:180][321]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite21)
+[2017.12.07-12.33.46:587][364]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite22)
+[2017.12.07-12.33.47:028][411]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite17)
+[2017.12.07-12.33.47:496][461]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite23)
+[2017.12.07-12.33.48:109][528]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite24)
+[2017.12.07-12.33.48:528][572]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite18)
+[2017.12.07-12.33.49:213][648]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite19)
+[2017.12.07-12.33.49:895][722]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite12)
+[2017.12.07-12.33.50:482][785]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite13)
+[2017.12.07-12.33.51:114][854]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite14)
+[2017.12.07-12.33.51:553][900]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite9)
+[2017.12.07-12.33.52:195][970]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite15)
+[2017.12.07-12.33.52:624][ 15]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite16)
+[2017.12.07-12.33.53:163][ 73]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite10)
+[2017.12.07-12.33.53:588][117]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite11)
+[2017.12.07-12.33.53:980][157]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite4)
+[2017.12.07-12.33.54:378][198]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite5)
+[2017.12.07-12.33.54:936][258]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite6)
+[2017.12.07-12.33.55:361][301]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite)
+[2017.12.07-12.33.55:845][351]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite7)
+[2017.12.07-12.33.57:094][489]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite8)
+[2017.12.07-12.33.57:679][550]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite2)
+[2017.12.07-12.33.58:186][601]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite3)
+[2017.12.07-12.34.04:901][352]Cmd: EDIT COPY
+[2017.12.07-12.34.05:991][476]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_left_end_Sprite)
+[2017.12.07-12.34.13:117][280]Cmd: EDIT PASTE
+[2017.12.07-12.34.31:471][298]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite3)
+[2017.12.07-12.35.26:716][523]Cmd: EDIT COPY
+[2017.12.07-12.35.28:735][747]Cmd: EDIT PASTE
+[2017.12.07-12.36.05:544][189]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite15)
+[2017.12.07-12.36.07:575][424]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_left_end_Sprite)
+[2017.12.07-12.36.34:674][  0]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.12.07-12.36.41:491][803]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_right_end_Sprite)
+[2017.12.07-12.36.42:354][899]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_with_ends_1_unit_Sprite2)
+[2017.12.07-12.36.43:239][998]Cmd: DELETE
+[2017.12.07-12.36.43:239][998]Cmd: ACTOR DELETE
+[2017.12.07-12.36.43:242][998]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.12.07-12.36.43:257][998]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2017.12.07-12.36.45:062][214]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.12.07-12.36.45:962][315]Cmd: EDIT COPY
+[2017.12.07-12.36.46:208][344]Cmd: EDIT PASTE
+[2017.12.07-12.37.05:335][596]Cmd: TRANSACTION UNDO
+[2017.12.07-12.37.05:335][596]LogEditorTransaction: Undo Rotate Actors
+[2017.12.07-12.37.30:712][581]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite2)
+[2017.12.07-12.37.49:962][849]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.12.07-12.37.51:038][972]Cmd: EDIT COPY
+[2017.12.07-12.37.51:293][  2]Cmd: EDIT PASTE
+[2017.12.07-12.38.00:981][123]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_19)
+[2017.12.07-12.38.11:265][235]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite70)
+[2017.12.07-12.38.22:220][519]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (platform_tileable_Sprite69)
+[2017.12.07-12.38.29:266][354]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite68)
+[2017.12.07-12.39.31:804][510]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite95)
+[2017.12.07-12.39.35:281][911]LogEditorViewport: Clicking Background
+[2017.12.07-12.39.40:470][530]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite87)
+[2017.12.07-12.39.44:521][  8]LogEditorViewport: Clicking Background
+[2017.12.07-12.39.45:117][ 78]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite92)
+[2017.12.07-12.39.47:425][347]LogEditorViewport: Clicking Background
+[2017.12.07-12.39.49:054][541]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite84)
+[2017.12.07-12.39.52:009][888]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite98)
+[2017.12.07-12.40.37:867][185]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite92)
+[2017.12.07-12.40.40:753][523]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite91)
+[2017.12.07-12.40.44:696][987]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite90)
+[2017.12.07-12.40.48:439][428]LogEditorViewport: Clicking Background
+[2017.12.07-12.41.04:100][282]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.12.07-12.41.04:777][356]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite2)
+[2017.12.07-12.41.05:676][457]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite3)
+[2017.12.07-12.41.07:513][669]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite2)
+[2017.12.07-12.41.09:231][868]Cmd: EDIT COPY
+[2017.12.07-12.41.09:498][898]Cmd: EDIT PASTE
+[2017.12.07-12.41.15:263][575]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite54)
+[2017.12.07-12.41.16:055][663]LogEditorViewport: Clicking Background
+[2017.12.07-12.41.23:080][501]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite3)
+[2017.12.07-12.41.24:419][653]Cmd: EDIT COPY
+[2017.12.07-12.41.24:781][696]Cmd: EDIT PASTE
+[2017.12.07-12.41.29:023][190]LogEditorViewport: Clicking Background
+[2017.12.07-12.41.32:700][628]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite98)
+[2017.12.07-12.41.34:007][777]Cmd: DELETE
+[2017.12.07-12.41.34:007][777]Cmd: ACTOR DELETE
+[2017.12.07-12.41.34:010][777]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.12.07-12.41.34:024][777]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.12.07-12.41.35:247][923]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_right_end_Sprite)
+[2017.12.07-12.42.05:720][468]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-12.42.05:744][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-12.42.05:744][468]PIE: New page: PIE session: Level2 (Dec 6, 2017, 10:42:05 PM)
+[2017.12.07-12.42.05:744][468]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2
+[2017.12.07-12.42.05:751][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006731s)
+[2017.12.07-12.42.05:751][468]LogAIModule: Creating AISystem for world Level2
+[2017.12.07-12.42.05:751][468]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2017.12.07-12.42.05:752][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level2.Level2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 (0.007811s)
+[2017.12.07-12.42.05:781][468]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-12.42.05:788][468]LogInit: FAudioDevice initialized.
+[2017.12.07-12.42.05:822][468]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.07-12.42.05:825][468]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2017.12.07-05.42.05
+[2017.12.07-12.42.05:826][468]LogWorld: Bringing up level for play took: 0.003535
+[2017.12.07-12.42.05:827][468]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2 -0.232
+[2017.12.07-12.42.07:714][693]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.42.09:714][933]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.42.11:714][173]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.42.13:714][413]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.42.15:714][653]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.42.17:714][893]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.42.19:714][133]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.42.21:716][372]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.42.23:716][612]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.42.25:716][852]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.42.27:716][ 92]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.42.29:716][332]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.42.31:717][572]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.42.39:499][449]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.12.07-12.42.50:288][731]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite2)
+[2017.12.07-12.42.56:769][496]LogEditorViewport: Clicking Background
+[2017.12.07-12.43.01:205][ 26]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-12.43.01:229][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-12.43.01:229][ 26]PIE: New page: PIE session: Level2 (Dec 6, 2017, 10:43:01 PM)
+[2017.12.07-12.43.01:229][ 26]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2
+[2017.12.07-12.43.01:236][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006810s)
+[2017.12.07-12.43.01:236][ 26]LogAIModule: Creating AISystem for world Level2
+[2017.12.07-12.43.01:236][ 26]LogPlayLevel: PIE: World Init took: (0.000575s)
+[2017.12.07-12.43.01:236][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level2.Level2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 (0.007672s)
+[2017.12.07-12.43.01:266][ 26]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-12.43.01:273][ 26]LogInit: FAudioDevice initialized.
+[2017.12.07-12.43.01:306][ 26]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.07-12.43.01:310][ 26]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2017.12.07-05.43.01
+[2017.12.07-12.43.01:310][ 26]LogWorld: Bringing up level for play took: 0.003534
+[2017.12.07-12.43.01:311][ 26]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2 -0.747
+[2017.12.07-12.43.03:205][252]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.43.05:205][492]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.43.07:205][732]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.43.09:206][972]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.43.11:205][212]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.43.13:209][451]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.43.15:208][691]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.43.17:209][931]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.43.19:209][171]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.43.21:209][411]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.43.23:209][651]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.43.34:326][965]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.12.07-12.43.35:154][ 58]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Background_Sprite2)
+[2017.12.07-12.43.43:454][ 37]LogEditorViewport: Clicking Background
+[2017.12.07-12.43.45:302][257]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-12.43.45:325][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-12.43.45:325][257]PIE: New page: PIE session: Level2 (Dec 6, 2017, 10:43:45 PM)
+[2017.12.07-12.43.45:325][257]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2
+[2017.12.07-12.43.45:332][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006830s)
+[2017.12.07-12.43.45:332][257]LogAIModule: Creating AISystem for world Level2
+[2017.12.07-12.43.45:332][257]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2017.12.07-12.43.45:333][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level2.Level2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 (0.007684s)
+[2017.12.07-12.43.45:360][257]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-12.43.45:366][257]LogInit: FAudioDevice initialized.
+[2017.12.07-12.43.45:395][257]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.07-12.43.45:398][257]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2017.12.07-05.43.45
+[2017.12.07-12.43.45:399][257]LogWorld: Bringing up level for play took: 0.003150
+[2017.12.07-12.43.45:400][257]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2 -0.657
+[2017.12.07-12.43.47:302][484]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.43.49:303][724]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.43.51:303][964]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.43.53:303][204]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.43.58:432][794]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite3)
+[2017.12.07-12.43.59:871][959]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite4)
+[2017.12.07-12.44.03:479][381]LogEditorViewport: Clicking Background
+[2017.12.07-12.44.14:621][708]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite5)
+[2017.12.07-12.44.19:949][339]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite95)
+[2017.12.07-12.44.22:062][586]Cmd: DELETE
+[2017.12.07-12.44.22:062][586]Cmd: ACTOR DELETE
+[2017.12.07-12.44.22:064][586]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.12.07-12.44.22:079][586]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.12.07-12.44.33:312][920]Cmd: TRANSACTION UNDO
+[2017.12.07-12.44.33:312][920]LogEditorTransaction: Undo Delete Actors
+[2017.12.07-12.44.35:218][122]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_right_end_Sprite)
+[2017.12.07-12.44.37:700][413]LogEditorViewport: Clicking Background
+[2017.12.07-12.44.42:392][933]LogSavePackage: Save=157.46ms
+[2017.12.07-12.44.42:393][933]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Level281106CFB4E27891CED5FEE9F5C0DECD3.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap'
+[2017.12.07-12.44.42:397][933]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap
+[2017.12.07-12.44.43:582][ 64]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-12.44.43:604][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-12.44.43:604][ 64]PIE: New page: PIE session: Level2 (Dec 6, 2017, 10:44:43 PM)
+[2017.12.07-12.44.43:604][ 64]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2
+[2017.12.07-12.44.43:610][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006326s)
+[2017.12.07-12.44.43:611][ 64]LogAIModule: Creating AISystem for world Level2
+[2017.12.07-12.44.43:611][ 64]LogPlayLevel: PIE: World Init took: (0.000551s)
+[2017.12.07-12.44.43:611][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level2.Level2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 (0.007135s)
+[2017.12.07-12.44.43:638][ 64]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-12.44.43:645][ 64]LogInit: FAudioDevice initialized.
+[2017.12.07-12.44.43:674][ 64]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.07-12.44.43:678][ 64]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2017.12.07-05.44.43
+[2017.12.07-12.44.43:678][ 64]LogWorld: Bringing up level for play took: 0.003228
+[2017.12.07-12.44.43:679][ 64]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2 -0.377
+[2017.12.07-12.44.45:581][291]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.44.47:581][531]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.44.49:581][771]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.44.51:581][ 11]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.44.53:581][251]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.44.55:582][491]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.44.57:581][731]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.45.31:970][806]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2017.12.07-12.45.32:649][880]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Background_Sprite2)
+[2017.12.07-12.45.33:272][947]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Background_Sprite3)
+[2017.12.07-12.45.33:843][  8]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Background_Sprite4)
+[2017.12.07-12.45.37:034][361]LogEditorViewport: Clicking Background
+[2017.12.07-12.45.37:616][424]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite5)
+[2017.12.07-12.45.38:245][493]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Background_Sprite4)
+[2017.12.07-12.45.38:620][531]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Background_Sprite3)
+[2017.12.07-12.45.39:505][631]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Background_Sprite2)
+[2017.12.07-12.45.42:083][928]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Background_Sprite)
+[2017.12.07-12.45.43:808][128]Cmd: EDIT COPY
+[2017.12.07-12.45.44:432][202]Cmd: EDIT PASTE
+[2017.12.07-12.46.14:282][642]LogEditorViewport: Clicking Background
+[2017.12.07-12.46.17:643][ 43]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-12.46.17:666][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-12.46.17:666][ 43]PIE: New page: PIE session: Level2 (Dec 6, 2017, 10:46:17 PM)
+[2017.12.07-12.46.17:666][ 43]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2
+[2017.12.07-12.46.17:673][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006837s)
+[2017.12.07-12.46.17:673][ 43]LogAIModule: Creating AISystem for world Level2
+[2017.12.07-12.46.17:673][ 43]LogPlayLevel: PIE: World Init took: (0.000540s)
+[2017.12.07-12.46.17:673][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level2.Level2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 (0.007635s)
+[2017.12.07-12.46.17:701][ 43]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-12.46.17:707][ 43]LogInit: FAudioDevice initialized.
+[2017.12.07-12.46.17:736][ 43]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.07-12.46.17:739][ 43]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2017.12.07-05.46.17
+[2017.12.07-12.46.17:740][ 43]LogWorld: Bringing up level for play took: 0.003291
+[2017.12.07-12.46.17:741][ 43]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2 -0.314
+[2017.12.07-12.46.19:644][270]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.46.21:644][510]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.46.25:702][989]LogEditorViewport: Clicking on Actor (LMB): WillParticle_Blueprint_C (WillParticle_Blueprint)
+[2017.12.07-12.46.26:648][ 97]Cmd: DELETE
+[2017.12.07-12.46.26:648][ 97]Cmd: ACTOR DELETE
+[2017.12.07-12.46.26:651][ 97]LogEditorActor: Deleted Actor: WillParticle_Blueprint_C
+[2017.12.07-12.46.26:665][ 97]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.12.07-12.47.41:636][447]LogSavePackage: Save=159.22ms
+[2017.12.07-12.47.41:639][447]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Level2AF9707AA43976552F2F5CD88D184B184.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap'
+[2017.12.07-12.47.41:642][447]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap
+[2017.12.07-12.49.19:733][188]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_left_end_Sprite)
+[2017.12.07-12.49.29:347][327]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite)
+[2017.12.07-12.49.32:633][713]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite6)
+[2017.12.07-12.50.01:150][ 80]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite5)
+[2017.12.07-12.50.02:203][201]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite6)
+[2017.12.07-12.50.13:670][559]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite9)
+[2017.12.07-12.50.16:171][851]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite14)
+[2017.12.07-12.50.27:448][164]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite13)
+[2017.12.07-12.50.33:414][866]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite12)
+[2017.12.07-12.50.33:922][921]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite19)
+[2017.12.07-12.50.38:030][374]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite17)
+[2017.12.07-12.50.40:825][700]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite22)
+[2017.12.07-12.50.47:855][529]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite21)
+[2017.12.07-12.50.48:452][594]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite20)
+[2017.12.07-12.50.52:356][ 56]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite32)
+[2017.12.07-12.50.54:329][286]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite31)
+[2017.12.07-12.50.54:844][342]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite25)
+[2017.12.07-12.51.02:722][241]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite30)
+[2017.12.07-12.51.03:785][362]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (GlobalPostProcessSettings)
+[2017.12.07-12.51.07:350][779]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite29)
+[2017.12.07-12.51.10:053][ 93]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite28)
+[2017.12.07-12.51.12:490][377]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite35)
+[2017.12.07-12.51.17:713][960]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite33)
+[2017.12.07-12.51.20:348][266]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite38)
+[2017.12.07-12.51.21:467][394]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite37)
+[2017.12.07-12.51.30:245][430]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite36)
+[2017.12.07-12.51.30:709][480]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite43)
+[2017.12.07-12.51.31:168][529]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite42)
+[2017.12.07-12.51.31:707][588]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite48)
+[2017.12.07-12.51.32:323][656]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite47)
+[2017.12.07-12.51.32:786][706]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite41)
+[2017.12.07-12.51.42:656][834]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite46)
+[2017.12.07-12.51.49:203][606]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite45)
+[2017.12.07-12.51.51:675][897]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite44)
+[2017.12.07-12.51.53:753][141]Cmd: DELETE
+[2017.12.07-12.51.53:753][141]Cmd: ACTOR DELETE
+[2017.12.07-12.51.53:757][141]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.12.07-12.51.53:773][141]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2017.12.07-12.51.54:752][258]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite51)
+[2017.12.07-12.51.55:396][330]Cmd: DELETE
+[2017.12.07-12.51.55:396][330]Cmd: ACTOR DELETE
+[2017.12.07-12.51.55:399][330]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.12.07-12.51.55:413][330]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.12.07-12.51.56:375][445]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite50)
+[2017.12.07-12.51.57:062][522]Cmd: DELETE
+[2017.12.07-12.51.57:062][522]Cmd: ACTOR DELETE
+[2017.12.07-12.51.57:065][522]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.12.07-12.51.57:080][522]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2017.12.07-12.52.02:110][116]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite49)
+[2017.12.07-12.52.04:224][362]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite54)
+[2017.12.07-12.52.13:680][484]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite53)
+[2017.12.07-12.52.14:624][592]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite52)
+[2017.12.07-12.52.15:142][648]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite59)
+[2017.12.07-12.52.15:863][729]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite58)
+[2017.12.07-12.52.16:332][780]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite64)
+[2017.12.07-12.52.16:986][853]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite63)
+[2017.12.07-12.52.20:680][275]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite57)
+[2017.12.07-12.52.24:378][711]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite62)
+[2017.12.07-12.52.33:298][766]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite68)
+[2017.12.07-12.52.39:329][480]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite69)
+[2017.12.07-12.52.42:298][827]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite70)
+[2017.12.07-12.52.42:993][905]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite65)
+[2017.12.07-12.52.44:411][ 69]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite70)
+[2017.12.07-12.52.46:278][285]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite65)
+[2017.12.07-12.52.53:399][129]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite71)
+[2017.12.07-12.52.55:828][412]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite76)
+[2017.12.07-12.53.01:829][119]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite75)
+[2017.12.07-12.53.03:384][300]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite76)
+[2017.12.07-12.53.10:765][145]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite79)
+[2017.12.07-12.53.17:917][956]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite84)
+[2017.12.07-12.53.22:396][484]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite83)
+[2017.12.07-12.53.27:283][ 61]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_tileable_Sprite82)
+[2017.12.07-12.53.58:856][698]LogSavePackage: Save=158.71ms
+[2017.12.07-12.53.58:856][698]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Level2715E50104C7F03F367CB46BC5FD9EB11.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap'
+[2017.12.07-12.53.58:861][698]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap
+[2017.12.07-12.55.15:471][750]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-12.55.15:495][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-12.55.15:495][750]PIE: New page: PIE session: Level2 (Dec 6, 2017, 10:55:15 PM)
+[2017.12.07-12.55.15:495][750]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2
+[2017.12.07-12.55.15:503][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007073s)
+[2017.12.07-12.55.15:503][750]LogAIModule: Creating AISystem for world Level2
+[2017.12.07-12.55.15:504][750]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2017.12.07-12.55.15:504][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level2.Level2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 (0.008122s)
+[2017.12.07-12.55.15:532][750]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-12.55.15:539][750]LogInit: FAudioDevice initialized.
+[2017.12.07-12.55.15:570][750]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.07-12.55.15:574][750]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2017.12.07-05.55.15
+[2017.12.07-12.55.15:574][750]LogWorld: Bringing up level for play took: 0.003463
+[2017.12.07-12.55.15:576][750]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2 -0.473
+[2017.12.07-12.55.17:469][976]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.55.19:469][216]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.55.21:469][456]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.55.23:469][696]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.55.25:469][936]LogBlueprintUserMessages: [Icicle_spawn_BP_2] Hello
+[2017.12.07-12.56.02:386][222]LogEditorActor: Deleted Actor: Icicle_spawn_BP_C
+[2017.12.07-12.56.02:400][222]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.12.07-12.56.05:066][541]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-12.56.05:088][541]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-12.56.05:088][541]PIE: New page: PIE session: Level2 (Dec 6, 2017, 10:56:05 PM)
+[2017.12.07-12.56.05:088][541]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2
+[2017.12.07-12.56.05:095][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006230s)
+[2017.12.07-12.56.05:096][541]LogAIModule: Creating AISystem for world Level2
+[2017.12.07-12.56.05:096][541]LogPlayLevel: PIE: World Init took: (0.000549s)
+[2017.12.07-12.56.05:096][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level2.Level2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 (0.007051s)
+[2017.12.07-12.56.05:122][541]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-12.56.05:127][541]LogInit: FAudioDevice initialized.
+[2017.12.07-12.56.05:159][541]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.07-12.56.05:162][541]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2017.12.07-05.56.05
+[2017.12.07-12.56.05:162][541]LogWorld: Bringing up level for play took: 0.003379
+[2017.12.07-12.56.05:164][541]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2 -0.883
+[2017.12.07-12.58.45:073][407]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift4)
+[2017.12.07-12.58.51:010][ 98]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift4)
+[2017.12.07-12.58.52:429][266]Cmd: EDIT COPY
+[2017.12.07-12.58.53:733][421]Cmd: EDIT PASTE
+[2017.12.07-12.59.10:755][354]Cmd: EDIT COPY
+[2017.12.07-12.59.19:897][433]Cmd: EDIT PASTE
+[2017.12.07-12.59.31:949][856]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2017.12.07-12.59.32:989][974]Cmd: EDIT COPY
+[2017.12.07-12.59.34:056][101]Cmd: EDIT PASTE
+[2017.12.07-12.59.42:867][123]LogEditorViewport: Clicking on Actor (CTRL LMB): 2DLift_C (2DLift5)
+[2017.12.07-12.59.43:616][208]LogEditorViewport: Clicking on Actor (CTRL LMB): 2DLift_C (2DLift6)
+[2017.12.07-12.59.49:310][875]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2017.12.07-12.59.50:537][ 15]Cmd: EDIT COPY
+[2017.12.07-12.59.50:809][ 47]Cmd: EDIT PASTE
+[2017.12.07-12.59.55:556][605]Cmd: EDIT PASTE
+[2017.12.07-13.00.06:579][907]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift6)
+[2017.12.07-13.00.07:890][ 51]Cmd: EDIT COPY
+[2017.12.07-13.00.09:070][190]Cmd: EDIT PASTE
+[2017.12.07-13.00.16:734][ 66]Cmd: EDIT PASTE
+[2017.12.07-13.00.27:809][342]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_16)
+[2017.12.07-13.00.30:343][634]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift8)
+[2017.12.07-13.00.32:075][835]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_16)
+[2017.12.07-13.00.37:085][417]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift7)
+[2017.12.07-13.00.41:545][889]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_15)
+[2017.12.07-13.00.42:941][ 41]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift6)
+[2017.12.07-13.00.43:420][ 91]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift5)
+[2017.12.07-13.00.43:874][138]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2017.12.07-13.01.07:095][823]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift7)
+[2017.12.07-13.01.18:553][168]Cmd: TRANSACTION UNDO
+[2017.12.07-13.01.18:553][168]LogEditorTransaction: Undo Rotate Actors
+[2017.12.07-13.01.22:225][581]Cmd: TRANSACTION UNDO
+[2017.12.07-13.01.22:225][581]LogEditorTransaction: Undo Rotate Actors
+[2017.12.07-13.01.30:057][488]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite2)
+[2017.12.07-13.01.31:190][615]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift7)
+[2017.12.07-13.01.45:266][268]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift7)
+[2017.12.07-13.02.12:968][507]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift7)
+[2017.12.07-13.02.14:018][630]Cmd: EDIT COPY
+[2017.12.07-13.02.15:169][765]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift8)
+[2017.12.07-13.02.20:397][368]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift7)
+[2017.12.07-13.02.21:378][480]Cmd: EDIT COPY
+[2017.12.07-13.02.21:599][506]Cmd: EDIT PASTE
+[2017.12.07-13.02.33:215][851]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-13.02.33:239][851]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-13.02.33:239][851]PIE: New page: PIE session: Level2 (Dec 6, 2017, 11:02:33 PM)
+[2017.12.07-13.02.33:239][851]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2
+[2017.12.07-13.02.33:247][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008414s)
+[2017.12.07-13.02.33:248][851]LogAIModule: Creating AISystem for world Level2
+[2017.12.07-13.02.33:248][851]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2017.12.07-13.02.33:249][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level2.Level2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 (0.009586s)
+[2017.12.07-13.02.33:302][851]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-13.02.33:309][851]LogInit: FAudioDevice initialized.
+[2017.12.07-13.02.33:340][851]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.07-13.02.33:344][851]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2017.12.07-06.02.33
+[2017.12.07-13.02.33:345][851]LogWorld: Bringing up level for play took: 0.004287
+[2017.12.07-13.02.33:347][851]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2 -0.696
+[2017.12.07-13.04.35:864][456]LogSavePackage: Save=198.62ms
+[2017.12.07-13.04.35:864][456]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Level2_Auto1EDD6FDEA4E86461185ACC5A9856B4663.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Autosaves/Game/2DSideScrollerCPP/Maps/Level2_Auto1.umap'
+[2017.12.07-13.04.35:867][456]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Autosaves/Game/2DSideScrollerCPP/Maps/Level2_Auto1.umap
+[2017.12.07-13.04.35:872][456]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerCPP/Maps/Level2' took 0.255
+[2017.12.07-13.04.35:872][456]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.255
+[2017.12.07-13.12.40:251][910]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift9)
+[2017.12.07-13.12.42:662][189]Cmd: EDIT COPY
+[2017.12.07-13.12.43:764][319]Cmd: EDIT PASTE
+[2017.12.07-13.13.00:101][209]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift9)
+[2017.12.07-13.13.08:073][139]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_16)
+[2017.12.07-13.13.10:422][409]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_15)
+[2017.12.07-13.13.14:257][858]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_16)
+[2017.12.07-13.13.21:123][666]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_15)
+[2017.12.07-13.13.21:940][758]LogEditorViewport: Clicking on Actor (CTRL LMB): 2DLift_C (2DLift6)
+[2017.12.07-13.13.22:365][803]LogEditorViewport: Clicking on Actor (CTRL LMB): 2DLift_C (2DLift5)
+[2017.12.07-13.13.23:192][898]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_14)
+[2017.12.07-13.13.27:400][394]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite3)
+[2017.12.07-13.13.28:555][525]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite8)
+[2017.12.07-13.13.29:314][610]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_16)
+[2017.12.07-13.13.29:794][660]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_15)
+[2017.12.07-13.13.30:340][719]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift6)
+[2017.12.07-13.13.30:734][760]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift5)
+[2017.12.07-13.13.31:057][794]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2017.12.07-13.13.56:892][873]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift10)
+[2017.12.07-13.13.57:894][987]Cmd: EDIT COPY
+[2017.12.07-13.13.58:128][ 14]Cmd: EDIT PASTE
+[2017.12.07-13.14.08:533][217]Cmd: TRANSACTION UNDO
+[2017.12.07-13.14.08:533][217]LogEditorTransaction: Undo Set Rotation
+[2017.12.07-13.14.19:447][483]Cmd: TRANSACTION UNDO
+[2017.12.07-13.14.19:447][483]LogEditorTransaction: Undo Set Rotation
+[2017.12.07-13.14.21:114][662]Cmd: TRANSACTION UNDO
+[2017.12.07-13.14.21:114][662]LogEditorTransaction: Undo Set Rotation
+[2017.12.07-13.14.22:606][837]Cmd: TRANSACTION UNDO
+[2017.12.07-13.14.22:606][837]LogEditorTransaction: Undo Move Actors
+[2017.12.07-13.14.24:734][ 87]Cmd: TRANSACTION REDO
+[2017.12.07-13.14.24:735][ 87]LogEditorTransaction: Redo Move Actors
+[2017.12.07-13.14.38:363][682]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift8)
+[2017.12.07-13.14.43:328][256]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2017.12.07-13.14.48:062][802]Cmd: EDIT COPY
+[2017.12.07-13.14.48:969][908]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite3)
+[2017.12.07-13.14.49:578][974]Cmd: EDIT PASTE
+[2017.12.07-13.14.56:056][731]Cmd: EDIT PASTE
+[2017.12.07-13.15.00:346][232]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_20)
+[2017.12.07-13.15.01:574][371]Cmd: DELETE
+[2017.12.07-13.15.01:574][371]Cmd: ACTOR DELETE
+[2017.12.07-13.15.01:579][371]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.12.07-13.15.01:608][371]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2017.12.07-13.15.02:849][519]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_21)
+[2017.12.07-13.15.03:754][621]Cmd: DELETE
+[2017.12.07-13.15.03:754][621]Cmd: ACTOR DELETE
+[2017.12.07-13.15.03:757][621]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.12.07-13.15.03:772][621]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2017.12.07-13.15.32:539][ 36]LogSavePackage: Save=211.21ms
+[2017.12.07-13.15.32:539][ 36]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Level2_Auto2743383AD49D2CBAAA99CBEABC4053783.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Autosaves/Game/2DSideScrollerCPP/Maps/Level2_Auto2.umap'
+[2017.12.07-13.15.32:542][ 36]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Autosaves/Game/2DSideScrollerCPP/Maps/Level2_Auto2.umap
+[2017.12.07-13.15.32:547][ 36]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerCPP/Maps/Level2' took 0.266
+[2017.12.07-13.15.32:547][ 36]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.266
+[2017.12.07-13.23.19:735][ 90]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift8)
+[2017.12.07-13.23.21:391][282]Cmd: EDIT COPY
+[2017.12.07-13.23.21:633][310]Cmd: EDIT PASTE
+[2017.12.07-13.23.29:931][281]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift8)
+[2017.12.07-13.23.38:540][293]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift12)
+[2017.12.07-13.23.51:228][784]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift8)
+[2017.12.07-13.23.52:428][922]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift12)
+[2017.12.07-13.23.54:430][156]Cmd: EDIT COPY
+[2017.12.07-13.23.54:712][189]Cmd: EDIT PASTE
+[2017.12.07-13.23.55:637][293]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift9)
+[2017.12.07-13.23.58:034][554]Cmd: EDIT PASTE
+[2017.12.07-13.24.08:043][684]Cmd: TRANSACTION UNDO
+[2017.12.07-13.24.08:043][684]LogEditorTransaction: Undo Move Actors
+[2017.12.07-13.24.09:793][871]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift12)
+[2017.12.07-13.24.10:652][968]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift14)
+[2017.12.07-13.24.11:457][ 59]Cmd: EDIT COPY
+[2017.12.07-13.24.11:688][ 86]Cmd: EDIT PASTE
+[2017.12.07-13.24.14:685][439]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift12)
+[2017.12.07-13.24.45:002][962]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift11)
+[2017.12.07-13.24.46:052][ 82]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift10)
+[2017.12.07-13.25.32:779][584]LogSavePackage: Save=240.34ms
+[2017.12.07-13.25.32:779][584]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Level2_Auto32B292DCD431CE5EF30F062A212802555.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Autosaves/Game/2DSideScrollerCPP/Maps/Level2_Auto3.umap'
+[2017.12.07-13.25.32:782][584]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Autosaves/Game/2DSideScrollerCPP/Maps/Level2_Auto3.umap
+[2017.12.07-13.25.32:784][584]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerCPP/Maps/Level2' took 0.303
+[2017.12.07-13.25.32:784][584]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.303
+[2017.12.07-13.25.40:054][445]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift8)
+[2017.12.07-13.25.46:810][245]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2017.12.07-13.25.55:473][256]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite4)
+[2017.12.07-13.25.55:945][306]Cmd: TRANSACTION UNDO
+[2017.12.07-13.25.55:945][306]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.07-13.25.56:859][399]Cmd: TRANSACTION UNDO
+[2017.12.07-13.25.56:859][399]LogEditorTransaction: Undo Set Location
+[2017.12.07-13.25.58:151][550]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift8)
+[2017.12.07-13.26.00:223][790]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2017.12.07-13.26.05:137][357]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift5)
+[2017.12.07-13.26.22:659][402]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_15)
+[2017.12.07-13.26.28:875][118]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_16)
+[2017.12.07-13.26.37:675][144]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite4)
+[2017.12.07-13.26.39:787][371]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift9)
+[2017.12.07-13.26.49:488][521]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_16)
+[2017.12.07-13.26.50:182][596]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_15)
+[2017.12.07-13.26.50:661][646]LogEditorViewport: Clicking on Actor (CTRL LMB): 2DLift_C (2DLift6)
+[2017.12.07-13.26.51:049][687]LogEditorViewport: Clicking on Actor (CTRL LMB): 2DLift_C (2DLift5)
+[2017.12.07-13.26.51:531][740]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_14)
+[2017.12.07-13.26.55:074][148]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift7)
+[2017.12.07-13.26.58:447][537]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2017.12.07-13.26.59:098][606]LogEditorViewport: Clicking on Actor (CTRL LMB): 2DLift_C (2DLift5)
+[2017.12.07-13.26.59:693][671]LogEditorViewport: Clicking on Actor (CTRL LMB): 2DLift_C (2DLift6)
+[2017.12.07-13.27.00:149][720]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_15)
+[2017.12.07-13.27.00:542][762]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_16)
+[2017.12.07-13.27.04:207][189]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift7)
+[2017.12.07-13.27.06:908][490]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift9)
+[2017.12.07-13.27.14:679][398]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_16)
+[2017.12.07-13.27.15:722][515]Cmd: EDIT COPY
+[2017.12.07-13.27.15:965][542]Cmd: EDIT PASTE
+[2017.12.07-13.27.21:720][216]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift9)
+[2017.12.07-13.27.29:313][ 92]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift7)
+[2017.12.07-13.27.35:723][833]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_16)
+[2017.12.07-13.27.36:620][933]Cmd: EDIT COPY
+[2017.12.07-13.27.36:917][968]Cmd: EDIT PASTE
+[2017.12.07-13.27.42:508][622]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift7)
+[2017.12.07-13.27.50:083][519]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_21)
+[2017.12.07-13.27.51:109][634]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_16)
+[2017.12.07-13.27.52:377][779]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_21)
+[2017.12.07-13.27.53:569][915]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_16)
+[2017.12.07-13.27.55:799][173]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_20)
+[2017.12.07-13.27.56:866][293]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_16)
+[2017.12.07-13.28.10:881][950]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2017.12.07-13.28.12:121][ 91]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite3)
+[2017.12.07-13.28.13:450][242]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite8)
+[2017.12.07-13.28.14:441][353]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite9)
+[2017.12.07-13.28.15:909][485]LogSavePackage: Save=244.44ms
+[2017.12.07-13.28.15:909][485]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Level2D780AF8749606D30503276AA5894CD6B.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap'
+[2017.12.07-13.28.15:918][485]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap
+[2017.12.07-13.28.16:403][495]LogSavePackage: Save=246.65ms
+[2017.12.07-13.28.16:403][495]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Level252FAE88B4FE553D785892889A92E4E22.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap'
+[2017.12.07-13.28.16:404][495]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap
+[2017.12.07-13.30.01:932][465]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift8)
+[2017.12.07-13.30.05:361][839]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_with_ends_1_unit_Sprite)
+[2017.12.07-13.30.08:622][191]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift8)
+[2017.12.07-13.30.11:463][507]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_with_ends_1_unit_Sprite)
+[2017.12.07-13.30.12:581][622]Cmd: TRANSACTION UNDO
+[2017.12.07-13.30.12:581][622]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.07-13.30.13:802][741]Cmd: TRANSACTION UNDO
+[2017.12.07-13.30.13:802][741]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.07-13.30.14:492][816]Cmd: TRANSACTION UNDO
+[2017.12.07-13.30.14:492][816]LogEditorTransaction: Undo Set Location
+[2017.12.07-13.30.22:402][705]Cmd: EDIT COPY
+[2017.12.07-13.30.22:662][735]Cmd: EDIT PASTE
+[2017.12.07-13.30.25:800][ 89]Cmd: EDIT PASTE
+[2017.12.07-13.30.29:313][483]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift11)
+[2017.12.07-13.30.32:367][821]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_with_ends_1_unit_Sprite)
+[2017.12.07-13.30.34:911][107]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_with_ends_1_unit_Sprite2)
+[2017.12.07-13.30.37:862][441]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (platform_with_ends_1_unit_Sprite3)
+[2017.12.07-13.30.40:213][704]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift11)
+[2017.12.07-13.30.48:277][639]Cmd: EDIT COPY
+[2017.12.07-13.30.48:706][689]Cmd: EDIT PASTE
+[2017.12.07-13.31.10:853][145]LogSavePackage: Save=256.15ms
+[2017.12.07-13.31.10:853][145]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Level26136D97143A89112B980FB869CDF74EC.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap'
+[2017.12.07-13.31.10:856][145]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap
+[2017.12.07-13.31.11:786][242]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-13.31.11:810][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-13.31.11:810][242]PIE: New page: PIE session: Level2 (Dec 6, 2017, 11:31:11 PM)
+[2017.12.07-13.31.11:810][242]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2
+[2017.12.07-13.31.11:821][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010728s)
+[2017.12.07-13.31.11:821][242]LogAIModule: Creating AISystem for world Level2
+[2017.12.07-13.31.11:821][242]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2017.12.07-13.31.11:822][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level2.Level2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 (0.011766s)
+[2017.12.07-13.31.11:849][242]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-13.31.11:857][242]LogInit: FAudioDevice initialized.
+[2017.12.07-13.31.11:888][242]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.07-13.31.11:893][242]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2017.12.07-06.31.11
+[2017.12.07-13.31.11:894][242]LogWorld: Bringing up level for play took: 0.005681
+[2017.12.07-13.31.11:896][242]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2 -0.123
+[2017.12.07-13.33.27:879][519]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_18)
+[2017.12.07-13.33.29:268][673]Cmd: DELETE
+[2017.12.07-13.33.29:268][673]Cmd: ACTOR DELETE
+[2017.12.07-13.33.29:273][673]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.12.07-13.33.29:289][673]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2017.12.07-13.33.30:855][859]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_19)
+[2017.12.07-13.33.31:713][951]Cmd: DELETE
+[2017.12.07-13.33.31:713][951]Cmd: ACTOR DELETE
+[2017.12.07-13.33.31:717][951]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.12.07-13.33.31:732][951]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.12.07-13.33.47:135][741]LogSavePackage: Save=252.20ms
+[2017.12.07-13.33.47:135][741]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Level20C37A6BD4602196772B379BCBBFF2C0D.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap'
+[2017.12.07-13.33.47:147][741]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap
+[2017.12.07-13.38.14:858][109]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift2)
+[2017.12.07-13.38.17:392][393]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift3)
+[2017.12.07-13.38.19:413][617]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift6)
+[2017.12.07-13.38.20:430][726]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift4)
+[2017.12.07-13.38.21:746][872]Cmd: EDIT COPY
+[2017.12.07-13.38.22:075][909]Cmd: EDIT PASTE
+[2017.12.07-13.38.43:786][342]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift3)
+[2017.12.07-13.38.45:181][500]Cmd: DELETE
+[2017.12.07-13.38.45:181][500]Cmd: ACTOR DELETE
+[2017.12.07-13.38.45:186][500]LogEditorActor: Deleted Actor: 2DLift_C
+[2017.12.07-13.38.45:205][500]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2017.12.07-13.38.46:397][642]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift2)
+[2017.12.07-13.38.47:383][753]Cmd: DELETE
+[2017.12.07-13.38.47:383][753]Cmd: ACTOR DELETE
+[2017.12.07-13.38.47:387][753]LogEditorActor: Deleted Actor: 2DLift_C
+[2017.12.07-13.38.47:402][753]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.12.07-13.38.52:087][314]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift17)
+[2017.12.07-13.39.12:541][680]Cmd: EDIT COPY
+[2017.12.07-13.39.12:749][703]Cmd: EDIT PASTE
+[2017.12.07-13.39.25:665][197]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift17)
+[2017.12.07-13.39.27:023][353]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift18)
+[2017.12.07-13.39.30:446][749]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift17)
+[2017.12.07-13.39.31:994][926]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift18)
+[2017.12.07-13.39.35:589][345]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift17)
+[2017.12.07-13.39.50:233][ 52]Cmd: TRANSACTION UNDO
+[2017.12.07-13.39.50:233][ 52]LogEditorTransaction: Undo Set Location
+[2017.12.07-13.40.08:080][ 82]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift18)
+[2017.12.07-13.40.18:356][259]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift17)
+[2017.12.07-13.40.19:296][364]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift18)
+[2017.12.07-13.40.20:670][520]Cmd: EDIT COPY
+[2017.12.07-13.40.20:897][546]Cmd: EDIT PASTE
+[2017.12.07-13.40.31:524][737]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift18)
+[2017.12.07-13.40.34:350][ 45]Cmd: TRANSACTION UNDO
+[2017.12.07-13.40.34:350][ 45]LogEditorTransaction: Undo Move Actors
+[2017.12.07-13.40.46:858][435]Cmd: EDIT COPY
+[2017.12.07-13.40.47:077][460]Cmd: EDIT PASTE
+[2017.12.07-13.41.00:250][955]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift20)
+[2017.12.07-13.41.01:430][ 91]Cmd: EDIT COPY
+[2017.12.07-13.41.01:630][114]Cmd: EDIT PASTE
+[2017.12.07-13.41.22:757][493]Cmd: EDIT COPY
+[2017.12.07-13.41.22:993][520]Cmd: EDIT PASTE
+[2017.12.07-13.41.27:150][983]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift21)
+[2017.12.07-13.41.28:527][140]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift22)
+[2017.12.07-13.41.47:901][380]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift21)
+[2017.12.07-13.41.48:871][488]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift22)
+[2017.12.07-13.41.49:408][546]LogEditorViewport: Clicking on Actor (CTRL LMB): 2DLift_C (2DLift21)
+[2017.12.07-13.41.49:889][597]LogEditorViewport: Clicking on Actor (CTRL LMB): 2DLift_C (2DLift20)
+[2017.12.07-13.41.50:331][644]LogEditorViewport: Clicking on Actor (CTRL LMB): 2DLift_C (2DLift19)
+[2017.12.07-13.41.50:689][681]LogEditorViewport: Clicking on Actor (CTRL LMB): 2DLift_C (2DLift18)
+[2017.12.07-13.41.50:993][711]LogEditorViewport: Clicking on Actor (CTRL LMB): 2DLift_C (2DLift17)
+[2017.12.07-13.42.02:768][908]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift18)
+[2017.12.07-13.42.04:255][ 76]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift17)
+[2017.12.07-13.42.05:954][271]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift18)
+[2017.12.07-13.42.07:814][484]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift19)
+[2017.12.07-13.42.08:353][542]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift20)
+[2017.12.07-13.42.08:742][583]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift21)
+[2017.12.07-13.42.09:097][618]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift22)
+[2017.12.07-13.42.09:896][705]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift17)
+[2017.12.07-13.42.11:259][860]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift18)
+[2017.12.07-13.42.12:622][ 15]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift17)
+[2017.12.07-13.42.20:658][937]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift18)
+[2017.12.07-13.42.24:730][395]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift19)
+[2017.12.07-13.42.29:157][897]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift20)
+[2017.12.07-13.42.33:334][365]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift21)
+[2017.12.07-13.42.52:269][494]LogSavePackage: Save=288.24ms
+[2017.12.07-13.42.52:269][494]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Level2477E4C7B4F0CC81405DAA7B5F72F4FA4.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap'
+[2017.12.07-13.42.52:273][494]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap
+[2017.12.07-13.42.56:053][917]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2017.12.07-13.42.57:245][ 50]Cmd: DELETE
+[2017.12.07-13.42.57:245][ 50]Cmd: ACTOR DELETE
+[2017.12.07-13.42.57:249][ 50]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.12.07-13.42.57:264][ 50]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.12.07-13.42.59:490][316]LogEditorViewport: Clicking on Actor (LMB): 2DLift_C (2DLift4)
+[2017.12.07-13.43.01:260][516]Cmd: EDIT COPY
+[2017.12.07-13.43.01:494][543]Cmd: EDIT PASTE
+[2017.12.07-13.43.30:872][862]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-13.43.30:896][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-13.43.30:896][862]PIE: New page: PIE session: Level2 (Dec 6, 2017, 11:43:30 PM)
+[2017.12.07-13.43.30:896][862]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2
+[2017.12.07-13.43.30:908][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011769s)
+[2017.12.07-13.43.30:908][862]LogAIModule: Creating AISystem for world Level2
+[2017.12.07-13.43.30:908][862]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2017.12.07-13.43.30:909][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level2.Level2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 (0.012732s)
+[2017.12.07-13.43.30:941][862]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-13.43.30:949][862]LogInit: FAudioDevice initialized.
+[2017.12.07-13.43.30:982][862]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.07-13.43.30:988][862]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2017.12.07-06.43.30
+[2017.12.07-13.43.30:988][862]LogWorld: Bringing up level for play took: 0.005611
+[2017.12.07-13.43.30:990][862]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level2 0.98
+[2017.12.07-13.44.13:293][894]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint)
+[2017.12.07-13.47.16:015][811]Cmd: TRANSACTION UNDO
+[2017.12.07-13.47.16:015][811]LogEditorTransaction: Undo Move Actors
+[2017.12.07-13.47.16:817][893]Cmd: TRANSACTION UNDO
+[2017.12.07-13.47.16:817][893]LogEditorTransaction: Undo Scale Actors
+[2017.12.07-13.47.19:106][158]Cmd: TRANSACTION UNDO
+[2017.12.07-13.47.19:106][158]LogEditorTransaction: Undo Create Actors
+[2017.12.07-13.47.24:979][810]Cmd: TRANSACTION UNDO
+[2017.12.07-13.47.24:979][810]LogEditorTransaction: Undo Create Actors
+[2017.12.07-13.47.36:179][ 49]Cmd: TRANSACTION UNDO
+[2017.12.07-13.47.36:179][ 49]LogEditorTransaction: Undo Create Actors
+[2017.12.07-13.48.23:560][488]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite7)
+[2017.12.07-13.48.24:542][590]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite2)
+[2017.12.07-13.48.25:642][674]LogSavePackage: Save=290.77ms
+[2017.12.07-13.48.25:642][674]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Level2B31667A44AECABE1F335EC94B12435E2.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap'
+[2017.12.07-13.48.25:646][674]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap
+[2017.12.07-13.48.26:155][683]LogSavePackage: Save=291.67ms
+[2017.12.07-13.48.26:155][683]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Level24DDC5D604BE547D4EA8AE6A054C09B0D.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap'
+[2017.12.07-13.48.26:158][683]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level2.umap
